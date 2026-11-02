@@ -1,0 +1,1398 @@
+        Case 1:26-cv-14436       Document 1   Filed 09/29/26   Page 1 of 26
+
+
+
+
+                         UNITED STATES DISTRICT COURT
+                          DISTRICT OF MASSACHUSETTS
+
+AMERICAN FEDERATION OF                        CASE NO. ___________
+GOVERNMENT EMPLOYEES LOCAL 3428;
+AMERICAN FEDERATION OF                        COMPLAINT FOR
+GOVERNMENT EMPLOYEES, AFL-CIO,                DECLARATORY AND
+COUNCIL 238,                                  INJUNCTIVE RELIEF
+
+                              Plaintiffs,
+
+  v.
+
+LEE ZELDIN, in his official capacity as
+Administrator of Environmental Protection
+Agency; U.S. ENVIRONMENTAL
+PROTECTION AGENCY,
+
+                              Defendants.
+            Case 1:26-cv-14436       Document 1        Filed 09/29/26      Page 2 of 26
+
+
+
+
+                                        INTRODUCTION
+
+       1.      This lawsuit challenges Defendants’ unlawful termination of Plaintiffs’ collective
+
+bargaining agreement.
+
+       2.      Plaintiffs are labor organizations representing thousands of federal employees at
+
+the U.S. Environmental Protection Agency (“EPA” or “Agency”). While the dedicated civil
+
+servants represented by Plaintiffs are working hard every day to advance the Agency’s mission
+
+to protect human health and the environment, the Agency has turned its back on them,
+
+unlawfully eliminating their workplace protections and stifling their free speech rights.
+
+       3.      In 1978, based on its express finding that “labor organizations and collective
+
+bargaining in the civil service are in the public interest,” Congress enacted the Federal Service
+
+Labor-Management Relations Statute, which established a comprehensive labor-management
+
+relations framework governing the federal workforce. 5 U.S.C. § 7101 et seq. (“Chapter 71”).
+
+For decades, consistent with this statutory framework, Plaintiffs’ members have served their
+
+country while exercising their rights to join a labor union and collectively bargain over their
+
+working conditions.
+
+       4.      On June 14, 2024, EPA entered into a new collective bargaining agreement with
+
+Plaintiffs with a term of June 14, 2024 through June 30, 2028 (“2024 CBA”). See Exhibit 1. The
+
+new contract was designed to ensure that EPA employees could continue to do their work
+
+protecting human health and the environment regardless of who is in power in Washington.
+
+       5.      To that end, the 2024 CBA included an important new first-of-its-kind “scientific
+
+integrity” provision, which prevents the Agency from retaliating against scientists whose
+
+findings differ from the political aims of the current President and protects a core value of the
+
+EPA that policy follows the science and not vice versa.
+
+
+
+                                                 1
+            Case 1:26-cv-14436        Document 1       Filed 09/29/26      Page 3 of 26
+
+
+
+
+       6.      On March 27, 2025, President Trump issued Executive Order 14251 (the
+
+“Exclusion Order”), which purported to apply the national security exemption contained in 5
+
+U.S.C. § 7103(b) to exclude hundreds-of-thousands of employees at a wide swath of federal
+
+agencies from the protections of federal labor law. The EPA was encompassed within the scope
+
+of the Exclusion Order, but the Exclusion Order did not require any agency to terminate an
+
+existing CBA nor did EPA seek to terminate the 2024 CBA at that time.
+
+       7.      On August 8, 2025, the Agency abruptly decided, without warning, to terminate
+
+the 2024 CBA effective immediately. The Agency’s actions caused substantial harm to Plaintiffs
+
+and their members as numerous rights and benefits enshrined in the CBA were wiped out.
+
+       8.      Defendants’ termination of the 2024 CBA was unlawful for multiple reasons.
+
+First, the Agency failed to provide a reasoned explanation for the sudden elimination of
+
+Plaintiffs’ contractual rights. While the Agency referenced the Exclusion Order, that Order had
+
+been issued over four months earlier, and by the government’s own admission, did not require
+
+agencies like EPA to terminate existing CBAs. Rather, according to the government, agencies
+
+“may choose” whether to terminate a CBA. If an agency chooses to take such action, it must at a
+
+minimum comply with the requirements of the Administrative Procedure Act (“APA”) for
+
+reasoned decision making.
+
+       9.      EPA’s termination of the CBA violated the most basic requirements of reasoned
+
+decision-making under the APA. EPA did not provide any reasoned explanation for its August 8,
+
+2025 decision to terminate the CBA, effective immediately, months following the issuance of the
+
+Exclusion Order. Nor did EPA consider reasonable alternatives, such as allowing the CBA to run
+
+at least through its current term. And, EPA entirely failed to consider the reliance interests of
+
+
+
+
+                                                  2
+          Case 1:26-cv-14436         Document 1        Filed 09/29/26      Page 4 of 26
+
+
+
+
+union members jeopardized by suddenly pulling the plug on union protections upon which
+
+members were actively relying.
+
+       10.     Second, the termination of the 2024 CBA violated the First Amendment. The
+
+timing and factual circumstances surrounding the termination of the 2024 CBA demonstrate that
+
+Defendants’ actions were motivated by the desire to stifle political dissent at the Agency against
+
+President Trump’s agenda – a desire expressed publicly by Administrator Lee Zeldin just one a
+
+month before the CBA was terminated.
+
+       11.     Plaintiffs and their members have engaged in extensive speech and petitioning
+
+activity critical of the Administration’s policies with respect to the EPA, including signing on to
+
+a Letter of Dissent that was published in June 2025 and raised concerns that Administration
+
+policies were undermining the EPA’s scientific mission to protect human health and the
+
+environment.
+
+       12.     Although Administrator Zeldin immediately lashed out in the press against those
+
+who had signed the letter and stressed there would be “zero tolerance” for such views, the
+
+Agency did not take disciplinary action against those who had signed the Letter of Dissent until
+
+after the Agency terminated the CBA, which eliminated contractual safeguards and remedies
+
+bargaining unit employees had under the CBA protecting them against retaliation for raising
+
+concerns about political interference with the Agency’s scientific work.
+
+       13.     Supreme Court precedent makes clear that even if the Exclusion Order were
+
+lawful, a question not raised in this case, and even if EPA was not legally required to maintain a
+
+CBA with the union, the Agency had to comply with the APA’s reasoned decision-making
+
+requirements in terminating the existing agreement. Moreover, under no circumstances is the
+
+Agency permitted to terminate the CBA in order to suppress protected speech or retaliate against
+
+
+
+                                                 3
+           Case 1:26-cv-14436          Document 1        Filed 09/29/26       Page 5 of 26
+
+
+
+
+those who voiced concerns over the Administration’s policies. Defendants’ unreasoned and
+
+pretextual termination of the CBA violated both the APA and the First Amendment and must be
+
+set aside as unlawful.
+
+                                  JURISDICTION AND VENUE
+
+        14.     This Court has jurisdiction under 28 U.S.C. § 1331 because the claims arise under
+
+the laws of the United States, and under 28 U.S.C. § 1346(a)(2) because Defendants are a United
+
+States agency and official.
+
+        15.     Plaintiffs seek a declaratory judgment pursuant to 28 U.S.C. § 2201.
+
+        16.     Venue is proper in this district under 28 U.S.C. § 1391(e) because Plaintiff AFGE
+
+Local 3428 resides here and also because a substantial part of the events or omissions giving rise
+
+to the claim occurred here.
+
+                                              PARTIES
+
+        17.     Plaintiff AFGE Local 3428 (“Local 3428”) is a labor organization headquartered
+
+at 80 Smith St., Unit A5, Lowell, MA 01851. Local 3428 represents hundreds of EPA employees
+
+in this District, including scientists, engineers, attorneys, public affairs specialists, grants and
+
+contract specialists, and support staff.
+
+        18.     Plaintiff AFGE Council 238 (“Council 238”) is a labor organization
+
+headquartered at 1717 N. Akard Street #130, Dallas, Texas 75201. Council 238 was established
+
+in 1980 and represents employees at EPA across the United States in a variety of fields.
+
+        19.     Plaintiffs’ members include biologists, engineers, chemists, lab technicians,
+
+lawyers, and scientists who work every day to ensure that Americans across the country have
+
+access to clean air and drinking water. Plaintiffs bring this action on behalf of themselves as
+
+
+
+
+                                                   4
+            Case 1:26-cv-14436        Document 1       Filed 09/29/26      Page 6 of 26
+
+
+
+
+organizations and on behalf of their members, who have lost contractual protections at work due
+
+to the termination of the 2024 CBA.
+
+       20.     Defendant EPA is a federal agency of the United States.
+
+       21.     Defendant Lee Zeldin is the Administrator of EPA. He is sued in his official
+
+capacity.
+
+                                  FACTUAL BACKGROUND
+
+I.     Federal Employees at the EPA Have Had the Right to Join Labor Unions and
+       Collectively Bargain for Decades
+
+       22.     In 1978, Congress enacted the Federal Service Labor-Management Relations
+
+Statute (“FSLMRS”), which established a comprehensive framework governing collective
+
+bargaining for federal civil service employees. The FSLMRS is contained within Title VII of the
+
+Civil Service Reform Act of 1978 (“CSRA”) and codified as Chapter 71 of Title 5 of the U.S.
+
+Code (“Chapter 71”).
+
+       23.     In enacting the CSRA, Congress expressly found that “the statutory protection of
+
+the right of employees to organize, bargain collectively, and participate through labor
+
+organizations of their own choosing in decisions which affect them . . . safeguards the public
+
+interest” and “contributes to the effective conduct of public business,” and therefore “labor
+
+organizations and collective bargaining in the civil service are in the public interest.” 5 U.S.C. §
+
+7101(a).
+
+       24.     Chapter 71 guarantees employees “the right to form, join, or assist any labor
+
+organization, or to refrain from any such activity.” 5 U.S.C. § 7102.
+
+       25.     Chapter 71 also guarantees employees the right to “engage in collective
+
+bargaining with respect to conditions of employment through representatives chosen by
+
+employees under this chapter.” 5 U.S.C. § 7102(2).
+
+
+                                                  5
+           Case 1:26-cv-14436         Document 1        Filed 09/29/26      Page 7 of 26
+
+
+
+
+       26.     Chapter 71 requires agencies to “accord exclusive recognition to a labor
+
+organization if the organization has been selected as the representative, in a secret ballot election,
+
+by a majority of the employees in an appropriate unit who cast valid ballots in the election.” 5
+
+U.S.C. § 7111(a).
+
+       27.     Once labor organizations are certified as exclusive representatives, they must act
+
+for “all employees in the unit” and are required to represent the interests of all such employees
+
+“without discrimination and without regard to labor organization membership.” 5 U.S.C. §
+
+7114(a)(1).
+
+       28.     Pursuant to the rights granted by Congress in Chapter 71, federal employees at the
+
+EPA and other agencies excluded by the Exclusion Order have a long history of joining labor
+
+organizations and collectively bargaining with their employers.
+
+       29.     Employees at the EPA have exercised their right to join labor unions and
+
+collectively bargain with their employer for over 40 years. Council 238 is an independent
+
+bargaining council formed in 1980. Today, it represents over 8,000 employees at the EPA across
+
+the United States. Local 3428 is a local union member of Council 238 representing EPA
+
+employees in this District. For decades, Plaintiffs have represented EPA employees by, inter
+
+alia, negotiating a collective bargaining agreement and successor agreements, arbitrating
+
+grievances brought pursuant to the negotiated grievance procedure, representing employees in
+
+formal discussions or investigative examinations, litigating employees’ collective and individual
+
+rights before administrative agencies and in court, advocating for improved working conditions,
+
+and generally acting as their exclusive representative.
+
+       30.     Plaintiffs’ most recent CBA with EPA was effectuated on June 14, 2024 and runs
+
+through June 30, 2028.
+
+
+
+                                                  6
+          Case 1:26-cv-14436         Document 1       Filed 09/29/26       Page 8 of 26
+
+
+
+
+       31.     The CBA guaranteed important rights and protections for EPA employees. For
+
+example, the CBA:
+
+               a. Set important terms and conditions for overtime, sick leave, funeral leave,
+
+                  military leave, holidays, and other types of leave for workers in the unit;
+
+               b. Imposed safety and health requirements to ensure the welfare of workers in
+
+                  their place of employment;
+
+               c. Established protections for workers regarding reduction-in-force actions and
+
+                  procedures;
+
+               d. Imposed procedures for and limitations on disciplinary and adverse actions
+
+                  against workers;
+
+               e. Provided for an Employee Assistance Program for individuals experiencing
+
+                  health or personal concerns including alcohol or drug abuse, bereavement,
+
+                  crisis intervention, stress, health, family and marital crises, work-life balance,
+
+                  financial issues, and other situations;
+
+               f. Established grievance and arbitration procedures to resolve disputes with the
+
+                  Agency over employment matters; and
+
+               g. Created a new “scientific integrity” article that established procedures and
+
+                  safeguards to prevent inappropriate interference in scientific work.
+
+       32.     The CBA was the product of years of negotiations to safeguard essential rights for
+
+bargaining unit members.
+
+       33.     One of the most important rights under the CBA is official time. Plaintiffs have
+
+historically used official time authorized by 5 U.S.C. § 7131 or their CBA to engage in
+
+
+
+
+                                                 7
+             Case 1:26-cv-14436        Document 1        Filed 09/29/26         Page 9 of 26
+
+
+
+
+expressive activities such as the representation of their fellow employees in agency-initiated
+
+disciplinary proceedings or investigations.
+
+          34.    Plaintiff representatives have also engaged in union activities while off duty,
+
+including legislative advocacy and lobbying at the federal level on behalf of their members to
+
+raise issues impacting EPA employees.
+
+II.       The President Exempts Certain Agencies from the FSLMRS but Does Not Require
+          Termination of CBAs
+
+          35.    On March 27, 2025, President Trump issued Executive Order 14251, which
+
+exempted dozens of federal agencies from the requirements of the FSLMRS, 1 purportedly
+                                                                                   0F
+
+
+
+
+because those agencies had “as a primary function intelligence, counterintelligence,
+
+investigative, or national security work” and the FSLMRS could not be “applied to” the agencies
+
+“in a manner consistent with national security requirements and considerations.” EO 14251, §§
+
+1(a), 2; see 5 U.S.C. § 7103(b).
+
+          36.    EPA, including its local offices, is one of the agencies that the President sought to
+
+exempt from the FSLMRS’s coverage under the Exclusion Order. See EO 14251§ 2(b).
+
+          37.    The White House Fact Sheet issued with the Exclusion Order explained that the
+
+Exclusion Order was designed to target unions who were deemed to be “hostile” to “President
+
+Trump’s agenda.”
+
+          38.    Whether the Exclusion Order was a valid exercise of the President’s authority
+
+under 5 U.S.C. § 7103(b) is the subject of separate litigation. The Exclusion Order did not,
+
+however, state that agencies were compelled to terminate extant CBAs and did not mandate that
+
+the EPA CBA be terminated before its expiration date. Rather, statements from the
+
+
+
+
+1
+    See chapter 71 of part III, subpart F of title 5 (5 U.S.C. §§ 7101–7135).
+                                                   8
+            Case 1:26-cv-14436               Document 1   Filed 09/29/26       Page 10 of 26
+
+
+
+
+Administration issued contemporaneously with the Exclusion Order confirmed that agencies
+
+were not required to terminate extant CBAs.
+
+          39.        On March 27, 2025, OPM released a guidance document that informed agencies
+
+that they should not take certain actions that were contrary to the terms of existing collective
+
+bargaining agreements until after those agreements were terminated. 2 Shortly thereafter, OPM
+                                                                          1F
+
+
+
+
+published a “Frequently Asked Questions” document advising agencies not to terminate any
+
+CBAs “until the conclusion of litigation or further guidance from OPM directing such
+
+termination.” 3 2F
+
+
+
+
+          40.        OPM later updated that guidance on August 13, 2025 – six days after Defendants
+
+terminated the 2024 CBA – but even so did not direct agencies to terminate their CBAs. Rather,
+
+it stated that agencies “may choose to terminate, abrogate, or repudiate CBAs with [non-NTEU]
+
+unions, and should consult with their General Counsels to assess next steps regarding those
+
+CBAs.” See AFGE v. Trump, No. 25-4014, Dkt. No. 34-1 (9th Cir. Aug. 14, 2025) (emphasis
+
+added).
+
+          41.        The Exclusion Order is currently the subject of multiple lawsuits challenging the
+
+constitutional and statutory validity of that Order, including a lawsuit filed in April 2025 by the
+
+American Federation of Government Employees and other national and international unions in
+
+the Northern District of California. 4 Plaintiffs are not parties to that lawsuit. The plaintiffs in the
+                                        3F
+
+
+
+
+Northern District of California lawsuit brought constitutional and ultra vires claims challenging
+
+
+
+
+2
+  March 27 Memorandum from OPM Acting Director to Head and Acting Heads of Agencies
+and Departments, https://perma.cc/H5SN-T5FZ (“March 27 OPM Guidance”).
+3
+  Frequently Asked Questions, Executive Order 14251, https://perma.cc/38KJ-Z7TN.
+4
+  AFGE v. Trump, No. 4:25-cv-3070, Dkt. No. 1 (N.D. Cal. Apr. 3, 2025).
+                                                      9
+          Case 1:26-cv-14436        Document 1       Filed 09/29/26      Page 11 of 26
+
+
+
+
+the legality of the Exclusion Order, and did not bring any claims under the APA challenging the
+
+termination of the 2024 CBA, which occurred after the filing of that litigation.
+
+III.   EPA Does Not Terminate Its CBA for Over Four Months After the Exclusion Order
+       and Takes Actions Consistent with the Terms of the CBA During that Time
+
+       42.     After the Exclusion Order was promulgated, the EPA did not immediately
+
+terminate its CBA with Plaintiffs. Rather, over four months passed before Defendants terminated
+
+the 2024 CBA.
+
+       43.     In the months following the Exclusion Order, EPA continued to engage in actions
+
+required by the CBA, including citing various CBA requirements as the basis for its actions.
+
+       44.     For example, in April 2025, Agency officials sent notice to union representatives
+
+of its stated intent to conduct a reduction-in-force at the Agency. In addition, Agency
+
+management continued to allow union representatives to represent employees in conversations
+
+with management, continued to authorize official time, continued to process grievances and
+
+engage in arbitration, and continued to respond to requests for information from the union.
+
+       45.     At no point prior to the August 8 termination of the CBA did Agency
+
+management advise Plaintiffs that complying with the EPA’s contractual obligations interfered
+
+with national security requirements or considerations.
+
+IV.    Plaintiffs and Their Members Engage in Speech and Petitioning Activity Opposing
+       Attempts to Politicize the Scientific Mission of the EPA
+
+       46.     During the first Trump Administration, Plaintiffs frequently voiced opposition to
+
+Administration policies that sought to politicize the EPA’s scientific work and undermined the
+
+mission of the Agency.
+
+       47.     For instance, Council 238 created a campaign supporting an EPA workers bill of
+
+rights during the first Trump administration, which articulated ten rights for EPA employees,
+
+including the right to scientific integrity in EPA work, the right to enforce environment laws
+
+                                                10
+          Case 1:26-cv-14436         Document 1        Filed 09/29/26      Page 12 of 26
+
+
+
+
+without political interference, and the right to support EPA's mission without fear of reprisal.
+
+Plaintiffs were also publicly critical of the Trump Administration during the 2018 government
+
+shutdown, with union officials repeatedly stressing the harmful impacts of the President’s
+
+decisions on both EPA employees and the environmental health and safety work of the Agency.
+
+       48.     The Administration in response sought to repudiate Plaintiffs’ CBA and replace it
+
+with a series of unilateral management directives. Plaintiffs filed an unfair labor practice charge
+
+with the Federal Labor Relations Authority challenging the Agency’s actions, and the directives
+
+were subsequently withdrawn following the 2020 election.
+
+       49.     As a result of the political interference and retaliation experienced during the first
+
+Trump Administration, when the 2024 CBA was being negotiated, Plaintiffs proposed adding a
+
+new “scientific integrity” provision to the CBA. This provision would add specific contractual
+
+protections to ensure that EPA employees could fulfill the mission of the Agency to address
+
+climate change and protect the environment without political interference.
+
+       50.     This new provision became Article 2 of the 2024 CBA (“Scientific Integrity
+
+Article”). The Scientific Integrity Article expressly stated at the outset that the goal of this new
+
+provision was to “empower Agency management and staff to prevent inappropriate interference
+
+in scientific work” and ensure the “use of sound science in Agency decision making.” The
+
+Scientific Integrity Article specifically provided that employees who made “good faith reports”
+
+under this provision “shall not be subject to retribution, reprisal, or retaliation by the Agency.”
+
+The Scientific Integrity Article also expressly reiterated employees’ ability to “generally
+
+participate in the free flow of scientific information” in their personal capacity “by discussing
+
+their work at conferences, meetings, and with the press, provided that they do not misuse their
+
+
+
+
+                                                  11
+          Case 1:26-cv-14436          Document 1        Filed 09/29/26      Page 13 of 26
+
+
+
+
+federal positions by inappropriately using their official titles, sharing nonpublic information, or
+
+implying that the Agency or the United States government sanctions their opinion.”
+
+        51.     By including specific whistleblower protections for employees who report
+
+scientific misconduct or suspected violation of the Agency’s scientific integrity policy, the
+
+Scientific Integrity Article would ensure EPA workers could perform their work and advance the
+
+scientific mission of the Agency without fear, intimidation, or retaliation. In addition, because
+
+the rights and protections set forth in the Scientific Integrity Article were enshrined in the CBA,
+
+actions by the Agency that violated those rights could be challenged by Plaintiffs through the
+
+CBA’s grievance process, which ultimately would require the Agency to justify its conduct to an
+
+independent arbitrator.
+
+        52.     At the time the new CBA was signed, Council 238 stated that the purpose of the
+
+Scientific Integrity Article was to provide “protections for any employee asserting their scientific
+
+rights.” Noting President Trump’s attacks on science during his first Administration, Council 238
+
+highlighted the fact that an “independent arbiter, not a political appointee, will determine
+
+whether science is being undermined.” 5  4F
+
+
+
+
+        53.     AFGE Local 704 President Nicole Cantello similarly stated that the Scientific
+
+Integrity Article would protect EPA employees from politically-motivated retribution for
+
+pursuing science-based work. Otherwise, “there would be nowhere for an employee to go if
+
+they’re retaliated against for speaking up for science or scientific integrity.” 6
+                                                                                5F
+
+
+
+
+5
+  Press Release: AFGE Council 238 Reaches New Contract with the EPA, AFGE Council 238
+(May. 30, 2024), https://perma.cc/5XCZ-J23B.
+6
+  Erich Wagner, EPA Union Ratifies Contract to Protect Employees’ Scientific Integrity,
+Government Executive (June 4, 2024), https://perma.cc/QW69-M6H9.
+                                                  12
+          Case 1:26-cv-14436           Document 1       Filed 09/29/26     Page 14 of 26
+
+
+
+
+       54.        After President Trump returned to office in January 2025, Plaintiffs and their
+
+members continued to voice concerns and push back against Agency leadership and the Trump
+
+Administration generally.
+
+       55.        In February of 2025, when the Trump Administration rolled back telework and
+
+remote work, Nicole Cantello, President of AFGE Local 704, spoke with the media and said that
+
+the union is examining legal options to “vigorously defend the contract.” 7 The Union then did
+                                                                            6F
+
+
+
+
+just that, filing two grievances with the Agency: one on telework and one on remote work in
+
+February 2025. 8  7F
+
+
+
+
+       56.        Also in February 2025, Plaintiffs engaged in lobbying and advocacy work on
+
+behalf of its members to discuss issues facing its members, including the need to fully staff and
+
+fund the EPA’s work.
+
+       57.        On March 25, 2025, Plaintiffs and their members participated in marches in
+
+Philadelphia, New York, Boston, Chicago, Dallas, Seattle, and Anchorage to protest staffing cuts
+
+to the Agency and the rollback of regulations that protect the health of Americans and their
+
+environment. 9
+             8F
+
+
+
+
+       58.        Brad Starnes, President of AFGE Local 3631, was quoted in an article about the
+
+protest describing the proposed staffing cuts as a “reckless dismantling.” He organized the
+
+Philadelphia protest to occur during employees’ lunch break. 10 9F
+
+
+
+
+7
+  Erich Wagner, EPA Orders Most Workers Back Within Weeks, Breaking Union Covenants,
+Government Executive (Feb. 12, 2025), https://perma.cc/QP5E-TQA4.
+8
+  Kevin Bogardus, EPA Union Challenges Trump’s Ban on Telework, E&E News (Feb. 18,
+2025), https://perma.cc/34K3-C44P.
+9
+  Largest EPA Union Holds Nationwide Action, March Against Attack on Agency, AFGE
+Council 238 (Mar. 26, 2025), https://perma.cc/G5ZV-JX8S.
+10
+   Samantha Maldonado, NYC EPA Workesr Decry Trump Cuts at Lunchtime Walkout, The
+City Reporter (Mar. 25, 2025), https://perma.cc/H9LK-HTKD.
+                                                  13
+          Case 1:26-cv-14436          Document 1        Filed 09/29/26   Page 15 of 26
+
+
+
+
+        59.      Andrew Kreider, member of Local 3631, was quoted in an article about the
+
+protest, criticizing staffing cuts and the termination of grants. 11
+                                                                 10F
+
+
+
+
+        60.      Ed Guster, President of AFGE Local 3911, was also quoted in an article about the
+
+marches stating “[w]e’re fighting for keeping federal employees in their offices doing their jobs,
+
+making sure that we’re protecting the environment, protecting the air, protecting the land,
+
+protecting the water.” Id.
+
+        61.      On April 22, 2025, Joyce Howell, Executive Vice President of AFGE Council
+
+238, released a statement condemning Administrator Zeldin’s plan to eliminate Environmental
+
+Justice workers at the Agency. 12 In that statement, she said “AFGE Council 238 remains
+                                11F
+
+
+
+
+committed to fighting back against the Trump administration’s efforts to dismantle the EPA.”
+
+        62.      In June of 2025, a union steward with AFGE Local 704 – one of the local unions
+
+that comprise Council 238 – organized a letter that voiced opposition to Administration policies
+
+(“Dissent Letter”). The Dissent Letter was signed by hundreds of current and former employees
+
+of the Agency and sent to Administrator Zeldin and Congress.
+
+        63.      Citing numerous examples, the Dissent Letter raised concerns that Administration
+
+policies were undermining the EPA’s mission to protect human health and the environment,
+
+abandoning the Agency’s commitment to science-based decision-making, and endangering
+
+public health.
+
+        64.      In total, over 100 bargaining unit employees represented by Plaintiffs and covered
+
+by the 2024 CBA, signed the Dissent Letter.
+
+
+
+
+11
+   Sophia Schmidt,‘A Reckless Dismantling’: EPA Employees and Supporters March in Philly to
+Protest Cuts, WHYY (Mar. 26, 2025), https://perma.cc/7KAL-RVTH.
+12
+   Largest EPA Union Condemns Trump Plan to Eliminate Environmental Justice Workers at
+Agency, AFGE Council 238 (Apr. 22, 2025), https://perma.cc/JJ2Y-DUET.
+                                                   14
+          Case 1:26-cv-14436          Document 1               Filed 09/29/26   Page 16 of 26
+
+
+
+
+        65.     AFGE Local 3428’s President publicly stated that those who signed the Dissent
+
+Letter were fulfilling their duty to “uphold the mission of the EPA to protect human health and
+
+the environment, which is something our current administration is not doing when they roll back
+
+clean air regulations when they cancel funding for clean up sites in overburdened communities.
+
+It is the responsibility of our staff to speak up so that the public does not suffer.” 13
+                                                                                      12F
+
+
+
+
+        66.     Agency officials, including the Agency’s ethics office, acknowledged that the
+
+Dissent Letter was protected speech.
+
+V.      Defendants Terminate the 2024 CBA, Eliminating Workplace Protections and
+        Clearing Path to Punish Political Dissent
+
+        67.     Following the publication of the Dissent Letter, Administrator Zeldin made clear
+
+his desire to punish employees who voiced opposition to the Trump Administration and spoke
+
+out against actions by Agency leadership that undermined the Agency’s scientific mission.
+
+        68.     In a written statement to Breitbart News, Administrator Zeldin stated “[w]e have a
+
+ZERO tolerance policy for agency bureaucrats unlawfully undermining, sabotaging, and
+
+undercutting the agenda of this administration.” 1413F
+
+
+
+
+        69.     Administrator Zeldin went on Mornings with Maria and stated “if anyone wants
+
+to be inside of an agency like this, they better get on board with the fact that the American public
+
+spoke . . . if there are some employees here who want to get left behind that’s fine, they’re not
+
+going to be allowed to stay here undercutting this agenda . . . . Zero tolerance for any agency
+
+employees trying to undercut President Trump.” 15        14F
+
+
+
+
+13
+   Craig, LeMoult, EPA Employees Disciplined for Signing Letter Criticizing Agency’s Focus on
+Deregulation, WGBH Boston (Sept. 7, 2025), https://perma.cc/WKS6-PL9F.
+14
+   Sean Moran, ‘Zero Tolerance’: EPA Puts Rogue Minority of Staffers on Leave, Launches
+Investigation into Effort to Upend Will of American People, Breitbart (July 3, 2025),
+https://perma.cc/ATM7-N4FN.
+15
+   Fox Business, ‘ZERO TOLERANCE’: Lee Zeldin issues fiery response after EPA protest
+(YouTube, July 2, 2025), https://www.youtube.com/watch?v=QSUymy3AJY8.
+                                                   15
+          Case 1:26-cv-14436        Document 1            Filed 09/29/26   Page 17 of 26
+
+
+
+
+        70.    Plaintiffs’ CBA was an obstacle to achieving Defendants’ goal of stamping out
+
+political dissent and silencing employees who raised concerns about the direction of the Agency
+
+and its impact on the health and safety of the American public. The Agency had specifically
+
+expressed frustration with the workplace protections contained in the CBA that provided
+
+employees with recourse against arbitrary discipline and improper political intrusions into their
+
+work.
+
+        71.    On March 27, 2025, before the Exclusion Order was published, EPA and other
+
+federal agencies affirmatively filed suit in the Western District of Texas against numerous AFGE
+
+affiliates that represented employees at the agencies targeted by the Exclusion Order, including
+
+AFGE Council 238. 16 In its Complaint, the government specifically called out Plaintiffs’ CBA,
+                    15F
+
+
+
+
+lamenting that the “CBA includes numerous terms that materially restrict the power of EPA to
+
+govern and set policies for its own workforce.” 17 The first example that the government
+                                               16F
+
+
+
+
+highlighted was the Scientific Integrity Article, which the government stated was “designed to
+
+empower the agency’s career staff vis-à-vis political appointees and to prevent the Trump
+
+Administration from rolling back Biden Administration energy and climate policies.” 18 The
+                                                                                       17F
+
+
+
+
+government also stated in the Complaint that it believed the Exclusion Order authorized, but did
+
+not require, agencies to terminate existing CBAs.
+
+        72.    Ultimately, 139 employees were disciplined by the Agency for signing the
+
+Dissent Letter. But although this Letter was published in June and Administrator Zeldin
+
+
+
+
+16
+   See U.S. Dep’t of Def. v. AFGE, AFL-CIO, District 10, No. 6:25-cv-119, Dkt. No. 1 (W.D.
+Tex. Mar. 27, 2025).
+17
+   Id. at ¶ 112.
+18
+   Id.
+                                                     16
+            Case 1:26-cv-14436       Document 1       Filed 09/29/26      Page 18 of 26
+
+
+
+
+immediately declared that it was a top priority to punish those who had participated, the Agency
+
+let two months pass before doing so.
+
+          73.   Instead, on August 8, 2025, the Agency without warning terminated the 2024
+
+CBA. In its termination notice, the Agency cited an August 1 order from the U.S. Court of
+
+Appeals for the Ninth Circuit, which stayed a preliminary injunction of the Exclusion Order, that
+
+“the government ‘suffers irreparable harm . . . in the national security context’ because of the
+
+injunction,” and to “prevent irreparable harm to national security and consistent with the 9th
+
+Circuit Court decision noted above, the EPA determined it is necessary to terminate its contracts
+
+with AFGE.” See Exhibit 2. The Agency, however, gave no explanation for the fact that EPA had
+
+not terminated the CBA following issuance of the Exclusion Order, nor had there been any
+
+national security-related changed circumstances at EPA that would justify the need to terminate
+
+the CBA at that time. And although the termination of the CBA upended workplace protections
+
+and eliminated significant contractual rights, the Agency’s decision gave no consideration to the
+
+reliance interests of Plaintiffs and their members.
+
+          74.   In fact, the Agency’s termination notice was devoid of any facts that would
+
+support its claim that termination of the CBA was necessary to “prevent irreparable harm to
+
+national security.” The Agency provided no supporting rationale or explanation for this
+
+conclusory assertion. Nor did it cite any facts, events, actions, or changed circumstances that
+
+would explain why the scientific work performed by bargaining unit employees now suddenly
+
+implicated national security concerns after decades of AFGE union representation at the agency.
+
+          75.   Terminating the CBA was, however, necessary to ensure that the Agency could
+
+take its desired approach in punishing bargaining unit members who had signed the Dissent
+
+Letter.
+
+
+
+                                                 17
+          Case 1:26-cv-14436        Document 1       Filed 09/29/26      Page 19 of 26
+
+
+
+
+       76.     Under the terms of the CBA, employees are entitled to have union representatives
+
+present in disciplinary meetings with Agency officials and have the right to challenge any
+
+discipline imposed through the grievance process. The union further has the right to bring the
+
+matter before an impartial arbitrator, who has the power to order the Agency to reinstate
+
+terminated workers, award backpay, and other remedies. Furthermore, the Scientific Integrity
+
+Article in the CBA specifically protected employees who reported scientific integrity concerns as
+
+well as employees’ ability to engage in external communications and outside activities in their
+
+personal capacity.
+
+       77.     By terminating the CBA, these crucial protections were wiped out, paving the
+
+way for Defendants to punish political dissent and send a message to all employees that harsh
+
+consequences awaited those who dared voice concerns about the political undermining of the
+
+Agency’s scientific mission. In its CBA termination notice, the Agency specifically stated that
+
+the grievance arbitration procedures in the CBA were eliminated effective immediately. The
+
+Agency’s “Collective Bargaining Agreement Termination FAQs” similarly made note that the
+
+CBA’s due process and disciplinary protections no longer existed, expressly advising employees
+
+that they “have no entitlement to a union representative” in disciplinary meeting, all pending
+
+grievances “will be considered dismissed,” and decisions by independent arbitrators “will be
+
+treated as non-binding.” See Exhibit 3. The FAQs further advised employees that their only
+
+recourse now for workplace complaints is an “internal administrative grievance” – meaning only
+
+an appeal to the Agency itself.
+
+       78.     Soon after, the Agency issued discipline against those who had signed the Dissent
+
+Letter. Ultimately, at least 16 employees were fired and 119 others were given two-week
+
+suspensions without pay. Of the employees disciplined, 110 were covered by the 2024 CBA.
+
+
+
+                                                18
+          Case 1:26-cv-14436          Document 1        Filed 09/29/26       Page 20 of 26
+
+
+
+
+Because the disciplinary action was taken after the CBA was terminated, these employees were
+
+not permitted to have union representatives present in disciplinary meetings nor could they or
+
+Plaintiffs seek to challenge the discipline through the grievance arbitration process.
+
+VI.     Defendants’ Decision to Terminate the CBA Has Had the Desired Effect of
+        Suppressing Political Dissent and Chilling First Amendment Speech
+
+        79.     While the Agency failed to provide any factual support or reasoned explanation
+
+for its decision to terminate the 2024 CBA, it did reinforce one very clear message by its action:
+
+dissent would not be tolerated.
+
+        80.     No longer bound by the obligations of the CBA, the Agency proceeded to take
+
+further actions to quash dissent and chill employee speech.
+
+        81.     In its FAQs issued with the termination of the CBA, the Agency expressly said
+
+that it “advises extreme caution” against performing union activities even on non-duty time. See
+
+Exhibit 3.
+
+        82.     The Agency subsequently informed union officials, under the threat of discipline,
+
+that they had to seek preapproval from the ethics office to continue to engage in union activity as
+
+volunteers with AFGE even where done off duty, off government property, without government
+
+resources, and without compensation from the union.
+
+        83.     This requirement only arose because the CBA was terminated. The Director of the
+
+EPA Ethics Office stated that “any employee who had – prior to EPA’s termination of union
+
+contracts – served as a union officer in the previous year or had otherwise been engaged in
+
+representational activity under ‘official time’ . . . will fall under this requirement to seek prior
+
+approval.”
+
+
+
+
+                                                  19
+          Case 1:26-cv-14436            Document 1     Filed 09/29/26       Page 21 of 26
+
+
+
+
+        84.     This preapproval requirement for “union activities” has caused AFGE members to
+
+curtail their participation in lawful, off-duty activity, including associating with a labor
+
+organization to pursue common interests and speaking publicly on matters of public concern.
+
+        85.     Employees now are less likely to engage in spontaneous or unanticipated off-duty
+
+union activities because, by their very nature, it is not always feasible to secure agency approval
+
+in advance of such activities.
+
+        86.     The vagueness of the preapproval requirements as to what constitutes “union
+
+activities,” which EPA has not defined, has also had a profound chilling effect on expression and
+
+association. Because it is often unclear whether a certain activity falls under the “union
+
+activities” preapproval requirement, some employees have chosen to self-censor and forego the
+
+activity rather than risk discipline.
+
+        87.     Indeed, the Agency has at times taken a nearly limitless view of that term in an
+
+attempt to silence speech by Plaintiffs. For example, when AFGE Council 238 President Justin
+
+Chen sought clarification of a request for additional documentation regarding his request for time
+
+off to serve jury duty, Agency management reprimanded him for sending “union-related
+
+communications” using “government-furnished equipment” and stated he had acted contrary to
+
+“the guidance previously provided to you” regarding union activities. Similarly, AFGE Local
+
+704 President Nicole Cantello was summoned by Agency management and directed to answer
+
+questions about a conversation she had during her lunch hour with a longtime friend and co-
+
+worker on the ground that it constituted a “union meeting.”
+
+        88.     That the Agency’s actions are intended to target union speech is further evident
+
+from the fact that the new ethics rule treats union activity differently than other outside non-
+
+profit activities that do not require such approval.
+
+
+
+                                                  20
+          Case 1:26-cv-14436         Document 1       Filed 09/29/26      Page 22 of 26
+
+
+
+
+       89.     EPA’s supplemental regulations expressly exempt from its preapproval
+
+requirement the uncompensated participation in the activities of a nonprofit organization, such as
+
+AFGE. See 5 C.F.R. § 6401.103(e). Yet, other uncompensated non-profit organization work, per
+
+the text of EPA’s own regulation, was not subjected to this requirement. See also EPA Ethics
+
+Advisory 2005-1 (“Note however that outside employment with a nonprofit organization that is
+
+not for compensation, or is only for expenses, is exempt from the prior approval requirement.”).
+
+       90.     The Agency’s decision to terminate the CBA and eliminate contractual
+
+protections for employee speech has had significant chilling effect on Plaintiffs’ members. EPA
+
+employees represented by Plaintiffs have expressed concerns with speaking up about workplace
+
+issues for fear of retaliation by Agency leadership. Employees have even curtailed their speech
+
+during off-duty hours and on their personal social accounts that could be perceived as critical of
+
+the Administration for fear that doing so puts a target on their backs.
+
+                                      CAUSE OF ACTION
+
+                                           Count I
+             Violation of the Administrative Procedure Act, 5 U.S.C. § 706(2)(A)
+                           Arbitrary and Capricious Agency Action
+
+       91.     The paragraphs above are incorporated and reasserted as if fully set forth herein.
+
+       92.     Defendants’ termination of the CBA constitutes a final agency action under the
+
+APA.
+
+       93.     The APA provides that a court “shall” “hold unlawful and set aside agency
+
+action” found to be “arbitrary, capricious, [or] an abuse of discretion.” 5 U.S.C. § 706(2)(A).
+
+       94.     Agency action is arbitrary and capricious “if the agency has relied on factors
+
+which Congress has not intended it to consider, entirely failed to consider an important aspect of
+
+the problem, offered an explanation for its decision that runs counter to the evidence before the
+
+agency, or is so implausible that it could not be ascribed to a difference in view or the product of
+
+                                                 21
+          Case 1:26-cv-14436         Document 1           Filed 09/29/26   Page 23 of 26
+
+
+
+
+agency expertise.” Motor Vehicle Mfrs. Ass’n of U.S., Inc. v. State Farm Mut. Auto. Ins. Co., 463
+
+U.S. 29, 43 (1983).
+
+       95.     In numerous ways, Defendants’ termination of the CBA was arbitrary and
+
+capricious.
+
+       96.     EPA failed to meet the most basic requirement of reasoned decision-making
+
+under the APA, which is to provide a reasoned explanation for its action. EPA did not adequately
+
+explain its decision to terminate the 2024 CBA, only providing a conclusory assertion that it was
+
+doing so to “prevent irreparable harm to national security.” EPA did not provide any facts or
+
+evidence to support this assertion or explain how continuing to abide by the 2024 CBA impacted
+
+national security. Nor did the Agency cite any changed circumstances to justify the alleged
+
+national security need to terminate the CBA at this time when the Agency had abided by
+
+provisions in the CBA for the prior four months after the Exclusion Order was issued. And, EPA
+
+did not explain why it was terminating the CBA effective immediately, and not at a later date or
+
+when the existing CBA was set to expire. EPA did not provide any explanation at all on these
+
+fronts, let alone the “satisfactory explanation” that the APA requires.
+
+       97.     EPA also failed to consider alternatives to its action as required. See Dep’t of
+
+Homeland Sec. v. Regents of the Univ. of Cal., 591 U.S. 1, 30 (2020). It did not consider, for
+
+example, delaying the effective date of the termination or allowing the CBA to run at least
+
+through the expiration of its term, if not longer.
+
+       98.     EPA also failed to consider the “serious reliance interests” of EPA employees
+
+who rely on the CBA and the protections and procedures it provided. Regents, 591 U.S. at 30. In
+
+terminating the CBA effective immediately, EPA did not consider, for example, the reliance
+
+interests of employees impacted by pending union grievances, or who face investigations in
+
+
+
+                                                     22
+             Case 1:26-cv-14436       Document 1       Filed 09/29/26      Page 24 of 26
+
+
+
+
+which the employee receives union representation or other support. EPA also did not consider
+
+the reliance interests of employees whose concerns that were addressed in quarterly Labor
+
+Management Meetings with the union or through informal and formal grievance processes. EPA
+
+also did not consider the reliance interests of employees and the union in receiving timely rulings
+
+through the use of grievance processes.
+
+        99.      Accordingly, the Agency’s termination of the CBA should be held unlawful and
+
+set aside.
+
+                                            Count II
+               Violation of the Administrative Procedure Act, 5 U.S.C. § 706(2)(B)
+                                 Contrary to Constitutional Right
+
+        100.     The paragraphs above are incorporated and reasserted as if fully set forth herein.
+
+        101.     Under the Administrative Procedure Act (APA), 5 U.S.C. § 706(2), a reviewing
+
+court shall “hold unlawful and set aside agency action, findings, and conclusions found to be . . .
+
+(B) contrary to constitutional right, power, privilege, or immunity.”
+
+        102.     Defendants’ termination of the 2024 CBA is in contravention of the First
+
+Amendment.
+
+        103.     The First Amendment prohibits government officials from retaliating against
+
+individuals and organizations based on their protected speech or perceived First Amendment
+
+activities. The First Amendment also prohibits the government from seeking to suppress actual
+
+or perceived speech or association based on disagreement with the speaker’s viewpoint.
+
+        104.     Plaintiffs and their members have engaged in extensive First Amendment activity
+
+in opposition to the current Administration, including through the Dissent Letter, which raised
+
+numerous concerns about the politicization of the Agency’s scientific mission.
+
+
+
+
+                                                  23
+          Case 1:26-cv-14436         Document 1           Filed 09/29/26   Page 25 of 26
+
+
+
+
+       105.    The timing and context of Defendants’ decision to terminate the CBA, along with
+
+the pretextual reference to “national security” considerations, demonstrates that the termination
+
+was motivated by the Agency’s desire to retaliate against Plaintiffs and their members for their
+
+First Amendment activities, squash political dissent, and chill employee speech – consistent with
+
+Administrator Zeldin’s publicly stated desire to target those who oppose the President’s agenda.
+
+                                            Count III
+                                  Violation of First Amendment
+
+       106.    The paragraphs above are incorporated and reasserted as if fully set forth herein.
+
+       107.    Separate and apart from the APA, 5 U.S.C. § 706(2), Defendants violate the First
+
+Amendment of the Constitution for the same reasons discussed in paragraphs 101-105 above
+
+which Plaintiffs incorporate as fully set forth herein.
+
+                                     PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff requests that this Court:
+
+       A. Declare unlawful, vacate, and set aside Defendants’ unlawful termination of
+
+           Plaintiff’s CBA as a violation of the Administrative Procedure Act and the First
+
+           Amendment;
+
+       B. Enter a permanent injunction prohibiting Defendants from effectuating the August 8,
+
+           2025 termination of CBA;
+
+       C. Award Plaintiff reasonable attorneys’ fees and costs; and
+
+       D. Grant such other and further relief as this Court may deem just and proper.
+
+
+
+
+                                                 24
+        Case 1:26-cv-14436       Document 1    Filed 09/29/26        Page 26 of 26
+
+
+
+
+Date: September 29, 2026                   Respectfully submitted,
+
+                                           /s/ Jillian M. Bertrand
+
+Ramya Ravindran*                           Alfred Gordon O’Connell, BBO # 630456
+                                           Jillian M. Bertrand, BBO # 682214
+Bredhoff & Kaiser, PLLC                    Pyle Rome Ehrenberg PC
+805 15th Street NW, Suite 1000             2 Liberty Square, 10th Floor
+Washington, D.C. 20005                     Boston, MA 02109
+Tel: (202) 842-2600                        Tel: (617) 367-7200
+Fax: (202) 842-1888                        Fax: (617) 367-7200
+rravindran@bredhoff.com                    agordon@pylerome.com
+                                           jbertrand@pylerome.com
+
+                                 Attorneys for Plaintiffs
+                           *Pro Hac Vice Motion Forthcoming
+
+
+
+
+                                         25
+

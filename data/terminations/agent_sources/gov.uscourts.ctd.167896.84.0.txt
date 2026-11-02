@@ -1,0 +1,731 @@
+       Case 3:25-cv-01907-VDO                Document 84          Filed 10/16/26   Page 1 of 14
+
+
+
+
+                                UNITED STATES DISTRICT COURT
+                                  DISTRICT OF CONNECTICUT
+
+---------------------------------------------------------------   x
+NATIONAL COUNCIL OF PRISON                                        :
+LOCALS, et al.,                                                   :       MEMORANDUM &
+                                                                  :       ORDER
+                                          Plaintiffs,             :
+                                                                  :       3:25-CV-1907 (VDO)
+                -against-                                         :
+                                                                  :
+FEDERAL BUREAU OF PRISONS, et al.,                                :
+                                                                  :
+                                          Defendants.             :
+                                                                  :
+---------------------------------------------------------------   x
+VERNON D. OLIVER, United States District Judge:
+
+        Before the Court is a Motion for Contempt or in the Alternative to Enforce (the
+
+“Motion”) brought by plaintiffs, the National Council of Prison Locals, American Federation
+
+of Government Employees (“CPL-33”) and AFGE Local 1661 (“Local 1661”) (collectively,
+
+“Plaintiffs”). The Motion seeks to hold defendants, the Federal Bureau of Prisons (“BOP”) and
+
+William K. Marshall, III, in his official capacity as Director of the BOP (collectively,
+
+“Defendants”), in civil contempt of this Court’s September 29, 2026, preliminary injunction
+
+order (the “PI Order”) for failing to reinstate and ultimately re-terminating1 CPL-33’s
+
+collective bargaining agreement (the “CBA”) and the agreements subsidiary to the CBA. In
+
+the alternative, Plaintiffs ask the Court to issue an order to enforce its injunction. For the
+
+
+
+
+1
+  In the Motion, Plaintiffs initially sought relief based only on Defendants’ failure to reinstate the
+CBA. BOP terminated the CBA the day after Defendants filed the Motion. Plaintiffs then informed
+the Court in both a subsequent joint status report and during oral argument that they are seeking
+contempt and enforcement based on the re-termination. See ECF No. 80; Oral Arg. Tr., ECF No.
+83 at 7:18–8:22.
+          Case 3:25-cv-01907-VDO        Document 84       Filed 10/16/26    Page 2 of 14
+
+
+
+
+reasons that follow, the Court DENIES Plaintiffs’ request for a finding of contempt, but
+
+GRANTS the Motion insofar as it seeks enforcement of the PI Order.
+
+I.        BACKGROUND
+
+          The Court assumes familiarity with the facts in this case, as recently recounted in the
+
+PI Order. For the purpose of deciding the Motion, the Court recounts the following:
+
+          On September 29, 2026, the Court granted Plaintiffs’ Motion for Preliminary Injunction
+
+and Preliminary Relief Under 5 U.S.C. § 705 (the “PI Motion”) and ordered Defendants to
+
+immediately reinstate the CBA, as wPell as any subsidiary agreements.2 Specifically, the Court
+
+stated:
+
+          The September 25, 2025, termination of the CBA is preliminarily set aside and
+          enjoined. Defendants shall immediately reinstate the CBA for the remainder of
+          the agreed-upon term provided in the CBA, and shall be governed by the terms
+          of that agreement. Defendants shall also reinstate any amendments, local
+          supplemental agreements, and memoranda of understanding that were in place
+          subsidiary to the CBA.3
+
+          Three days later, on October 2, 2026, Defendants notified the Court of their intention
+
+to comply with the PI Order by filing a Notice of Compliance.4 The Notice of Compliance
+
+stated that “Defendants are aware of the Court’s Order and aver they are complying with its
+
+terms.”5 The Defendants also used the Notice to explain that they did not understand the
+
+Court’s order to: (1) preclude the BOP from re-terminating the CBA in a fresh decision before
+
+the end of the CBA’s term; or (2) mean that the Court intends to supervise every instance in
+
+
+
+
+2
+    PI Order, ECF No. 72 at 2.
+3
+    Id.
+4
+    See Notice, ECF No. 74.
+5
+    Id.
+
+
+                                                 2
+          Case 3:25-cv-01907-VDO         Document 84       Filed 10/16/26      Page 3 of 14
+
+
+
+
+which the BOP is alleged to have violated the CBA.6 Plaintiffs did not respond directly to the
+
+Notice of Compliance.
+
+          Instead, on October 6, 2026, Plaintiffs filed the instant Motion.7 In it, they allege that
+
+BOP defied the PI Order by refusing to reinstate the CBA. As evidence of BOP’s
+
+noncompliance with the PI Order, Plaintiffs cite reports from CPL-33’s regional and local
+
+leaders stating that, as of October 5, 2026, wardens had not received guidance from BOP about
+
+reinstating the CBA, or they have been instructed to “do nothing” to implement it, in defiance
+
+of the PI Order.8 According to Plaintiffs, wardens have refused to recognize union
+
+representatives at employee discipline meetings,9 union office space has not been restored, and
+
+official time requests have either been denied or ignored.10 In one instance, a BOP employee
+
+requested union representation at a disciplinary action. The warden denied the employee’s
+
+request, stating, “there ain’t no union,” and required the employee to proceed with the meeting
+
+without a union representative.11 She continued to request union representation during the
+
+disciplinary meeting, but those requests were also denied on the grounds that there “was no
+
+union.”12 At the conclusion of the meeting, the employee was terminated from her position.13
+
+Plaintiffs further report that, before this Court issued the PI Order, Director Marshall was
+
+
+
+6
+    Id. at 5–10.
+7
+    See Mot., ECF No. 75.
+8
+    White Supp. Dec., ECF No. 75-2 ¶¶ 6–8, 10.
+9
+    Id. ¶ 9.
+10
+     Id. ¶ 17.
+11
+     Rolfe Dec., ECF No. 75-6 ¶¶ 4–7.
+12
+     Id. ¶ 9.
+13
+     Id. ¶ 8.
+
+
+                                                  3
+           Case 3:25-cv-01907-VDO       Document 84       Filed 10/16/26    Page 4 of 14
+
+
+
+
+witnessed stating that he would only reinstate the CBA with CPL-33 if the White House
+
+directed him to do so.14 Further, as of October 5, 2026, BOP had not provided CPL-33 with a
+
+plan or timeline for implementing the PI Order or reinstating the CBA.15
+
+           Plaintiffs then supplemented the Motion on October 7, 2026, with a Notice.16 The
+
+Notice updated the record by informing the Court that, after filing the Motion, Plaintiffs’
+
+counsel learned that Defendants had approved some official time requests, approved a request
+
+for union space, and granted approval for union representation at a committee meeting.17 The
+
+Motion initially stated that Defendants had taken no steps to effectuate the PI Order, and
+
+accordingly, the supplementary notice was provided to update the record after Plaintiffs’
+
+counsel learned of certain steps taken by Defendants to reinstate the CBA.18
+
+           Per the Court’s order expediting briefing,19 Defendants filed their opposition to the
+
+Motion (the “Opposition”) on October 8, 2026.20 In the Opposition, Defendants argued that
+
+they took steps to implement the CBA until Director Marshall decided to re-terminate the
+
+agreement on October 7, 2026. Defendants appended a Supplemental Declaration by Senior
+
+Deputy Assistant Director for the BOP Human Resource Management Division (“HRMD”)
+
+Jonathan Hemingway to the Opposition (the “Hemingway Declaration”) to explain
+
+
+
+14
+  Cole Dec., ECF No. 75-3 ¶¶ 4–5; Osborn Dec., ECF No. 75-4 ¶¶ 4–5; Mason Dec., ECF No.
+75-4 ¶¶ 4–5.
+15
+     ECF No. 75-2 ¶ 6.
+16
+     See Notice, ECF No. 78.
+17
+     Id. at 1.
+18
+     Id.
+19
+     See Order, ECF No. 76.
+20
+     See ECF No. 79.
+
+
+                                                 4
+         Case 3:25-cv-01907-VDO        Document 84       Filed 10/16/26   Page 5 of 14
+
+
+
+
+Defendants’ steps toward compliance and how Director Marshall made the ultimate decision
+
+to re-terminate the CBA. The Hemingway Declaration reports that, on September 30, 2026,
+
+and October 1, 2026, BOP senior managers and their legal representatives met to discuss
+
+compliance with the PI Order.21 As a result of those meetings, Assistant Director (HRMD)
+
+Malia Wilber sent CPL-33 President Brandy Moore White a memorandum that explained that
+
+BOP was complying with the PI Order and reinstating the CBA.22 On October 5, 2026, nearly
+
+a week after the Court issued the PI Order, leadership from HRMD met with BOP’s regional
+
+directors and directed them to instruct wardens within their regions to ensure compliance with
+
+its terms.23
+
+          Two days later, on October 7, 2026, Director Marshall issued a memorandum to CPL-
+
+33 President White (the “Rescission Memorandum”), that purported to rescind the Message
+
+from the Director issued on September 25, 2025, as well as the September 25, 2025,
+
+memorandum terminating the CBA.24 It also claimed to rescind “any other contemporaneous
+
+communications by [Director Marshall’s] office related to such rescission including, but not
+
+limited to, written communications, videos, and Sallyport announcements.”25 That same day,
+
+Director Marshall issued another memorandum to President White with the subject line
+
+“Termination of Existing Collective Bargaining Agreement” (the “Re-termination
+
+
+21
+     Hemingway Dec., ECF No. 79-1 ¶¶ 8–10.
+22
+     Id. ¶ 10.
+23
+     Id. ¶ 11.
+24
+     Id. ¶ 12; see also Ex. A to Hemingway Dec., ECF No. 79-2.
+25
+   ECF No. 79-2 at 1. These communications were not part of the administrative record or
+otherwise provided to the Court. At oral argument, Plaintiffs also noted that they were not
+previously aware of these additional communications and had not had the opportunity to review
+them. ECF No. 83 at 28:12–17.
+
+
+                                                5
+           Case 3:25-cv-01907-VDO         Document 84       Filed 10/16/26     Page 6 of 14
+
+
+
+
+Memorandum”).26 This memorandum informed CPL-33 that, as of October 7, 2026, the BOP
+
+was terminating the CBA, as well as all amendments, local supplemental agreements, and
+
+memoranda of understanding that were in effect subsidiary to the CBA.27 As a basis for re-
+
+terminating the CBA, BOP stated: (1) that the CBA was not intended to function outside of
+
+the FSLMRS, and must now be terminated as it was excluded from that statute by EO 14,251;
+
+and (2) termination is necessary pursuant to the national security concerns outlined by
+
+President Trump in EO 14,251.28
+
+           Per the Court’s order, the parties filed a joint status report on October 9, 2026. In the
+
+status report, Plaintiffs asked the Court to hold Defendants in contempt both for BOP’s failure
+
+to timely take actions to reinstate the CBA (as initially requested in the Motion), and based on
+
+BOP’s re-termination of the CBA without first moving this Court to dissolve or clarify the PI
+
+Order.29 In response, Defendants reiterated their argument that the Court lacks the power to
+
+monitor reinstatement and compliance with the CBA, and instead, alleged violations of the
+
+CBA should be rectified through the reinstated CBA itself through normal grievance
+
+procedures.30 Defendants further explain that failures to comply with the CBA during the
+
+period between the issuance of the Court’s PI Order and the October 7, 2026 re-termination
+
+date were a result of the administrative burden in implementing the CBA—not intentional
+
+noncompliance with the PI Order. In response to Plaintiffs’ request for contempt or
+
+
+
+26
+     Ex. B. to Hemingway Dec., ECF No. 79-3 at 1.
+27
+     Id.
+28
+     Id. at 3–5.
+29
+     ECF No. 80 at 2–4.
+30
+     Id. at 6.
+
+
+                                                   6
+         Case 3:25-cv-01907-VDO        Document 84        Filed 10/16/26      Page 7 of 14
+
+
+
+
+enforcement based on the re-termination, Defendants claimed that this was a new agency
+
+action that is unreviewable by this Court in the instant case.31
+
+          The Court held oral argument on the Motion on October 13, 2026.32 At oral argument,
+
+Plaintiffs reaffirmed their position first outlined in the October 9, 2026, joint status report that
+
+the Court should hold Defendants in contempt and enforce the PI order based on both the
+
+failure to reinstate the CBA and the ultimate re-termination of that agreement.33
+
+II.       DISCUSSION
+
+          A.       Enforcing the PI Order
+
+          The Court first addresses Plaintiffs’ request that this Court enforce the PI Order.
+
+“Ensuring compliance with a prior order is an equitable goal which a court is empowered to
+
+pursue even absent a finding of contempt.” Berger v. Heckler, 771 F.2d 1556, 1569 (2d Cir.
+
+1985). “In enforcing its orders, a district court may take such steps as are appropriate given the
+
+resistance of the noncompliant party.” Id.; In re Tronox Inc., 855 F.3d 84, 112 (2d Cir. 2017)
+
+(noting that a district “court’s choice of how to enforce the order is reviewed for abuse of
+
+discretion” and that “a court can take any reasonable action to secure compliance” (cleaned
+
+up)); see also United States v. Visa U.S.A., Inc., No. 98-CV-7076, 2007 WL 1741885, at *12
+
+(S.D.N.Y. June 15, 2007) (enforcing a court order “to give present effect” to the judgment, not
+
+as a sanction).
+
+          There are two distinct issues before the Court on Plaintiffs’ motion for enforcement.
+
+First, whether the re-termination of the CBA constituted a violation of the PI Order. Second,
+
+
+31
+     Id. at 8–9.
+32
+     See Minute Entry, ECF No. 82.
+33
+     See generally ECF No. 83.
+
+
+                                                 7
+      Case 3:25-cv-01907-VDO           Document 84       Filed 10/16/26     Page 8 of 14
+
+
+
+
+whether Defendants failed to reinstate the CBA during the period between the issuance of the
+
+PI Order on September 29, 2026, and the purported re-termination on October 7, 2026. As to
+
+the first issue, the Court grants the motion for enforcement and finds that the BOP’s attempted
+
+re-termination of the CBA on October 7, 2026, violated the PI Order. However, the Court
+
+denies Plaintiffs’ motion for enforcement as it pertains to the second issue. Plaintiffs failed to
+
+demonstrate that Defendants violated the PI Order by refusing to reinstate the CBA during the
+
+week in between the issuance of the PI Order and the re-termination.
+
+               1.     Re-termination
+
+       Regarding the October 7, 2026 re-termination, the core issue before the Court is
+
+whether Defendants were required to move the Court to either dissolve, amend, or clarify the
+
+PI Order before unilaterally re-terminating the CBA. Plaintiffs argue that Defendants
+
+improperly engaged in “self help” by terminating the CBA without first applying to the Court.
+
+Defendants, in response, contend that they were not required to move the Court for dissolution
+
+of the PI Order because the re-termination constituted a new agency action. The Court agrees
+
+with Plaintiffs.
+
+       Even when party disagrees with a court’s imposition of injunctive relief, “persons
+
+subject to an injunctive order issued by a court with jurisdiction are expected to obey that
+
+decree until it is modified or reversed, even if they have proper grounds to object to the order.”
+
+JPMorgan Chase Bank, N.A. v. VTB Bank, P.J.S.C., No. 24-CV-2924, 2024 WL 3567418, at
+
+*5 (S.D.N.Y. July 29, 2024), aff’d, No. 24-2327, 2025 WL 1983432 (2d Cir. July 17, 2025)
+
+(cleaned up). “It is a matter ‘of respect for the judicial process.’” Paramedics Electromedicina
+
+Comercial, Ltda v. GE Med. Sys. Info. Techs., Inc., 369 F.3d 645, 656 (2d Cir. 2004) (quoting
+
+GTE Sylvania, Inc. v. Consumers Union, 445 U.S. 375, 387 (1980)). “Disagreements with
+
+
+                                                8
+         Case 3:25-cv-01907-VDO        Document 84        Filed 10/16/26      Page 9 of 14
+
+
+
+
+judicial decisions must be resolved through motions, stays, and appeals, not through unilateral
+
+noncompliance.” Am. Fed’n of Gov’t Emp., AFL-CIO v. Noem, No. 25-CV-451, 2026 WL
+
+113599, at *3 (W.D. Wash. Jan. 15, 2026) (cleaned up); see also Maness v. Meyers, 419 U.S.
+
+449, 458 (1975) (“If a person to whom a court directs an order believes that order is incorrect
+
+the remedy is to appeal, but, absent a stay, he must comply promptly with the order pending
+
+appeal.”).
+
+         Relying on Biden v. Texas, 597 U.S. 785 (2022), Defendants assert the Court is barred
+
+from reviewing the re-termination because it is a new agency action, and the Court may only
+
+adjudicate the specific agency action Plaintiffs put at issue (here, the September 25, 2025,
+
+termination).34 Defendants failed to mention, however, that in Biden v. Texas, the Government
+
+agency continued complying with the District Court’s injunction, despite issuing a new action,
+
+and then properly moved to vacate the injunction. 597 U.S. at 796. Defendants in that case
+
+stated that the new agency action “would be implemented as soon as practicable after a final
+
+judicial decision to vacate.” Id. (cleaned up). At no point did the defendants in Biden v. Texas
+
+seek to disregard a court order. Instead, they complied with the injunction, despite issuing a
+
+new action, and only sought to implement it after moving to vacate the original injunction.
+
+Biden v. Texas is thus distinguishable, as it does not bear on a district court’s equitable remedial
+
+powers to secure compliance with an injunction.
+
+         Here, in contrast, the Defendants failed to move the Court for amendment, clarification,
+
+or dissolution. Instead, it filed a “Notice of Compliance,” and construed Plaintiffs’ (and the
+
+Court’s) lack of an immediate response to the Notice as an implicit grant of authority to re-
+
+
+34
+     ECF No. 80 at 8.
+
+
+                                                 9
+        Case 3:25-cv-01907-VDO         Document 84       Filed 10/16/26     Page 10 of 14
+
+
+
+
+terminate the CBA. But a “Notice of Compliance” is an inferior substitute for appropriately
+
+moving the Court to amend, clarify, or dissolve the PI Order. Only a week before re-
+
+termination, the Court ordered Defendants to “immediately reinstate the CBA for the
+
+remainder of the agreed-upon term provided in the CBA.”35 The agreed upon term of
+
+expiration for the CBA is May 28, 2029.36 Rather than abiding by this order, Defendants issued
+
+the Re-termination Memorandum, which purported to terminate the CBA under new rationale.
+
+But an agency may not use “new rationale” to justify a “unilateral decision to abandon its
+
+obligations under the injunction.” Am. Fed’n of Gov’t Emp., 2026 WL 113599, at *3.
+
+         Accordingly, in exercising its jurisdiction to interpret and enforce its own prior order,
+
+In re Tronox Inc., 855 F.3d at 112, the Court grants Plaintiffs’ motion to enforce the PI Order
+
+as it pertains to the October 7, 2026, re-termination of the CBA. The re-termination is VOID
+
+because Defendants unilaterally terminated the CBA without first moving the Court to modify
+
+the PI Order. The CBA shall remain in effect until either the expiration of the agreed upon
+
+term of the agreement on May 28, 2029, or until the Court grants a properly filed motion by
+
+Defendants to dissolve or clarify the PI Order to permit re-termination.
+
+                 2.     Reinstatement
+
+         The Court next turns to whether Defendants’ actions during the week in which the CBA
+
+was reinstated require an order from this Court enforcing the preliminary injunction.
+
+
+
+
+35
+     PI Order, ECF No. 72 at 2 (emphasis added).
+36
+  The Hemingway Declaration confirms that “[t]he most recent version of the Master Agreement
+was signed by the then Director of the Bureau of Prisons and the CPL-33 President on July 21,
+2014, and was extended (with amendments) up to and through May 28, 2029.” ECF No. 79-1 ¶ 6.
+
+
+                                                   10
+        Case 3:25-cv-01907-VDO        Document 84      Filed 10/16/26     Page 11 of 14
+
+
+
+
+          First, Defendants took sufficient measures to begin the process of implementing the
+
+CBA after it was reinstated by the Court’s order. For instance, following the issuance of the PI
+
+Order, BOP directed local management officials to begin reviewing the hundreds of official
+
+time requests they received; BOP stopped issuing policies using the policy development
+
+process it implemented during the initial CBA termination; and it instructed institutions to
+
+identify alternate space for unions to use because the office space previously provided to the
+
+unions BOP had been repurposed.37 Indeed, at oral argument, counsel for Plaintiffs recognized
+
+that, “in the immediate days prior to termination,” Defendants “began to take steps consistent
+
+with” the PI Order.38 The Court agrees. These actions appear to be steps towards implementing
+
+the requirements of the CBA, not a willful disregard of the PI Order. Further, individual
+
+instances of noncompliance with the CBA, such as failing to allow union representation at
+
+disciplinary proceedings or delaying responses to official time requests, are properly addressed
+
+under the agreement itself. The CBA has an extensive grievance process for managing
+
+individual complaints of noncompliance. Those concerns are properly addressed under the
+
+CBA—not by this Court. Accordingly, the Court will not exercise jurisdiction over every
+
+compliance dispute when the agreement provides a grievance process to handle those exact
+
+issues.
+
+          Second, Plaintiffs’ allegations that wardens received guidance from BOP management
+
+not to reinstate the CBA or comply with its terms are combatted by the Hemingway
+
+Declaration. Specifically, the Hemingway Declaration states that HRMD management is
+
+
+
+37
+     ECF No. 79-1 ¶¶ 14–16.
+38
+     ECF No. 83 at 16:14–18.
+
+
+                                              11
+           Case 3:25-cv-01907-VDO        Document 84       Filed 10/16/26     Page 12 of 14
+
+
+
+
+unaware of such communications, and any statement to this effect is “inconsistent with the
+
+BOP’s position,” and “inconsistent with guidance issued to the Regional Directors”39 Although
+
+the Defendants certainly could have informed all management personnel, including Regional
+
+Directors and wardens immediately and simultaneously after the Court’s PI Order, the Court
+
+finds no reason to discredit this statement in the Hemingway Declaration to find that it was the
+
+policy of BOP to direct its wardens not to comply with the PI Order.
+
+            Third, Plaintiffs argue that Defendants violated the PI Order because Director Marshall
+
+stated he would only comply with any order issued by this Court if he was directed to do so by
+
+the White House. Because Director Marshall made this statement before the Court issued the
+
+PI Order, it does not support Plaintiffs’ argument that BOP failed to comply. In the declarations
+
+Plaintiffs submitted to the Court, witnesses aver that Director Marshall was asked a
+
+hypothetical: namely, “whether, if the judge granted relief requiring BOP to reinstate the
+
+union, Director Marshall would honor that ruling.”40 In response, Director Marshall stated that
+
+he would only honor this Court’s ruling if the White House directed him to do so.41 Director
+
+Marshall’s response to a hypothetical question asked before the Court issued the PI Order is
+
+not sufficiently conclusive as to whether BOP ultimately complied with the preliminary
+
+injunction.
+
+
+
+
+39
+     ECF No. 79-1 ¶ 27.
+40
+     ECF No. 75-4 at 2.
+41
+     Id.
+
+
+                                                  12
+        Case 3:25-cv-01907-VDO         Document 84        Filed 10/16/26     Page 13 of 14
+
+
+
+
+         For these reasons, the Court DENIES Plaintiffs’ motion to enforce as it pertains to the
+
+period of reinstatement between September 29, 2026 (the PI Order issuance date) and October
+
+7, 2026 (the re-termination date).
+
+         B.     Civil Contempt
+
+         The Court also denies Plaintiffs’ request to hold Defendants in civil contempt for failing
+
+to reinstate or for re-terminating the CBA.42 While the Court has the authority to issue a civil
+
+contempt finding “for failure to comply with a Court order,” Paramedics Electromedicina, 369
+
+F.3d at 655, doing so at this stage is premature. Because the Court has already issued an order
+
+enforcing the preliminary injunction and voiding the October 7, 2026, re-termination of the
+
+CBA, a finding of civil contempt is not necessary at this time.
+
+III.     CONCLUSION
+
+         For the foregoing reasons, the Court finds that the October 7, 2026, re-termination of
+
+the CBA is VOID, as Defendants failed to move the Court for clarification or dissolution of
+
+the PI Order before unilaterally re-terminating the CBA. The CBA shall remain in effect until
+
+either the expiration of the agreement on May 28, 2029, or until the Court grants a properly
+
+filed motion by Defendants to dissolve or clarify the PI Order to permit re-termination.43 In
+
+
+
+
+42
+     See generally ECF No. 75.
+43
+  The PI Order states: “The September 25, 2025, termination of the CBA is preliminarily set aside
+and enjoined. Defendants shall immediately reinstate the CBA for the remainder of the agreed-
+upon term provided in the CBA, and shall be governed by the terms of that agreement. Defendants
+shall also reinstate any amendments, local supplemental agreements, and memoranda of
+understanding that were in place subsidiary to the CBA.” The CBA was originally executed on
+July 21, 2014, and most recently extended through amendments up to and through May 28, 2029.
+ECF No. 79-1 ¶ 6.
+
+
+                                                13
+     Case 3:25-cv-01907-VDO       Document 84      Filed 10/16/26     Page 14 of 14
+
+
+
+
+light of the Court’s enforcement of its PI Order, Plaintiffs’ request that the Court hold
+
+Defendants in civil contempt is DENIED.
+
+
+
+                                                SO ORDERED.
+
+
+Hartford, Connecticut
+October 16, 2026
+
+                                                /s/Vernon D. Oliver
+                                                VERNON D. OLIVER
+                                                United States District Judge
+
+
+
+
+                                           14
+

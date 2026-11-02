@@ -1,0 +1,306 @@
+                                      MEMORANDUM
+
+    TO:                    Heads and Acting Heads of Departments and Agencies
+    FROM:                  Charles Ezell, Acting Director, U.S. Office of Personnel Management
+
+    DATE:                  March 27, 2025
+    RE:                    Guidance on Executive Order Exclusions from Federal Labor-Management
+                           Programs
+
+
+        On March 27, 2025, President Trump signed an executive order entitled Exclusions from
+Federal Labor-Management Relations Programs (Exclusions). This order invoked the President’s
+authority under 5 U.S.C § 7103(b)(1) and 22 U.S.C. § 4103(b) to exempt agencies and agency
+subdivisions from the provisions of the Federal Service Labor-Management Relations Statute and
+the Foreign Service Labor-Management Relations Statute (individually and collectively, the
+FSLMRS). 1 The President’s Executive Order directs that the FSLMRS will no longer apply to the
+following agencies and agency subdivisions (collectively, the “covered agencies and
+subdivisions”):
+
+     •    The Department of Defense;
+
+     •    The Department of State;
+
+     •    The Department of the Treasury, except the Bureau of Engraving and Printing;
+
+     •    The Department of Veterans Affairs (VA);
+
+     •    The Department of Justice, except certain components of the U.S. Marshals Service;
+
+     •    Subdivisions of the Department of Homeland Security:
+             o Departmental Headquarters components;
+             o U.S. Citizenship and Immigration Services;
+             o Immigration and Customs Enforcement;
+             o U.S. Coast Guard;
+             o The Cybersecurity and Infrastructure Security Agency; and
+             o The Federal Emergency Management Agency;
+
+
+1
+ These provisions are codified in chapter 71 of title 5, United States Code, and subchapter X of chapter
+52 of title 22, United States Code.
+                                                                                    Page 2
+
+
+
+•   Subdivisions of the Department of Health and Human Services:
+       o Office of the Secretary;
+       o Office of the General Counsel;
+       o Food and Drug Administration;
+       o Centers for Disease Control and Prevention;
+       o The Administration for Strategic Preparedness and Response;
+       o The National Institute for Allergy and Infectious Diseases, National Institutes of
+           Health; and
+       o Office of Refugee Resettlement, Administration for Children and Families.
+
+•   The Department of Energy, except the Federal Energy Regulatory Commission;
+
+•   Subdivisions of the Department of the Interior:
+       o Office of the Secretary;
+       o Bureau of Land Management;
+       o Bureau of Safety and Environmental Enforcement;
+       o Bureau of Ocean Energy Management;
+
+•   Subdivisions of the Department of Agriculture:
+       o The Food Safety and Inspection Service;
+       o The Animal and Plant Health Inspection Service;
+
+•   The International Trade Administration within the Department of Commerce;
+
+•   The Environmental Protection Agency;
+
+•   The U.S. Agency for International Development;
+
+•   The Nuclear Regulatory Commission;
+
+•   The National Science Foundation;
+
+•   The International Trade Commission;
+
+•   The Federal Communications Commission;
+
+•   The General Services Administration; and
+
+•   The Office of the Chief Information Officer (CIO) in each Executive department, as well
+    as the CIO offices for the U.S. Office of Personnel Management (OPM) and the Social
+    Security Administration, and any other agency or subdivision that has information
+                                                                                                     Page 3
+
+
+
+         resources management duties as the agency or subdivision’s primary duty. 2
+
+         By operation of 5 U.S.C. § 7103(b) and Exclusions, covered agencies and subdivisions are
+no longer subject to the collective-bargaining requirements of chapter 71 of part III, subpart F of
+title 5 (5 U.S.C. §§ 7101-7135). Consequently, those agencies and subdivisions are no longer
+required to collectively bargain with Federal unions. Also, because the statutory authority
+underlying the original recognition of the relevant unions no longer applies, unions lose their status
+as the “exclusive[ly] recogni[zed]” labor organizations for employees of the agencies and agency
+subdivisions covered by Exclusions. 3
+
+       Agencies should consult with their General Counsels as to how to implement the
+President’s directive in Exclusions. Agencies should also begin to consider and implement the
+changes described below and any others that agencies deem necessary, consistent with the
+President’s national security determination. OPM highlights some common provisions of agency
+CBAs that may be inconsistent with the President’s policies and management priorities.
+
+    I.      Performance Accountability
+
+       Merit system principles codified at 5 U.S.C. § 2301(6) direct agencies to separate
+employees who cannot or will not improve their performance to meet required standards. This
+often does not occur. When asked what happens to poor performers in their work unit, a plurality
+of Federal employees respond that they “remain in the work unit and continue to underperform.” 4
+Only a quarter of agency supervisors report that they are confident they could remove a seriously
+underperforming employee. 5
+
+         Strengthening performance accountability in the Federal workforce is a high priority of
+President Trump and his Administration. The President believes that he must be able to effectively
+supervise Federal employees to take care that the law is faithfully executed and to protect
+America’s national security. Shortly after taking office the President issued multiple directives to
+facilitate the separation of underperforming employees. 6
+
+        Agency CBAs often create procedural impediments to separating poor performers beyond
+those required by statute or regulation. Covered agencies and subdivisions should seek to bring
+
+
+2
+  The Executive Order excludes the immediate employing offices of police and firefighters. It also provides
+a process for the Secretaries of Defense and Veterans Affairs to retain collective bargaining in subdivisions
+of their agencies if they certify that doing so does not impair national security.
+3
+  Cf. 5 U.S.C. § 7111(a) (“An agency shall accord exclusive recognition to a labor organization if the
+organization has been selected as the representative . . . .”), id. § 7114(a)(1) (authorizing the exclusively
+recognized labor organization to “negotiate collective bargaining agreements covering[] all employees in
+the unit.”)
+4
+  https://www.opm.gov/fevs/reports/opm-fevs-dashboard/.
+5
+  U.S. Merit Systems Protection Board, Remedying Unacceptable Employee Performance in the Federal
+Civil Service (June 18, 2019), at p. 15.
+6
+  See Executive Order 14171 of Jan. 20, 2025 (Restoring Accountability to Policy-Influencing Positions
+Within the Federal Workforce); Memorandum of January 20, 2025 (Restoring Accountability for Career
+Senior Executives); Executive Order 4211 of Feb. 12, 2025 (One Voice for America’s Foreign Relations).
+                                                                                            Page 4
+
+
+
+their policies into alignment with the specific Administration priorities below.
+
+       A. Limit PIPs to 30 Days.
+
+        The Civil Service Reform Act (CSRA) requires agencies to provide underperforming
+employees with an opportunity to demonstrate acceptable performance before dismissing them
+under chapter 43 of title 5, United States Code. 7 These opportunity periods are commonly known
+as Performance Improvement Periods (PIPs). Executive Order 13839 of May 25, 2018. (Promoting
+Accountability and Streamlining Removal Procedures Consistent with Merit System Principles)
+generally standardized PIPs at 30 days. Executive Order 14003 of January 22, 2021 (Protecting
+the Federal Workforce) rescinded Executive Order 13839 and directed agencies to reverse policies
+effectuated under it. Under this directive, agencies increased PIPs from 30 days to 60 to 120 days.
+However, Executive Order 14171 of January 20, 2025 (Restoring Accountability to Policy-
+Influencing Positions Within the Federal Workforce) revoked Executive Order 14003 and directed
+agencies to reverse disciplinary and unacceptable-performance policies effectuated pursuant to it.
+
+        Prior OPM guidance has explained that Executive Order 14171 now requires agencies to
+return to the policies of Executive Order 13839. 8 Agencies are accordingly required to, consistent
+with applicable law, return PIPs to 30 days. Where a CBA requires PIPs of more than 30 days,
+agencies must generally wait until such CBAs expire or otherwise terminate before shortening
+PIPs. 9 After covered agencies and subdivisions terminate CBAs that require PIPs of more than
+30 days, they should take prompt action to reduce PIPs for former bargaining unit employees to
+no more than 30 days.
+
+       B. Use Chapters 43 and 75 for Performance-Based Removals.
+
+       Covered agencies and subdivisions are required to revert their discipline and unacceptable
+performance policies to those set in the first Trump Administration under Executive Order 13839.
+This includes the directive to use the procedures of chapter 75 of title 5, United States Code, in
+addition to chapter 43 (discussed above), to separate employees for unacceptable performance in
+appropriate cases. 10
+
+        Chapter 75 actions do not require a PIP but bear a higher burden of proof than chapter 43
+actions. Many agency CBAs functionally prohibit using chapter 75 procedures by requiring PIPs
+for all performance-based separations. Covered agencies and subdivisions that have terminated
+their CBAs should thereafter use chapter 75 procedures to separate underperforming employees
+without PIPs in appropriate cases. Agencies may continue to use chapter 43 procedures in
+appropriate cases.
+
+       C. VA Should Resume Use of Section 714.
+
+
+
+7
+  5 U.S.C. 4202(c)(6).
+8
+  OPM, Guidance on Revocation of Executive Order 14003 (Feb. 7, 2025).
+9
+  5 U.S.C. 7116(a)(7).
+10
+   See section 2(h) of Executive Order 13839.
+                                                                                           Page 5
+
+
+
+        In 38 U.S.C. § 714, Congress gave VA special authority to remove some employees for
+poor performance without a PIP and with a lower burden of proof than chapter 43 actions. The
+Biden Administration discontinued use of section 714 authority after an arbitrator held that VA
+could not renegotiate its CBA to eliminate contractual PIPs. VA should, upon termination of its
+CBA, consider whether to resume use of section 714 authority in appropriate cases. Where facts
+and circumstances warrant, VA should cease providing covered employees with PIPs before
+separating them for poor performance under section 714.
+
+           D. Discontinue Grievance Participation.
+
+        In keeping with the provisions of the FSLMRS, CBAs provide for binding arbitration of
+union grievances, including disputes over whether personnel actions were justified. 11 To
+implement Exclusions, agencies should cease participating in grievance procedures after
+terminating their CBAs. To the extent that covered agencies and subdivisions are litigating
+grievances before an arbitrator when they terminate their CBAs, they should discontinue
+participation in such proceedings upon termination. Agencies can and should compensate
+arbitrators for work performed prior to the termination of the CBA, but not for any work performed
+thereafter. Agencies should not participate in further grievance arbitration proceedings following
+termination of their CBAs.
+
+     II.      Effective and Efficient Government
+
+        It is the policy of the President and his Administration to eliminate waste, bloat, and
+insularity within agencies and operate them more efficiently. Covered agencies and subdivisions
+should therefore take the following actions after terminating their CBAs.
+
+           A. Disregard Contractual RIF Articles.
+
+       The President has directed agencies to prepare large-scale reductions in force (RIFs). 12
+OPM previously provided guidance about agency collective bargaining obligations when
+undertaking RIFs. 13 Covered agencies and subdivisions that terminate their CBAs are advised that
+this guidance will no longer apply. After terminating their CBAs, covered agencies and
+subdivisions should conduct RIFs consistent with applicable statutory and regulatory
+requirements, but without regard to provisions in terminated CBAs that go beyond those
+requirements.
+
+           B. Return to In-Person Work.
+
+        The President considers returning agency employees to in-person work necessary for
+effective and efficient agency operations. The President issued a memorandum generally requiring
+
+
+
+11
+   5 U.S.C. § 7121.
+12
+   OPM, Guidance on Agency RIF and Reorganization Plans Requested by Implementing The President’s
+“Department of Government Efficiency” Workforce Optimization Initiative (February 26, 2025).
+13
+   OPM, Guidance on Collective Bargaining in Connection with Reductions in Force (March 12, 2025).
+                                                                                             Page 6
+
+
+
+in-person work on the first day of his Administration. 14 OPM guidance has explained that
+substantive telework levels and the substantive determination of which positions are eligible for
+telework or remote work are non-negotiable management rights. 15 However, agency CBAs
+sometimes impose procedural restrictions on agency return to work policies that do not violate
+non-negotiable management rights. Upon termination of these CBAs, covered agencies and
+subdivisions should swiftly implement the President’s directives in Return to In-Person Work.
+
+       C. Use Agency Resources for Agency Business.
+
+        The FSLMRS permits unions to negotiate to allow agency employees to perform union
+representational work instead of agency business during their official duty hours. 16 Contractual
+authorization for “taxpayer-funded union time” terminates when agency CBAs are terminated.
+Additionally, employees no longer have representational activities to conduct once their agency or
+subdivision has been excluded from the FSLMRS coverage. Exclusions requires agencies to
+promptly return such employees to performing solely agency business. Upon termination of any
+CBAs that require taxpayer-funded union time, agencies should reassign employees on union time
+to duties that solely include agency business.
+
+        Many agency CBAs similarly provide Federal unions with free use of agency resources
+(such as office space) or commit the agency to cover certain union expenses (such as the cost of
+travel and per diems). Following termination of CBAs that require such subsidies, covered
+agencies and subdivisions should promptly discontinue them and use agency resources only for
+agency business.
+
+       D. End Allotments Through Agency Payroll Systems.
+
+        The FSLMRS requires agencies to deduct union dues from employees’ pay upon request. 17
+Agency resources are expended to set up those payroll deductions and process payments, and many
+agency CBAs contractually commit agencies to making such allotments according to specified
+procedures. When a covered agency terminates its CBAs, those contractual commitments no
+longer apply, and the covered agency should terminate allotments except where required by statute.
+Agency employees may make other arrangements for dues payments if they wish to do so.
+However, agency resources ordinarily should not be expended to facilitate payment of union dues.
+
+cc: Chief Human Capital Officers (CHCOs), Deputy CHCOs, Human Resources Directors, and
+Chiefs of Staff
+
+
+
+
+14
+   Memorandum of January 20, 2025 (Return to In-Person Work).
+15
+   OPM, Guidance on Collective Bargaining Obligations in Connection with Return to In-Person Work
+(February 3, 2025).
+16
+   5 U.S.C. 7131(d), 22 U.S.C. 4118(d)(4).
+17
+   5 U.S.C. 7115, 22 U.S.C. 4118(a).
+

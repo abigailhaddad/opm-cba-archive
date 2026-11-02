@@ -1,0 +1,160 @@
+                                  Frequently Asked Questions
+
+                                Executive Order 14251:
+            “Exclusions from Federal Labor-Management Relations Programs”
+
+Q1: What do agencies need to do to terminate applicable CBAs?
+
+A1: Agencies should not terminate any CBAs until the conclusion of litigation or further guidance
+from OPM directing such termination. Agencies should review relevant case law and consult with
+their General Counsels regarding next steps with any existing CBAs. See Department of Labor, 70
+FLRA 27 (FLRA 2016).
+
+Q2: Should agencies decertify bargaining units of covered agencies or subdivisions?
+
+A2: Agencies should not file any decertification petitions until litigation regarding Exclusions has
+been resolved. Only after the litigation is final and the Administration has assessed the
+implications of its outcome should agencies consider filing Federal Labor Relations Authority
+(FLRA) petitions to clarify that bargaining units include only those positions not exempted from
+collective-bargaining requirements under Exclusions. Agencies should consult their General
+Counsels for updates on the litigation, and before taking steps to file a decertification petition in
+compliance with the Exclusions order.
+
+Q3: Should agencies amend current filings with the FLRA for exceptions to arbitration awards
+where an arbitrator ordered relief for a bargaining unit covered under Exclusions?
+
+A3: Agencies should ask the FLRA to hold these cases in abeyance pending the outcome of
+litigation, where practicable. In cases with pending deadlines for submissions, agencies should ask
+the FLRA to suspend or extend those deadlines until the conclusion of the litigation. If the FLRA
+does not suspend deadlines or hold cases in abeyance agencies should take the position that the
+union lacks standing as it is not recognized as a result of Exclusions.
+
+Q4: In any ongoing proceedings in which an agency is asked to submit a statement of position
+regarding an unfair labor practice charge under investigation by the FLRA, should agencies submit
+a statement?
+
+A4: Yes. However, agencies should raise to the appropriate FLRA regional office that the relevant
+agency or agency subdivision is no longer subject to provisions of the Federal Service Labor-
+Management Relations Statute (FSLMRS) per the Exclusions order and, therefore, the union no
+longer has standing to file a charge or the FLRA to issue a complaint.
+
+Q5: Should agencies and agency subdivisions covered by Exclusions continue to participate in
+the FLRA’s Collaboration and Alternative Dispute Resolution Office (CADRO) with labor
+unions representing police officers, security guards, and firefighters? What about bargaining
+units comprised of other occupations?
+
+A5: Agencies may continue collective bargaining activities, including dispute resolution efforts
+with CADRO and other third-party proceedings with unions representing police officers, security
+guards, and firefighters, provided that these unions continue to be recognized consistent with
+Exclusions. However, for matters involving a dispute for any unit that represents positions now
+excluded under Executive Order 12171, as amended, agencies should continue those dispute
+resolution activities only if they are doing so independently of any requirements of a CBA and
+not relying on any provisions of Chapter 71 to compel their participation.
+
+Q6: Should agencies change the bargaining unit status codes on employees’ SF-50s?
+
+A6: Not at this time. Agencies should wait until litigation is resolved before doing so.
+
+Q7: What is meant by the term “subdivision?”
+
+A7: The term “subdivision” refers to any organization, office, or component that is subordinate to
+an agency or department head, as well as any division within those organizations, offices, or
+components.
+
+Q8: What is meant by Section 2 of Executive Order 14251 (Exclusions) where it states: “the
+immediate, local employing offices of any agency police officers, security guards, or
+firefighters…”
+
+A8: This means an agency or subdivision that directly supervises and employs such employees at
+the local level. Although this category will generally include purely the law enforcement officers
+in question, in some cases this may also include the administrative staff who support law
+enforcement operations.
+
+Q9: What actions should agencies take regarding bargaining units that represent both (i) employees
+in positions not subject to exclusion (e.g., police officers, security guards, firefighters) and (ii)
+agency employees now excluded under the President’s new directive?
+
+A9: Agencies should preserve the rights of employees not excluded from collective bargaining
+including continuing to participate in third-party procedures (e.g., arbitrations) that are focused
+solely on conditions of employment, contractual and statutory obligations, or other matters limited
+to these employees. For employees no longer included in a bargaining unit, agencies should follow
+the direction provided in this guidance. If agencies need further guidance, please contact OPM at
+awr@opm.gov.
+
+Q10: If an employee is no longer permitted to join or form a labor organization under the
+FSLMRS, can he or she strike against the Government while serving as a federal employee?
+
+A10: Under 5 U.S.C. § 7311, employee strikes against the Government of the United States are
+prohibited for all Federal employees, irrespective of whether they are in a bargaining unit.
+
+Q11: Can grievances initially filed under a negotiated grievance process (5 U.S.C. 7121) be
+transitioned to an administrative grievance process?
+
+A11: Yes, provided the matter is not excluded by the agency’s administrative grievance procedure
+and the grievant timely requests a transition to the administrative grievance procedure.
+
+Q12: Are unions ineligible as employee representatives under the FSLMRS permitted to establish
+
+
+                                                 2
+consultative relationships with agencies pursuant to 5 C.F.R. Part 251?
+
+A12: OPM’s regulations “[provide] a framework for consulting and communicating with non-
+labor organizations representing Federal employees and with other organizations on matters
+related to agency operations and personnel management.” A union is a “labor organization,” as
+defined in 5 U.S.C. 7103(a)(4), and is therefore, not covered by 5 C.F.R. Part 251 whether they
+represent bargaining unit employees at an agency or not.
+
+Q13: With announcement of the new Executive Order, Exclusions, are covered agencies still
+required to submit data to OPM regarding taxpayer-funded union time (TFUT), collective
+bargaining costs, and other labor relations data points?
+
+A13: Yes. Please continue to collect and timely submit agency labor relations data as requested,
+even if the agency or subdivision therein is now exempted from the provisions of the FSLMRS.
+
+Q14: What should we do with agreements that are pending Agency Head Review (AHR) and cover
+newly excluded agencies, subdivisions, or partial groups?
+
+A14: Agencies should exercise their agency head authority under 5 U.S.C. § 7114(c) to disapprove
+any agreement currently undergoing review for units that are no longer recognized within a
+covered agency or subdivision. Agencies should cite to Exclusions or, if applicable, the
+presidential memorandum Limiting Lame-Duck Collective Bargaining Agreements That
+Improperly Attempt to Constrain the New President, as their basis for disapproval. For agreements
+that include positions not subject to exclusion from collective bargaining (e.g., police officers,
+security guards, firefighters), agencies should conduct AHR as they normally would. Lastly, for
+agreements that include a mix of excluded and included units, agencies should continue AHR and
+include a note that the agreement only covers those not excluded by Executive Order 14251 and
+that the agreement has no applicability to other employees.
+
+Q15: For agencies that are currently bargaining with unions, are there any concerns with
+solidifying and executing agreements such as tentative agreements or memoranda of
+understandings or agreements (MOUs or MOAs)?
+
+A15: Agencies should suspend such negotiations until the conclusion of litigation.
+
+Q16: In Section 2 of Exclusions, 1-419 states: “The following agencies or subdivisions of each
+Executive department listed in section 101 of title 5, United States Code, the Social Security
+Administration, and the Office of Personnel Management: (a) Office of the Chief Information
+Officer (OCIO); (b) any other agency or subdivision that has information resources management
+duties as the agency or subdivision's primary duty.” Does this apply to all OCIO offices within an
+agency not listed in Exclusions?
+
+A16: This provision applies only to CIO offices in the Executive Departments (see 5 U.S.C. 101),
+OPM, and the Social Security Administration, as well as the subordinate agencies and offices
+under those Departments/agencies.
+
+Q17: What does information resources management mean as used in Section 2 of Exclusions?
+
+
+
+                                                3
+A17: The Paperwork Reduction Act defines “information resources management” at 44 U.S.C. §
+3502(7), as “the process of managing information resources to accomplish agency missions and to
+improve agency performance, including through the reduction of information collection burdens
+on the public.”
+
+
+
+
+                                              4
+

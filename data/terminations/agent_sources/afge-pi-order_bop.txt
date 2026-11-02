@@ -1,0 +1,1731 @@
+         Case 3:25-cv-01907-VDO         Document 72   Filed 09/29/26   Page 1 of 32
+
+
+
+
+                                UNITED STATES DISTRICT COURT
+                                    DISTRICT OF CONNECTICUT
+--------------------------------------------------------------- x
+NATIONAL COUNCIL OF PRISON                                      :
+LOCALS, et al.,                                                 : MEMORANDUM &
+                                                                : ORDER GRANTING
+                                          Plaintiffs,           : PLAINTIFFS’ MOTION
+                                                                : FOR PRELIMINARY
+                -against-                                       : INJUNCTION AND
+                                                                : RELIEF UNDER 5 U.S.C.
+FEDERAL BUREAU OF PRISONS, et al.,                              : § 705
+                                                                :
+                                          Defendants.           : 3:25-CV-1907 (VDO)
+                                                                :
+--------------------------------------------------------------- x
+VERNON D. OLIVER, United States District Judge:
+
+         On March 27, 2025, President Donald Trump signed Executive Order 14,251 (“EO
+
+14,251”), which excluded the Department of Justice (“DOJ”) and its member agencies,
+
+including the Federal Bureau of Prisons (“BOP”) from their previously statutorily protected
+
+right to collective bargaining. Nevertheless, for nearly six months after the issuance of
+
+EO 14,251, BOP continued to uphold and substantially comply with the collective bargaining
+
+agreement (the “CBA”) it held with National Council of Prison Locals, American Federation
+
+of Government Employees (“CPL-33”). This arrangement continued until September 25,
+
+2026, when BOP Director William K. Marshall III chose to terminate the CBA for a reason
+
+unrelated to national security: because, as he stated, CPL-33 is not the “kind of union” he
+
+supports. Although BOP stated that the termination was based on EO 14,251,1 Director
+
+Marshall posted a Message from the Director on the BOP website that same day, claiming that
+
+
+
+
+1
+    Ex. 2 to PI Motion, ECF No. 28-5 at 2.
+         Case 3:25-cv-01907-VDO         Document 72      Filed 09/29/26     Page 2 of 32
+
+
+
+
+the “whole purpose of ending this contract” was because the “union [was] an obstacle to
+
+progress” and “the current contract has too often slowed or prevented changes.”2
+
+         This case does not concern the validity of EO 14,251—that litigation is ongoing
+
+elsewhere throughout the nation. Rather, the immediate issue before the Court is whether, as
+
+is alleged, BOP’s decision to terminate the CBA violated the Administrative Procedures Act
+
+(“APA”) such that CPL-33 and its affiliate, American Federation of Government Employees
+
+Local 1661 (“Local 1661”) (collectively, “Plaintiffs”), are entitled to a preliminary injunction
+
+and preliminary relief under 5 U.S.C. § 705. For the following reasons, the Court agrees, and
+
+finds that Plaintiffs have met their burden of demonstrating the likely merit of their claim that
+
+the September 25, 2025, termination of the CBA violated the APA; that the termination caused
+
+irreparable harm to Plaintiffs and the thousands of members Plaintiffs represent; and that the
+
+public interest and balance of the equities weigh in favor of preliminary relief.
+
+         Accordingly, Plaintiffs’ motion for preliminary injunction and preliminary relief under
+
+5 U.S.C. § 705 (the “PI Motion”) is GRANTED. The September 25, 2025, termination of the
+
+CBA is preliminarily set aside and enjoined. Defendants shall immediately reinstate the CBA
+
+for the remainder of the agreed-upon term provided in the CBA, and shall be governed by the
+
+terms of that agreement. Defendants shall also reinstate any amendments, local supplemental
+
+agreements, and memoranda of understanding that were in place subsidiary to the CBA.
+
+
+
+
+2
+    Ex. 3 to PI Motion, ECF No. 28-6 at 2–3.
+
+
+                                                2
+          Case 3:25-cv-01907-VDO       Document 72      Filed 09/29/26    Page 3 of 32
+
+
+
+
+I.        BACKGROUND
+
+          A.     Factual Background
+
+                 1.     The Parties
+
+          CPL-33 represents a bargaining unit of approximately 30,000 civil servants who work
+
+for BOP.3 Its members are correctional officers, case managers, psychologists, and other BOP
+
+employees who are responsible for maintaining the safety and security of inmates, staff, and
+
+BOP institutions.4 CPL-33 evolved from labor organizations that had represented federal
+
+correctional institution employees since the 1940s.5 Under its current name, CPL-33 has been
+
+the exclusive bargaining representative for BOP employees since 2006.6
+
+          CPL-33’s mission is to advocate for and promote the interests of its bargaining unit
+
+members in their federal employment.7 The union’s core functions are: (1) collectively
+
+bargaining with BOP to obtain a fair and reasonable collective bargaining agreement; (2) filing
+
+and negotiating grievances against BOP to enforce the terms of the CBA; (3) pursuing
+
+arbitration on behalf of its members to enforce the CBA; (4) providing trainings to constituent
+
+locals, like Local 1661; and (5) providing support, guidance, and resources to its members.8
+
+CPL-33 is also active in advocating for its members before Congress to seek greater safety
+
+measures for staff and inmates, improved working conditions, and increased staffing and pay.9
+
+
+
+3
+    White Decl., ECF No. 28-2 ¶ 4.
+4
+    Id.
+5
+    Id.
+6
+    Compl., ECF No. 1 ¶ 13.
+7
+    ECF No. 28-2 ¶ 5.
+8
+    Id.
+9
+    Id.
+
+
+                                               3
+           Case 3:25-cv-01907-VDO      Document 72     Filed 09/29/26     Page 4 of 32
+
+
+
+
+           Local 1661 is a member union of CPL-33.10 It represents approximately 200 civil
+
+servants who work for BOP in Danbury, Connecticut.11 As a local affiliated chapter of CPL-
+
+33, Local 1661 is not a signatory to the CBA (or its amendments and modifications),12 but it
+
+nevertheless operates under the CBA that CPL-33 negotiates with BOP.13 It also enters into
+
+separate agreements that govern operations at FCI Danbury.14 Like CPL-33, Local 1661’s
+
+mission is to advocate for the interests of its members in their federal employment.15 It
+
+collectively bargains with BOP to outline local safety and security procedures and to negotiate
+
+conditions of employment for its members.16 It also files grievances and pursues arbitration
+
+against BOP to enforce the conditions of the CBA.17 For instance, Local 1661 recently
+
+negotiated a settlement under the CBA that corrected BOP’s failure to pay its staff for certain
+
+overtime hours they worked.18 Because of the CBA, each Local 1661 member received
+
+compensation under the settlement agreement without having to file individual complaints
+
+with BOP for corrected pay.19
+
+           BOP is a component of the United States Department of Justice. It employs
+
+approximately 35,000 employees, the majority of whom are designated as federal law
+
+
+10
+     Curnan Decl., ECF No. 28-3 ¶ 4.
+11
+     Id.
+12
+     Hemingway Decl., ECF No. 40-2 ¶ 7.
+13
+     ECF No. 28-3 ¶ 5.
+14
+     Id.
+15
+     Id.
+16
+     Id.
+17
+     Id.
+18
+     Id. ¶ 7.
+19
+     Id.
+
+
+                                              4
+           Case 3:25-cv-01907-VDO       Document 72     Filed 09/29/26      Page 5 of 32
+
+
+
+
+enforcement officers, and operates 122 prisons located within the United States and Puerto
+
+Rico.20 William K. Marshall III is sued in his official capacity as the director of BOP.21
+
+                 2.      The CBA
+
+           The most recent collective bargaining agreement, the CBA, was originally negotiated
+
+and signed in July 2014.22 Most recently, on November 1, 2024, BOP and CPL-33 entered into
+
+a revised CBA that extended the term through May 28, 2029.23 The CBA defines the rights of
+
+CPL-33 and its members across a variety of situations, ranging from establishing employee
+
+rights, to defining the relationship between the CPL-33 and BOP, and outlining how the union
+
+and agency engage on policy issues.
+
+           For employees, the CBA addresses how and where staff are assigned to work, their
+
+work schedule (including lunch breaks and time off), and the circumstances under which they
+
+can be mandated to work overtime.24 It also specifies the steps BOP must take to ensure the
+
+health and safety of its employees, such as measures the agency must implement to abate
+
+asbestos and lead paint.25 Employees are also guaranteed the right to union representation in
+
+investigatory examinations that may result in discipline, as well as union assistance in filing a
+
+
+
+
+20
+     ECF No. 40-2 ¶ 2.
+21
+     ECF No. 1 ¶ 17.
+22
+     ECF No. 28-2 ¶ 7.
+23
+     Id.
+24
+     Id. ¶ 13.
+25
+     Id. ¶ 17.
+
+
+                                                5
+           Case 3:25-cv-01907-VDO      Document 72      Filed 09/29/26      Page 6 of 32
+
+
+
+
+formal grievance.26 During the formal grievance process, the union has a right to be present at
+
+any discussions with BOP, and grievances must be resolved in accordance with the CBA.27
+
+           The CBA also establishes how CPL-33, Local 1661, and BOP interact with each other,
+
+particularly as it applies to negotiations on issues of policy. Article 2 guarantees that CPL-33
+
+and BOP officials will meet four times a year on issues of national concern and recommends
+
+that local union affiliates meet with local agency officials monthly.28 At the national and local
+
+levels, these meetings have concerned issues such as employee uniforms, respiratory
+
+contaminants, and the provision of safety equipment.29 The CBA enshrines the right of CPL-
+
+33 to present its views to BOP officials and Congress, and it protects employees from reprisal
+
+for expressing their views to management officials or Congress.30
+
+           The CBA further establishes the purposes and procedures for which union
+
+representatives may use “official time.”31 This refers to the time that union representatives may
+
+use on union activities when they would otherwise be on official-duty status.32 The CBA
+
+provides that union representatives may use official time to engage in grievance proceedings
+
+and arbitrations, meet with employees to address workplace concerns, negotiate with BOP on
+
+issues affecting employees and inmates, and represent CPL-33’s positions to BOP officials.33
+
+
+
+26
+     Id. ¶ 14.
+27
+     Id.
+28
+     Id. ¶ 9.
+29
+     Id.
+30
+     Id. ¶ 16.
+31
+     Id. ¶¶ 10–11.
+32
+     See id. ¶ 10.
+33
+     Id.
+
+
+                                                6
+           Case 3:25-cv-01907-VDO        Document 72    Filed 09/29/26    Page 7 of 32
+
+
+
+
+           Although CPL-33 local affiliates, such as Local 1661, are not formal parties to the
+
+CBA,34 they implement the CBA and supplement it with memoranda of understanding or other
+
+agreements addressing local concerns.35 For instance, in recent years Local 1661 negotiated
+
+the Overtime Memorandum of Understanding, which outlined procedures management and
+
+staff would follow to fill necessary overtime.36 Local 1661 has also negotiated a supplement
+
+to ensure the proper tracking and safe transportation of medications, and safety procedures to
+
+protect inmates and staff.37
+
+                 3.       EO 14,251 and FSLMRS
+
+           On March 27, 2025, President Donald Trump signed EO 14,251, which exempted
+
+dozens of federal agencies from the requirements of the Federal Service Labor Management
+
+Relations Statute (“FSLMRS”) because those agencies “had as a primary function intelligence,
+
+counterintelligence, investigative, or national security work” and the FSLMRS could not be
+
+applied to the agencies “in a manner consistent with national security requirements and
+
+considerations.”38 Enacted in 1978, the FSLMRS establishes a framework governing labor-
+
+management relations in federal agencies. It provides for collective bargaining between federal
+
+agencies and unions, and it bars each from committing unfair labor practices. See 5 U.S.C. §
+
+7101, et seq. The BOP is one of the agencies that the President sought to exempt from the
+
+
+
+
+34
+     ECF No. 40-2 ¶ 7.
+35
+     ECF No. 28-3 ¶ 13.
+36
+     Id. ¶ 6.
+37
+     Id.
+38
+     ECF No. 1 . ¶ 24; see also EO 14,251 § 1(a).
+
+
+                                                    7
+         Case 3:25-cv-01907-VDO        Document 72       Filed 09/29/26    Page 8 of 32
+
+
+
+
+FSLMRS’s coverage under EO 14,251.39 However, EO 14,251 did not state that agencies were
+
+compelled to terminate existing CBAs, and it did not mandate that the CBA between CPL-33
+
+and BOP be terminated before its expiration date of May 28, 2029.40
+
+         The validity of EO 14,251 has been the subject of significant, widespread litigation
+
+across the United States.41
+
+                 4.     Post-Executive Order, Pre-Termination
+
+         Although EO 14,251 was issued on March 27, 2025, BOP did not terminate its CBA
+
+with CPL-33 until approximately six months later, on September 25, 2025. For some of the
+
+time following the issuance of the Executive Order, the implementation of EO 14,251 was
+
+enjoined on First Amendment grounds by the Northern District of California.42 On August 1,
+
+2025, however, the Ninth Circuit stayed the district court’s injunction.43 Between the date of
+
+the Ninth Circuit stay and the CBA termination date, BOP continued to engage in actions
+
+required by the CBA.44
+
+         For example, until the CBA termination date, BOP continued to approve official time
+
+for union officials to engage in union activities, notify employees of their right to union
+
+representation in disciplinary investigations, and negotiate with CPL-33 on a variety of
+
+
+39
+  ECF No. 1 ¶ 25; see also EO 14,251 § 2(b) (listing the Department of Justice, of which BOP is
+a part, as one of the agencies affected by the Executive Order).
+40
+     ECF No. 1 ¶¶ 26, 31; see generally EO 14,251.
+41
+   ECF No. 1 ¶¶ 29–36; see, e.g., AFGE v. Trump, No. 25-CV-3070, ECF No. 1 (N.D. Cal. Apr.
+3, 2025); U.S. Dep’t of Def. v. AFGE, AFL-CIO, Dist. 10, No. 25-CV-119-ADA, ECF No. 1 (W.D.
+Tex. Mar. 28, 2025).
+42
+  ECF No. 1 ¶ 36; see also AFGE v. Trump, No. 25-CV-3070, 2025 WL 1755442 (N.D. Cal. June
+24, 2025).
+43
+     ECF No. 1 ¶ 36; see also AFGE v. Trump, No. 25-4014, ECF No. 32 (9th Cir. Aug. 1, 2025).
+44
+     ECF No. 1 ¶ 40.
+
+
+                                                8
+         Case 3:25-cv-01907-VDO        Document 72     Filed 09/29/26    Page 9 of 32
+
+
+
+
+issues.45 BOP responded to numerous grievances brought under the terms of the CBA and
+
+reached settlements in some outstanding grievances.46 And it continued to allow CPL-33 to
+
+continue working out of BOP office space and kept posters on display that notified employees
+
+of their collective bargaining rights.47
+
+          Local 1661’s roles and responsibilities at FCI Danbury also remained the same from
+
+the date EO 14,251 was issued on March 27, 2025, until the CBA was terminated on September
+
+25, 2025.48 During that time, BOP continued to negotiate with Local 1661, attend monthly
+
+Labor Relations Meetings, respond to grievances brought by Local 1661 under the CBA, work
+
+with Local 1661 to finalize employee rosters under the CBA, and invite the Local 1661
+
+President to meetings.49 Local 1661 also retained its space at FCI Danbury and access to that
+
+space was only revoked a week after the termination of the CBA.50 Indeed, from March 29,
+
+2025, to September 24, 2025, Local 1661 introduced at least thirty supplements to the CBA,
+
+which BOP either reviewed and negotiated or agreed to without any changes.51
+
+          During this period, the Office of Personnel Management (“OPM”) regularly released
+
+guidance concerning the termination of CBAs under EO 14,251. In April 2025, OPM issued
+
+guidance to all federal agencies in the form of a “Frequently Asked Questions,” which advised
+
+federal agencies not to terminate collective bargaining agreements in light of the extensive,
+
+
+45
+     ECF No. 28-2 ¶¶ 19–21.
+46
+     Id. ¶ 23.
+47
+     Id. ¶ 27.
+48
+     ECF No. 28-3 ¶ 11.
+49
+     Id. ¶¶ 12–18.
+50
+     Id. ¶ 18.
+51
+     Id. ¶ 13.
+
+
+                                               9
+           Case 3:25-cv-01907-VDO         Document 72       Filed 09/29/26     Page 10 of 32
+
+
+
+
+nation-wide legal challenges to EO 14,251.52 After the Ninth Circuit issued its stay, OPM
+
+issued revised guidance that stated, “[a]gencies may choose to terminate, abrogate, or repudiate
+
+CBAs with other unions, and should consult with their General Counsels to assess next steps
+
+regarding those CBAs.”53
+
+                   5.     Termination
+
+            In September 2025, Director Marshall “made the decision to terminate the [CBA] with
+
+CPL-33 in accordance with the Executive Order.”54 On September 25, 2025, the BOP Deputy
+
+Director called CPL-33 President Brandy White to inform her that CPL-33’s CBA with BOP
+
+was being terminated.55 Soon thereafter, Ms. White received a letter from Director Marshall
+
+(the “Termination Letter”),56 which stated:
+
+            On March 27, 2025, President Trump signed an executive order (EO) entitled
+            Exclusions from Federal Labor-Management Relations Programs (Exclusions).
+            This order utilized the President’s broad authority under 5 U.S.C § 7103(b)(l)
+            to exempt agencies and agency subdivisions from the provisions of the Federal
+            Service Labor-Management Relations Statute (FSLMRS). The Department of
+            Justice (other than the United States Marshals Service) was explicitly included
+            in Exclusions.
+
+            As a result, based on the EO and as of the date of this notice, Bureau of Prisons
+            no longer recognizes the Counsel of Prison Locals, AFGE, as the exclusive
+            representative for employees of the existing bargaining unit. As a result, the
+            following actions, among others, consistent with this decision are being taken:
+
+            A.     The collective bargaining agreement (CBA) between the Bureau of
+                   Prisons (BOP) and the Counsel of Prison Locals (July 21, 2014 – May
+                   28, 2029), and any other negotiated agreements or MOUs between these
+                   parties are no longer in effect. Employees will be required to abide by
+
+52
+     ECF No. 40-2 ¶ 12.
+53
+     Id. ¶ 14.
+54
+     Id. ¶ 15.
+55
+     ECF No. 28-2 ¶ 28.
+56
+     Id.
+
+
+                                                   10
+        Case 3:25-cv-01907-VDO         Document 72       Filed 09/29/26     Page 11 of 32
+
+
+
+
+                 and be regulated by, Component and DOJ policies as well government-
+                 wide laws, rules and regulations.
+
+         B.      Union dues will no longer be deducted from employees’ pay or
+                 transmitted to you on their behalf.
+
+         C.      Union officials may no longer request or be granted official time
+                 pursuant to the FSLMRS or any CBAs. Any previously approved official
+                 time is hereby no longer approved. All employees must report to their
+                 currently assigned position of record as of the date of this memo unless
+                 they are in an approved leave status.
+
+         D.      Employees no longer have the right to union representation at formal
+                 discussions, investigatory interviews, 3rd party proceedings or in any
+                 other situation unless they have a right to a personal representative and
+                 choose a union official to represent them in this capacity. Any
+                 representative who is also an employee will have to use appropriate leave
+                 if they provide representation during work hours.
+
+         Any questions regarding this memorandum or other issues should be raised with
+         Christopher Wade, Chief, Labor Relations Office.57
+
+         The same day Director Marshall sent the Termination Letter, he posted a Message from
+
+the Director on the BOP website (the “Director’s Message”).58 That message read, in its
+
+entirety:
+
+         For too long, the Federal Bureau of Prisons has been ranked among the worst
+         places to work in the federal government. That’s unacceptable and that demands
+         change.
+
+         My commitment is clear: make life better for every person who works here.
+         Better conditions. Better policies. A better future.
+
+         CPL-33 has a proud history of advocating for its members, and I want to
+         acknowledge the positive contributions it has made over the years. Many
+         dedicated people have given their time and energy under this contract, and I
+         respect the intent behind that work. But the truth is, despite those efforts, we
+         have not seen the progress we need. The current contract has too often slowed
+         or prevented changes that would have made your jobs safer and your workdays
+
+
+57
+     ECF No. 28-5 at 2–3.
+58
+     ECF No. 28-6, at 2–3.
+
+
+                                                11
+Case 3:25-cv-01907-VDO          Document 72       Filed 09/29/26      Page 12 of 32
+
+
+
+
+ better. This is not about questioning the value of representation; it’s about
+ ensuring representation moves us forward, not holds us back.
+
+ I grew up in West Virginia. My family has always been pro-union. The coal
+ miners and steel workers I knew stood together, fought for safer conditions, and
+ made life better for their families. That’s the kind of union I will always support.
+
+ But when a union becomes an obstacle to progress instead of a partner in it, it’s
+ time for change. And today, thanks to President Donald J. Trump and Attorney
+ General Pamela Bondi, we’re making that change. Today, I’m announcing the
+ termination of our contract with CPL-33 effective immediately.
+
+ I want to be absolutely clear about what this means.
+
+  Your job security is protected by civil service law. You will not be removed,
+   suspended, or demoted without cause and due process.
+
+  Your pay and benefits, including your salary, retirement, health insurance,
+   overtime, leave accrual, and uniform allowance, are guaranteed by law and
+   remain.
+
+  Your civil service protections, including whistleblower rights, appeal rights,
+   and anti-discrimination protections, remain fully in place.
+
+  Your safety remains my priority. Our legal obligation to provide a safe and
+   secure workplace does not change.
+
+ In the coming days, we will spell out exactly how we move forward from here
+ but the bottom line is CPL-33 didn’t give you your protections, the law did, and
+ Bureau policy continues them.
+
+ Those safeguards aren’t going anywhere. This isn’t about taking things away,
+ it’s about giving you more. More clarity. More fairness. More respect.
+
+ The whole purpose of ending this contract is to make your lives better. Period.
+
+ Every time I change an old practice, I’m asking one question first: Does this
+ make life better for my staff? If the answer is no, it doesn’t happen. If the answer
+ is yes, we move and we move fast.
+
+ We will move forward with solutions that work, without roadblocks, without
+ excuses, and with one goal: to make the Bureau a place where people are proud
+ to serve.
+
+
+
+
+                                         12
+           Case 3:25-cv-01907-VDO         Document 72      Filed 09/29/26     Page 13 of 32
+
+
+
+
+            This is our moment to build something better. And we will. Now, let’s get to
+            work.
+
+            William K. Marshall, III
+            Director
+            Federal Bureau of Prisons59
+
+            As a result of the termination, CPL-33 was no longer recognized as the exclusive
+
+representative of BOP staff, and all negotiated agreements between BOP and CPL-33 (and its
+
+local chapters) were terminated and no longer in effect, including the CBA.60
+
+                   6.     Post-Termination
+
+            Since terminating the CBA, BOP has taken a litany of actions to unwind its relationship
+
+with CPL-33 and Local 1661, and eradicate the protections offered by the CBA. BOP has
+
+changed workplace policies to the detriment of employees and forced employees to work
+
+overtime in dangerous conditions.61 Employees have been disciplined and terminated over
+
+minor policy violations without due process protections.62 BOP has prohibited union
+
+representatives’ use of official time for representing employees in disciplinary proceedings,
+
+and in some circumstances, it has also refused to allow union representatives to use their own
+
+paid leave to assist employees during those proceedings.63 For instance, BOP pressured
+
+employees not to take sick leave, and in one instance sent a sick-leave abuse letter to an
+
+employee who was in the hospital for kidney surgery.64 In another instance, an employee who
+
+
+
+59
+     Id.
+60
+     ECF No. 40-2 ¶ 15.
+61
+     ECF No. 28-2 ¶ 30.
+62
+     ECF No. 28-3 ¶ 19
+63
+     ECF No. 28-2 ¶ 34.
+64
+     Id. ¶ 31.
+
+
+                                                  13
+           Case 3:25-cv-01907-VDO       Document 72      Filed 09/29/26    Page 14 of 32
+
+
+
+
+was recovering from surgery was placed on AWOL (Absent Without Leave) status and
+
+threatened with termination if they did not return to work.65 Terminating the CBA stripped
+
+BOP employees of the benefit of union representation in these instances, leaving them to
+
+navigate disciplinary proceedings without union support.66
+
+            Without the protections of the CBA, managers at BOP have made changes to schedules,
+
+procedures, and performance evaluations without input from CPL-33 or Local 1661.67 The
+
+grievance procedure established under the CBA has been changed to an internal grievance
+
+procedure, where BOP adjudicates its own alleged violations without outside oversight.68
+
+Local 1661, specifically, has noticed that these new work procedures have caused a worsening
+
+of working conditions and a noticeable drop in staffing levels.69 BOP has also changed policies
+
+that protected employees without input from CPL-33 or Local 1661.70 At FCI Danbury, for
+
+example, BOP changed the holiday time-off status to require employees to work holidays they
+
+traditionally had off.71 BOP also changed its sick-leave policy at FCI Danbury and now
+
+requires employees to provide information about specific medical issues they are experiencing
+
+so management can decide if sick leave is appropriate.72
+
+
+
+
+65
+     Id.
+66
+     ECF No. 28-3 ¶ 19.
+67
+     Id. ¶ 21.
+68
+     Id.
+69
+     Id.
+70
+     Id. ¶ 20.
+71
+     Id.
+72
+     Id.
+
+
+                                                14
+           Case 3:25-cv-01907-VDO        Document 72      Filed 09/29/26    Page 15 of 32
+
+
+
+
+            The elimination of the CBA has also led to BOP restricting union members from
+
+advocating for policy before Congress.73 During the week after the CBA was terminated, BOP
+
+prevented CPL-33 representatives from traveling to Capitol Hill to present their views to
+
+Congress.74 BOP denied those members the use of annual leave to travel to Washington, D.C.,
+
+and threatened to place those who went to Capitol Hill on AWOL status.75 BOP also prohibited
+
+union representatives from speaking with the media, and has reprimanded representatives for
+
+speaking to the media on issues such as hardships to its members caused by the federal lapse
+
+in appropriations in 2025.76
+
+            BOP’s refusal to allow union representation of employees and its removal of the union
+
+office space in its facilities has caused mass confusion among employees as to whether CPL-
+
+33 and Local 1661 still exist.77 This has caused union membership to plummet, and the sharp
+
+decrease in membership has threatened the existence of CPL-33 and Local 1661.78
+
+            B.     Procedural History
+
+            On November 13, 2025, Plaintiffs CPL-33 and Local 1661 filed their complaint,
+
+alleging two causes of action: first, that BOP’s termination of the CBA between BOP and CPL-
+
+33 was arbitrary and capricious, in violation of the Administrative Procedure Act (“APA”);
+
+and second, that the termination was impermissible retaliation in violation of the First
+
+
+
+
+73
+     ECF No. 28-2 ¶ 33.
+74
+     Id.
+75
+     Id.
+76
+     Id. ¶ 37.
+77
+     Id. ¶ 30.
+78
+     Id.; see also ECF No. 28-3 ¶ 21.
+
+
+                                                 15
+        Case 3:25-cv-01907-VDO        Document 72       Filed 09/29/26      Page 16 of 32
+
+
+
+
+Amendment.79 The following month, on December 22, 2025, Plaintiffs filed the instant motion
+
+for preliminary injunctive relief.80 Defendants responded to the PI Motion on February 13,
+
+2026,81 and Plaintiffs replied on April 16, 2026.82 The Court held oral argument on the PI
+
+Motion on April 30, 2026.83
+
+II.      LEGAL STANDARD
+
+         A.     Preliminary Injunction
+
+         A preliminary injunction is “an extraordinary remedy that may only be awarded upon
+
+a clear showing that the plaintiff is entitled to such relief.” Winter v. Nat. Res. Def. Council,
+
+Inc., 555 U.S. 7, 22 (2008). A party seeking a preliminary injunction that “will affect
+
+government action taken in the public interest pursuant to statute or a regulatory scheme” must
+
+demonstrate: (1) irreparable harm absent injunctive relief, (2) a likelihood of success on the
+
+merits, (3) public interest weighing in favor of granting the injunction, and (4) that the balance
+
+of equities tips in its favor. We The Patriots USA, Inc. v. Hochul, 17 F.4th 266, 279–80 (2d
+
+Cir. 2021) (quoting Agudath Israel of Am. v. Cuomo, 983 F.3d 620, 631 (2d Cir. 2020)),
+
+opinion clarified, 17 F.4th 368 (2d Cir. 2021); see also Yang v. Kosinski, 960 F.3d 119, 127
+
+(2d Cir. 2020). When the government is a party to the suit, the balance of the equities and
+
+public interest factors of the preliminary injunction standard merge. New York v. U.S. Dep’t of
+
+
+
+79
+     See ECF No. 1.
+80
+     See ECF No. 28.
+81
+   See ECF No. 40. The response was embedded in an omnibus motion to dismiss, a motion to
+stay, and a response to the PI Motion. Id. The Court denied the motion to dismiss and motion to
+stay on April 28, 2026. See ECF No. 54.
+82
+     See Reply, ECF No. 53.
+83
+     See Minute Entry, ECF No. 56.
+
+
+                                               16
+       Case 3:25-cv-01907-VDO         Document 72        Filed 09/29/26      Page 17 of 32
+
+
+
+
+Homeland Sec., 969 F.3d 42, 58–59 (2d Cir. 2020) (citing Nken v. Holder, 556 U.S. 418, 435
+
+(2009)).
+
+        A movant seeking injunctive relief has a “heavier burden” than a plaintiff who must
+
+plead a “plausible claim necessary to avoid dismissal.” New Hope Fam. Servs., Inc. v. Poole,
+
+966 F.3d 145, 165 (2d Cir. 2020). Indeed, on preliminary injunction, a court is not required to
+
+accept a plaintiff’s “allegations as true or draw all reasonable inferences in its favor.” Id.
+
+Rather, “a court may consider the entire record including affidavits and other hearsay
+
+evidence.” J.S.R. by & through J.S.G. v. Sessions, 330 F. Supp. 3d 731, 738 (D. Conn. 2018).
+
+        B.     5 U.S.C. § 705
+
+        The APA authorizes courts to “issue all necessary and appropriate process to postpone
+
+the effective date of an agency action or to preserve status or rights pending conclusion of the
+
+review proceedings” when “necessary to prevent irreparable injury.” 5 U.S.C. § 705. “The
+
+standard for a stay of agency action under 5 U.S.C. § 705 is the same as the standard for a
+
+preliminary injunction.” New York v. Admin. for Child. & Fams., 833 F. Supp. 3d 361, 381
+
+(S.D.N.Y. 2026).
+
+III.    DISCUSSION
+
+        A.     Likelihood of Success on the Merits
+
+        The Court begins with assessing Plaintiffs’ likelihood of success on the merits. “In
+
+general, to establish a ‘likelihood of success on the merits’ the movant for injunctive relief
+
+‘need only make a showing that the probability of his prevailing is better than fifty
+
+percent.’” Abrams v. Waters, No. 17-CV-1659 (CSH), 2018 WL 1469057, at *4 (D. Conn.
+
+Mar. 26, 2018) (quoting Eng v. Smith, 849 F.2d 80, 82 (2d Cir. 1988)). In the PI Motion,
+
+Plaintiffs only raised the issue of whether they are likely to succeed on the merits of their claim
+
+
+                                                17
+      Case 3:25-cv-01907-VDO           Document 72        Filed 09/29/26     Page 18 of 32
+
+
+
+
+that Defendants acted arbitrarily and capriciously in violation of the Administrative Procedures
+
+Act (“APA”) when terminating the CBA.84 As explained below, Plaintiffs met their burden of
+
+demonstrating that they are likely to succeed on the merits of this issue.
+
+               1.      Claim Channeling and Claim Splitting
+
+       As an initial matter, the Court addressed the Defendants’ arguments concerning claim
+
+channeling and claim splitting in its Order Denying Defendants’ Motion to Dismiss (the
+
+“Motion to Dismiss Order”). Nat’l Council of Prison Locs. v. Fed. Bureau of Prisons, No. 25-
+
+CV-1907 (VDO), 2026 WL 1146301, at *4–7 (D. Conn. Apr. 28, 2026). Defendants
+
+incorporated the same arguments on these issues in its Motion to Dismiss and Response to the
+
+PI Motion.85 Because the analysis of the likelihood of success on the merits of those claims
+
+presents essentially the same legal issues during both the pleading stage and on preliminary
+
+injunction, the Court adopts its analysis and decision on those arguments as set forth in the
+
+Motion to Dismiss Order. Id. For the same reasons, the Court concludes that it is not deprived
+
+of subject matter jurisdiction over this matter because: (1) the claims at issue were not
+
+channeled to the FLRA; and (2) this matter was not improperly split from the matter in the
+
+Northern District of California, AFGE v. Trump, No. 25-CV-3070, (N.D. Cal.).
+
+
+
+
+84
+  Plaintiffs also state a First Amendment violation claim in their complaint. They did not raise the
+First Amendment violation in their briefing on the PI Motion, and at oral argument acknowledged
+their intention to only proceed on the APA claim for the PI Motion. Oral Arg. Tr., ECF No. 62,
+21:14–22. Defendants have not objected to this course of action, and accordingly, the Court only
+considers the merits of Plaintiffs’ APA claim in deciding the instant motion.
+85
+  See ECF No. 40-1 at 36 (“For the same reasons set forth above in Sections IV.A.1, IV.A.2, and
+IV.A.3.a [of the Motion to Dismiss], Plaintiffs are unlikely to succeed on their claim that BOP
+violated the APA.”).
+
+
+                                                18
+      Case 3:25-cv-01907-VDO           Document 72        Filed 09/29/26     Page 19 of 32
+
+
+
+
+               2.      Administrative Procedures Act
+
+       The Court declined to adjudicate the merits of the APA claim in the first instance in
+
+deciding the Motion to Dismiss, finding that, “[t]he Court cannot consider Defendants’ fact-
+
+specific arguments on the current record, without the benefit of the certified administrative
+
+record or the additional breadth of evidence typically available during a preliminary
+
+injunction.” Nat. Council of Prison Locs., 2026 WL 1146301, at *9. Now, with the benefit of
+
+the affidavits and the factual record before the Court on the PI Motion, the Court will address
+
+the likely merit of Plaintiffs’ APA claim.
+
+       Arbitrary-and-capricious review under the APA requires the Court to “ensure[] that the
+
+agency has acted within a zone of reasonableness and, in particular, has reasonably considered
+
+the relevant issues and reasonably explained the decision.” FCC v. Prometheus Radio Project,
+
+592 U.S. 414, 423 (2021). “Not only must an agency’s decreed result be within the scope of
+
+its lawful authority, but the process by which it reaches that result must be logical and rational.”
+
+Michigan v. EPA, 576 U.S. 743, 750 (2015) (quoting Allentown Mack Sales & Serv. Inc. v.
+
+NLRB, 522 U.S. 359, 374 (1998)). “An agency action is arbitrary and capricious if the agency
+
+has relied on factors which Congress has not intended it to consider, entirely failed to consider
+
+an important aspect of the problem, offered an explanation for its decision that runs counter to
+
+the evidence before the agency, or is so implausible that it could not be ascribed to a difference
+
+in view or the product of agency expertise.” Kakar v. U.S. Citizenship & Immigr. Servs., 29
+
+F.4th 129, 132 (2d Cir. 2022) (quoting Alzokari v. Pompeo, 973 F.3d 65, 70 (2d Cir. 2020)).
+
+Agency action is also arbitrary and capricious where the agency fails to consider “serious
+
+reliance interests” endangered by the change of a longstanding policy. FDA v. Wages & White
+
+
+
+
+                                                19
+        Case 3:25-cv-01907-VDO           Document 72   Filed 09/29/26    Page 20 of 32
+
+
+
+
+Lion Invs., L.L.C., 604 U.S. 542, 568–69 (2025) (quoting Encino Motorcars, LLC v. Navarro,
+
+579 U.S. 211, 221–22 (2016)).
+
+          Plaintiffs make six arguments as to why the termination of the CBA was arbitrary and
+
+capricious in violation of the APA: (1) the termination was contrived or pretextual; (2) BOP
+
+considered factors that Congress did not permit it to consider in terminating the CBA; (3) BOP
+
+failed to consider the discretion it had in deciding whether or when to terminate the CBA; (4)
+
+BOP failed to offer a satisfactory explanation for why it terminated the CBA and why it did so
+
+at that time; (5) BOP did not consider alternatives to terminating the CBA and it did not
+
+consider alternatives to terminating it at that time “effective immediately;” and (6) BOP did
+
+not consider the reliance interests of its employees who were impacted by the termination
+
+decision and timing.86
+
+          Defendants offer three arguments in response. First, that Defendants’ actions are
+
+unreviewable under the APA because they constitute an “agency’s action on behalf of the
+
+President, involving discretionary authority committed to the President.”87 Second, Defendants
+
+argue in the alternative that if the Court finds that the BOP had discretion over whether and
+
+when to terminate the CBA, that the Court should find that Plaintiffs are not likely to succeed
+
+on the merits of their APA claim because the termination of the CBA is an action “committed
+
+to agency discretion by law,” and is thus unreviewable under the APA.88 Third, Defendants
+
+
+
+
+86
+     ECF No. 28-1 at 17–22.
+87
+  ECF No. 40-1 at 23–30 (quoting Detroit Int’l Bridge Co. v. Gov’t of Canada, 189 F. Supp. 3d
+85, 100 (D.D.C. 2016), aff’d, 875 F.3d 1132 (D.C. Cir. 2017)).
+88
+     Id. at 29 (quoting 5 U.S.C. § 701(a)(2)).
+
+
+                                                 20
+        Case 3:25-cv-01907-VDO         Document 72      Filed 09/29/26     Page 21 of 32
+
+
+
+
+argue that the termination was not contrived or pretextual because an agency may rationally
+
+have multiple reasons for its action.89
+
+          The Court first considers Defendants’ arguments, and finding them unavailing, turns to
+
+Plaintiffs’ arguments on whether Defendants’ termination of the CBA was pretextual, and thus
+
+arbitrary and capricious in violation of the APA.
+
+                        a.     Presidential Action
+
+          Defendants assert in their response to the PI Motion that the decision to terminate is
+
+unreviewable under the APA because “[t]he President’s determination [to issue EO 14,251]
+
+left no room for BOP to make an independent call on ending the CBA.”90
+
+          However, this argument plainly contradicts the factual record and Defendants’
+
+concessions that Director Marshall made the decision to terminate the CBA, and that he had
+
+explicit discretion over when to terminate the agreement. Defendants submitted the
+
+Declaration of Jonathan Hemingway, the Acting Assistant Director for the Bureau of Prisons
+
+Human Resource Management Division, in support of their objection to the PI Motion. There,
+
+Mr. Hemingway attests that “the Director of the Bureau of Prisons, William K. Marshall III,
+
+made the decision to terminate the CBA with CPL-33 in accordance with the Executive
+
+Order.”91 At oral argument, Defense counsel elaborated on this point, stating that “the Director
+
+had discretion in timing, and there was nothing that said on this specific day you have to
+
+terminate the CBA,” and that the Executive Order “did not specifically direct Directors to
+
+
+
+
+89
+     Id. at 30–31.
+90
+     Defs.’ Reply, ECF No. 51 at 9.
+91
+     ECF No. 40-2 ¶ 15 (emphasis added).
+
+
+                                                21
+         Case 3:25-cv-01907-VDO        Document 72      Filed 09/29/26     Page 22 of 32
+
+
+
+
+terminate CBAs.”92 Indeed, the United States has supported the stance that agencies are free
+
+to choose whether and when to terminate CBAs because of the Executive Order. For instance,
+
+in the OPM guidance related to EO 14,251, issued after the Ninth Circuit stay (submitted to
+
+the Court by Defendants as Exhibit 4 to Hemingway’s Declaration), OPM states that
+
+“[a]gencies may choose to terminate, abrogate, or repudiate CBAs with other unions, and
+
+should consult with their General Counsels to assess next steps regarding those CBAs.”93 In
+
+February 2026, OPM issued further guidance in the form of a template collective bargaining
+
+agreement termination letter (the “OPM Termination Template”) which advised agencies to
+
+consider a number of interests and weigh whether to terminate CBAs in whole or part.94
+
+Indeed, throughout that template, OPM advised agencies terminating collective bargaining
+
+agreements to state that the agency “reviewed the parties’ CBA to determine [whether]
+
+continuing to adhere to its provisions would be consistent with the President’s national security
+
+determination.”95 In doing so, OPM directed agencies to state the specific national security
+
+interests impacted by the collective bargaining agreement, and consider “the interests of
+
+bargaining unit employees.”96
+
+          On the record before the Court, it is evident that Defendants retained decision-making
+
+authority as to whether to terminate the CBA and the timing of such a termination (if any). EO
+
+
+
+92
+     ECF No. 62, at 48:14–17; 50:18–19.
+93
+     ECF No. 40-6 at 4; ECF No. 40-2 ¶ 14.
+94
+ See OPM Termination Template, https://perma.cc/ZAT4-YAZD; see also ECF No. 53 at 8. The
+Court took judicial notice of this publicly available government document at oral argument. ECF
+No. 62 at 14:8–18.
+95
+     OPM Termination Template at 2.
+96
+     Id. at 2–3.
+
+
+                                                22
+        Case 3:25-cv-01907-VDO        Document 72      Filed 09/29/26     Page 23 of 32
+
+
+
+
+14,251 does not require the termination of collective bargaining agreements. Neither does the
+
+section of the FSLMRS that allows the President to exempt agencies from that statutory
+
+scheme. See 5 U.S.C. § 7103(b). Likewise, the OPM guidance in effect on September 25, 2025,
+
+did not require agencies to terminate collective bargaining agreements. Instead, it expressly
+
+stated that agencies “may choose” to terminate such agreements. The OPM Termination
+
+Template also advised agencies to consider national security concerns and the reliance interests
+
+of employees in deciding whether to terminate a collective bargaining agreement. Thus, the
+
+termination of the instant CBA was not one that flowed naturally from an executive order
+
+leaving Defendants without discretion or flexibility. Rather, Defendants took affirmative steps
+
+to decide whether and when to terminate the CBA: in accordance with OPM guidance, Director
+
+Marshall “made the decision” to terminate the CBA,97 and Defendants had the authority to
+
+determine when, precisely, the termination was to occur. Those decisions by BOP and Director
+
+Marshall are reviewable under the APA. Accordingly, Defendants’ argument that the decision
+
+to terminate the CBA is unreviewable because they lacked discretion is contradicted by the
+
+record, contradicted by other statements made by the United States, and unavailing to this
+
+Court.
+
+                          b.   Discretionary Action
+
+         Defendants argue in the alternative that the APA precludes review because the
+
+termination was an action “committed to agency discretion by law,” under 5 U.S.C.
+
+§ 701(a)(2).98 Specifically, they claim that the Court lacks the authority to review the timing
+
+
+
+97
+     ECF No. 40-2 ¶ 15.
+98
+     ECF No. 40-1 at 29.
+
+
+                                              23
+         Case 3:25-cv-01907-VDO        Document 72      Filed 09/29/26     Page 24 of 32
+
+
+
+
+or affirmative actions taken by Defendants because “[t]here is simply no law” for the Court to
+
+apply to determine whether Defendants’ actions were arbitrary and capricious in violation of
+
+the APA.99 The Court disagrees with such a broad reading of § 701(a)(2).
+
+          The APA carries a “strong presumption that Congress intends judicial review of
+
+administrative action.” County of Westchester v. HUD, 778 F.3d 412, 418–19 (2d Cir. 2015)
+
+(quoting Conyers v. Rossides, 558 F.3d 137, 143 (2d Cir. 2009)). “The presumption in favor
+
+of judicial review is not absolute, but subject to a narrow exception: the APA’s prohibition
+
+against judicial review of agency action ‘committed to agency discretion by law.’” Salazar v.
+
+King, 822 F.3d 61, 76 (2d Cir. 2016) (quoting 5 U.S.C. § 701(a)(2)). “To honor the
+
+presumption of review, [the Supreme Court has] read the exception in § 701(a)(2) quite
+
+narrowly, confining it to those rare administrative decisions traditionally left to agency
+
+discretion.” Dep’t of Homeland Sec. v. Regents of the Univ. of Cal., 591 U.S. 1, 17 (2020)
+
+(cleaned up). Instances of decisions “committed to agency discretion” have included “a
+
+decision not to institute enforcement proceedings, or a decision by an intelligence agency to
+
+terminate an employee in the interest of national security.” Dep’t of Com. v. New York, 588
+
+U.S. 752, 772 (2019). (cleaned up). “In the absence of an express statutory prohibition, the
+
+agency ‘bears the heavy burden of overcoming the strong presumption that Congress did not
+
+mean to prohibit all judicial review of its decision.’” Salazar, 822 F.3d at 75 (quoting Dunlop
+
+v. Bachowski, 421 U.S. 560, 567 (1975)).
+
+          There is no indication that a decision to terminate an agreement such as the CBA is an
+
+action solely committed to an agency’s discretion by law under § 701(a)(2). First, Defendants
+
+
+99
+     Id. at 28.
+
+
+                                                24
+      Case 3:25-cv-01907-VDO          Document 72        Filed 09/29/26      Page 25 of 32
+
+
+
+
+have not demonstrated that, as a matter of tradition, termination of a CBA is a decision
+
+committed to agency discretion. This is not a matter where the agency has declined to institute
+
+enforcement proceedings, see Heckler v. Chaney, 470 U.S. 821, 831–32 (1985), or terminated
+
+a single employee, see Webster v. Doe, 486 U.S. 592, 600–01 (1988). Quite the opposite. This
+
+matter is akin to the Supreme Court’s decision in Department of Homeland Security v. Regents
+
+of the University of California, 591 U.S. 1 (2020), where the Court found that an agency’s
+
+decision to eliminate a program offering benefits is not one that is committed to agency
+
+discretion by law. Id. at 19. Indeed, the recission of such a program “is an action that provides
+
+a focus for judicial review,” and ensuring “access to these types of benefits is an interest courts
+
+often are called upon to protect.” Id. at 18–19 (cleaned up). Here too, ensuring employment
+
+agreements are upheld and employees retain access to their agreed-upon benefits are interests
+
+courts are often called upon to protect.
+
+       Second, Defendants have not demonstrated that “there is no law to apply” in
+
+adjudicating this matter under the APA. Indeed, the District of Rhode Island did not find a
+
+shortage of law to apply in deciding a matter with nearly identical facts under the APA, see
+
+AFGE Loc. 2305 v. U.S. Dep’t of Veterans Affs., No. 25-CV-583, 2026 WL 709856, at *7–9,
+
+*7 n.9 (D.R.I. Mar. 13, 2026), and the First Circuit did not indicate that it lacked the caselaw
+
+needed to review that decision, see generally AFGE Loc. 2305 v. U.S. Dep’t of Veterans Affs.,
+
+177 F.4th 1, 12 (1st Cir. 2026) (declining to grant a stay pending appeal of the Rhode Island
+
+District Court’s decision to grant preliminary injunction). As in those cases, the Court sees no
+
+indication that there is “no law to apply” in deciding this matter. Accordingly, Defendants’
+
+argument fails because they did not meet the heavy burden of demonstrating that the
+
+termination of the CBA was an action committed to agency discretion by law.
+
+                                                25
+        Case 3:25-cv-01907-VDO          Document 72       Filed 09/29/26     Page 26 of 32
+
+
+
+
+                           c.   Contrived and Pretextual
+
+          The Court next turns to the first of Plaintiffs’ six arguments: that Defendants’ decision
+
+to terminate the CBA was “contrived or pretextual” in violation of the APA because its
+
+explanation did not “accurately reflect the reason the agency took the action.”100 As the
+
+Supreme Court explained in Department of Commerce v. New York, “a court may not reject an
+
+agency’s stated reasons for acting simply because the agency might also have had other
+
+unstated reasons,” but an agency’s stated reason for its action must not be “incongruent with
+
+what the record reveals about the agency’s priorities and decisionmaking process.” 588 U.S.
+
+752, 781, 785 (2019).
+
+          On September 25, 2025, Defendants published two incongruent explanations for the
+
+termination of the CBA. In the termination letter sent to CPL-33 President White, BOP cited
+
+the Executive Order as the basis for the termination, stating that the termination was “based
+
+on the EO.”101 But that same day, Director Marshall posted his message that heavily criticized
+
+CPL-33’s operations and stated that the “whole purpose of ending this contract” was because
+
+the “union [was] an obstacle to progress” and “the current contract has too often slowed or
+
+prevented changes.”102 The letter did not state that EO 14,251 required the termination of the
+
+CBA. Nor did it mention the national security rationale underlying the Executive Order.
+
+Instead, it only cited to Defendants’ criticisms of the union. Although an agency may have
+
+multiple reasons for its action, it cannot offer an entirely pretextual explanation that is
+
+undermined by its own contradictory assertions made the same day. But that is precisely what
+
+
+100
+      ECF No. 28-1 at 18.
+101
+      ECF No. 28-5 at 2.
+102
+      ECF No. 28-6 at 2 (emphasis added).
+
+
+                                                 26
+      Case 3:25-cv-01907-VDO            Document 72        Filed 09/29/26       Page 27 of 32
+
+
+
+
+Defendants have done here. They cited the Executive Order as the only basis for cancelling
+
+the CBA in the Termination Letter, but issued a public message that same day with an entirely
+
+contrary explanation. The Court cannot “ignore the disconnect between the decision made and
+
+the explanation given,” Dep’t of Com. v. New York, 588 U.S. 752, 785 (2019), and therefore,
+
+Plaintiffs are likely to succeed on their claim that Defendants’ decision to terminate the CBA
+
+was arbitrary and capricious in violation of the APA.
+
+       For the reasons stated in Plaintiffs’ memorandum, there are multiple additional and
+
+independent reasons why the Government’s actions were arbitrary and capricious. At this
+
+juncture, however, the Court need only find that it is likely to prevail on one of these
+
+arguments.103 Accordingly, Plaintiffs have met the burden of demonstrating the likelihood of
+
+success on the merits of their APA claim.
+
+       B.      Irreparable Harm
+
+       Plaintiffs have also demonstrated that they will suffer irreparable harm that could not
+
+otherwise be remedied in the absence of a preliminary injunction. In order to satisfy the
+
+irreparable harm requirement, a plaintiff must “demonstrate that absent a preliminary
+
+injunction [it] will suffer an injury that is . . . actual and imminent, and one that cannot be
+
+remedied if a court waits until the end of trial to resolve the harm.” Faiveley Transp. Malmo
+
+AB v. Wabtec Corp., 559 F.3d 110, 118 (2d Cir. 2009) (quoting Grand River Enter. Six
+
+Nations, Ltd. v. Pryor, 481 F.3d 60, 66 (2d Cir. 2007)). “Where there is an adequate remedy
+
+
+103
+   The Court found it unnecessary to address Plaintiffs’ remaining arguments because Defendants
+did not object to each one independently. See ECF No. 40-1 at 25–31, 35–36. Rather, Defendants’
+response to the remaining five arguments is that the termination of the CBA is unreviewable under
+the APA, either because it is a presidential action or a matter left to agency discretion. Id. Or, that
+the claims are unreviewable because the court lacks subject matter jurisdiction. Id. at 20–25, 35–
+36. The Court addressed these arguments, supra, and found them unavailing.
+
+
+                                                  27
+      Case 3:25-cv-01907-VDO          Document 72        Filed 09/29/26      Page 28 of 32
+
+
+
+
+at law, such as an award of money damages, injunctions are unavailable except in
+
+extraordinary circumstances.” Moore v. Consol. Edison Co. of N.Y., 409 F.3d 506, 510 (2d Cir.
+
+2005) (citing Morales v. Trans World Airlines, Inc., 504 U.S. 374, 381 (1992)). “[I]rreparable
+
+harm may be found where damages are difficult to establish and measure.” Register.com, Inc.
+
+v. Verio, Inc., 356 F.3d 393, 404 (2d Cir. 2004).
+
+       Courts in this Circuit have regularly found that a union’s “loss of the right to
+
+collectively bargain” is “very real” and “irreparable.” See Blyer ex rel. N.L.R.B. v. One Stop
+
+Kosher Supermarket, Inc., 720 F. Supp. 2d 221, 226–27 (E.D.N.Y. 2010); see also Paulsen v.
+
+Renaissance Equity Holdings, LLC, 849 F. Supp. 2d 335, 360 (E.D.N.Y. 2012) (“The erosion
+
+of support for the Union presents a threat of irreparable harm that justifies injunctive relief.”).
+
+This is because the Second Circuit has recognized that the loss of union bargaining strength
+
+constitutes irreparable harm. See Hoffman ex rel. N.L.R.B. v. Inn Credible Caterers, Ltd., 247
+
+F.3d 360, 369 (2d Cir. 2001). While Hoffman concerns the slightly different issue of injunctive
+
+relief under the National Labor Relations Act, the principle here is the same: the significant
+
+decrease in union membership constitutes irreparable harm because it undermines the
+
+existence of the CPL-33 and Local 1661, and their members’ ability to collectively bargain.
+
+       The termination of the CBA and BOP’s resulting actions have caused significant
+
+confusion among employees and decrease in union membership, which threatens the existence
+
+of CPL-33 and Local 1661. The loss of the members’ ability to collectively bargain is causing
+
+real and immediate harm that could not be remedied if the Court were to wait until the
+
+conclusion of litigation. BOP is using the absence of the CBA to change policies to the
+
+detriment of employees, pressure employees not to take leave, and subject employees to
+
+discipline and termination without union support or due process protections. BOP has
+
+                                                28
+            Case 3:25-cv-01907-VDO         Document 72       Filed 09/29/26     Page 29 of 32
+
+
+
+
+threatened union representatives with termination to restrict their ability to speak to the media
+
+and to Congress. A later ruling could not retroactively restore the union representation that
+
+Defendants are actively denying employees or restore the dropping staffing levels and resulting
+
+decrease in union membership. Accordingly, the Court concludes that the balance of the
+
+evidence weighs in favor of a finding of irreparable harm.
+
+             C.     Balance of the Equities and the Public Interest
+
+             The final two factors, the balance of the equities and the public interest, also weigh in
+
+favor of granting a preliminary injunction. The Court considers these two factors in unison, as
+
+they merge when the Government is an opposing party. See Walden v. Kosinski, 153 F.4th 118,
+
+141 (2d Cir. 2025).
+
+             Plaintiffs argue that the balance of the equities and public interest support reinstating
+
+the CBA because they are experiencing a significant burden in the form of membership loss,
+
+and because their members are losing the range of protections they negotiated for (and are
+
+entitled to) under the CBA.104 They also assert that preventing these harms “provides a
+
+significant public benefit,” as CPL-33 and its locals ensure safety for BOP staff and the inmates
+
+housed at its facilities.105 Plaintiffs also reference the statutory mandate declared by Congress
+
+in 5 U.S.C. §§ 7101(a)(1)(A)–(B), that “the statutory protection of the right of employees to
+
+organize, bargain collectively, and participate through labor organizations of their own
+
+choosing . . . safeguards the public interest” and “contributes to the effective conduct of public
+
+business.”106 Defendants, in opposition, claim this balance falls in their favor because: (1)
+
+
+104
+      ECF No. 28-1 at 25.
+105
+      Id. at 26.
+106
+      Id.
+
+
+                                                    29
+        Case 3:25-cv-01907-VDO        Document 72        Filed 09/29/26      Page 30 of 32
+
+
+
+
+reinstating the CBA would frustrate the President’s national security rationale for excluding
+
+BOP from the FSLMRS, and (2) the BOP has already taken steps to implement EO 14,251.107
+
+         The Court cannot afford Defendants first point much weight because, as discussed
+
+above, it is evident that national security was not the basis for this termination. A determination
+
+on whether reinstating a CBA frustrates the national security rationale underlying EO 14,251
+
+is an argument more appropriately made in one of the numerous cases addressing the validity
+
+of that Executive Order. As to Defendants’ second point, the Court recognizes that reinstating
+
+the CBA will pose a burden on Defendants’ resources. But this burden is significantly
+
+outweighed by the interests articulated by Plaintiffs. See AFGE Loc. 2305, 2026 WL 709856,
+
+at *11 (determining that “the significant injury to the Plaintiffs from the loss of status as
+
+representatives . . . and to their members from the revocation of the protections and benefits of
+
+the Master CBA weighs more heavily” than the burden on an agency in reinstating a collective
+
+bargaining agreement). It is also evident that “there is generally no public interest in the
+
+perpetuation of unlawful agency action.” Planned Parenthood of New York City, Inc. v. U.S.
+
+Dep’t of Health & Hum. Servs., 337 F. Supp. 3d 308, 343 (S.D.N.Y. 2018) (cleaned up). As
+
+the Court has found that Defendants’ actions likely violated the APA, there is no public interest
+
+in allowing them to continue with their course of action. Accordingly, the balance of the
+
+equities and the public interest weigh in favor of granting preliminary injunctive relief.
+
+         D.     Bond
+
+         As Plaintiffs have met their burden of demonstrating every element necessary for a
+
+preliminary injunction, the Court turns to the issue of whether they should be required to post
+
+
+
+107
+      ECF No. 40-1 at 39–40.
+
+
+                                                30
+        Case 3:25-cv-01907-VDO         Document 72       Filed 09/29/26      Page 31 of 32
+
+
+
+
+a bond pursuant to Rule 65(c) of the Federal Rules of Civil Procedure. Defendants request an
+
+$8,750,000 bond in the event the Court enjoins the termination of the CBA, claiming it “would
+
+be the minimum amount needed to cover the BOP’s costs and damages for one year should it
+
+be found that Defendants were wrongfully enjoined.”108 Plaintiffs, in response, ask the Court
+
+to waive the requirement of a bond, arguing that a bond in the amount requested by Defendants
+
+“would have ‘a chilling effect’ on the union and its members from seeking to vindicate their
+
+rights.”109
+
+          Under Rule 65(c), the Court may issue a preliminary injunction “only if the movant
+
+gives security in an amount that the court considers proper to pay the costs and damages
+
+sustained by any party found to have been wrongfully enjoined or restrained.” Fed. R. Civ. P.
+
+65(c). “Rule 65(c) has been read to vest broad discretion in the district court to determine the
+
+appropriate amount of an injunction bond, including the discretion to require no bond at all.”
+
+New York v. Admin. for Child. & Fams., 833 F. Supp. 3d 361, 404 (S.D.N.Y. 2026) (cleaned
+
+up). “A bond is not necessary where requiring one would have the effect of denying the
+
+plaintiffs their right to judicial review of administrative action.” Id. (cleaned up).
+
+          In harmony with the other courts that have decided similar cases concerning EO 14,251,
+
+the Court will only require Plaintiffs to post a nominal bond. See AFGE Loc. 2305, 2026 WL
+
+709856, at *11 (requiring a $1,000 bond); AFGE, AFL-CIO v. OPM, 781 F. Supp. 3d 920, 942
+
+(N.D. Cal. 2025) (requiring a $1 bond per plaintiff). The Court sees no reason to depart from
+
+the practice of its sister courts. And requiring Plaintiffs to post a bond in the range of millions
+
+
+
+108
+      ECF No. 40-1 at 41; see also ECF No. 40-2 ¶ 22.
+109
+      ECF No. 53 at 11–12.
+
+
+                                                31
+      Case 3:25-cv-01907-VDO         Document 72      Filed 09/29/26     Page 32 of 32
+
+
+
+
+of dollars would effectively deny their right to judicial review of an administrative action.
+
+Therefore, Plaintiffs are ordered to post a nominal bond in the amount of $1,000.
+
+IV.    CONCLUSION
+
+       For the foregoing reasons, Plaintiffs’ motion for preliminary injunction and preliminary
+
+relief under 5 U.S.C. § 705 is GRANTED. Defendants shall immediately reinstate the CBA,
+
+as well as any amendments, local supplemental agreements, and memoranda of understanding
+
+that were in place subsidiary to the CBA, for the remainder of the agreed-upon term provided
+
+in the CBA.
+
+
+
+                                                   SO ORDERED.
+
+
+Hartford, Connecticut
+September 29, 2026
+
+                                                   /s/Vernon D. Oliver
+                                                   VERNON D. OLIVER
+                                                   United States District Judge
+
+
+
+
+                                              32
+

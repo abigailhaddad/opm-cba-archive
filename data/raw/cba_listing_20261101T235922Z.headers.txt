@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Request-Context: appId=cid-v1:1c53e73b-a3e9-4981-8524-5904ab8d406d
+X-Cache-Result: MISS
+x-azure-ref: 20261101T235922Z-15656b5c7b6hcsr2hC1IAD5p4c00000006n0000000000eue
+Date: Sun, 01 Nov 2026 23:59:22 GMT
+Transfer-Encoding:  chunked
+Connection: keep-alive
+Connection: Transfer-Encoding
+Set-Cookie: ARRAffinity=614be8bd53a3d7e8e7e3bddd84b0c10caf88fb52dd6f417610ef45b7caacdfcb;Path=/;HttpOnly;Secure;Domain=app-opmweb-p-CBADatabase-api.azurewebsites.net
+Set-Cookie: ARRAffinitySameSite=614be8bd53a3d7e8e7e3bddd84b0c10caf88fb52dd6f417610ef45b7caacdfcb;Path=/;HttpOnly;SameSite=None;Secure;Domain=app-opmweb-p-CBADatabase-api.azurewebsites.net
+Access-Control-Allow-Origin: www.opm.gov
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains ; preload
+x-frame-options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+

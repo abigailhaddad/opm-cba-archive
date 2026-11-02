@@ -1,0 +1,873 @@
+      Case 3:25-cv-01907-VDO              Document 79        Filed 10/08/26       Page 1 of 17
+
+
+
+
+                              UNITED STATES DISTRICT COURT
+                                DISTRICT OF CONNECTICUT
+
+NATIONAL COUNCIL OF PRISON                          :
+LOCALS et al.,                                      :           No.: 3:25cv1907 (VDO)
+     Plaintiffs,                                    :
+                                                    :
+v.                                                  :
+                                                    :
+FEDERAL BUREAU OF PRISONS et al.,                   :
+     Defendants.                                    :           October 8, 2026
+
+
+                 DEFENDANTS’ OPPOSITION TO PLAINTIFFS’ MOTION
+                FOR CONTEMPT OR IN THE ALTERNATIVE TO ENFORCE
+
+          Pursuant to Local Civil Rule 7(a) and the Court’s October 7, 2026 order, ECF. No. 76,
+
+Defendants, the Federal Bureau of Prisons (“BOP”) and William K. Marshall III, in his official
+
+capacity as Director of the BOP, file this response in opposition to Plaintiff’s Motion for contempt
+
+or in the alternative to enforce (“the Motion” or “Mot.”) this Court’s preliminary injunction, ECF
+
+No. 75.
+
+          At the outset, it bears noting that Plaintiffs state in the Motion that Defendants’ Notice of
+
+Compliance, “outlines certain matters that Defendants ‘do not understand the injunction’ to require
+
+or permit the Court to enforce,” Mot. Memorandum of Law, ECF No. 75-1, p. 1, but Plaintiffs do
+
+not otherwise address or dispute the part of Defendant’s Notice of Compliance stating Defendants
+
+do not understand the preliminary injunction to bar Defendants from re-terminating the relevant
+
+Collective Bargaining Agreement (“CBA”) in a fresh decision before the end of the CBA’s Term.
+
+Defendant Marshall issued a fresh decision re-terminating the CBA on October 7, 2026. See
+
+Declaration of Jonathan Hemingway, Senior Deputy Assistant Director for the BOP Human
+
+Resource Management Division, attached hereto as Exhibit 1 (“Hemingway Declaration”) at
+
+Exhibits A and B. And, as mentioned, Plaintiffs have not contested in this motion Defendants’
+
+
+
+                                                   1
+       Case 3:25-cv-01907-VDO            Document 79         Filed 10/08/26      Page 2 of 17
+
+
+
+
+ability to re-terminate in compliance with this Court’s Memorandum & Order (“Order”) entering
+
+a preliminary injunction.
+
+        Defendants are compliant with the Court’s Order” entering a preliminary injunction, ECF
+
+No. 72. Per the Court’s order, comprehensive evidence of the efforts that were taken by Defendants
+
+to reinstate the CBA are outlined in the Hemingway Declaration. Following the Court’s Order and
+
+the reinstatement of the CBA, and prior to the CBA’s re-termination, the BOP took many steps
+
+including, inter alia, instructing wardens to ensure a private space is available for Union officials
+
+to meet with their members as needed on an ad hoc basis; instructing wardens at all BOP locations
+
+to consider all requests for Official Time on a case-by-case basis pursuant to Article 11, and to
+
+authorize reasonable official time; and engaging with the Union and arbitrators on grievances and
+
+beginning to schedule them for hearing or other proceedings as appropriate. See Hemingway
+
+Declaration, generally. Defendants took steps the morning following the Court’s Order and
+
+throughout the days leading up to the re-termination. See id., ¶¶ 9-13.
+
+        At bottom, the Plaintiffs’ Motion is an improper invitation for the Court to police the terms
+
+of the reinstated Collective Bargaining Agreement (“CBA”) between the BOP and Plaintiff
+
+National Council of Prison Locals, American Federation of Government Employees (“CPL-33”),
+
+prior to its re-termination. The root of this improper request is clear: Plaintiffs conflate the Court’s
+
+order reinstating the CBA (including its panoply of remedies available for breach thereof) with an
+
+order mandating adherence to each and every one of its terms (under penalty of judicial contempt).
+
+The reinstated CBA itself provided the remedy for alleged breaches of its terms. Thus, Plaintiffs’
+
+recourse for alleged breaches prior to re-termination were to follow the procedures provided in the
+
+Agreement—the same procedures that they followed before the September 25, 2026, termination
+
+of the CBA. Accordingly, the Court should deny Plaintiffs’ motion.
+
+
+
+                                                   2
+       Case 3:25-cv-01907-VDO           Document 79        Filed 10/08/26       Page 3 of 17
+
+
+
+
+I.     BACKGROUND
+
+       The Court is familiar with the facts of this case. To summarize, the Federal Service Labor-
+
+Management Relations Statute (“FSLMRS”) authorizes the President to exempt from its coverage
+
+“any agency or subdivision thereof” if the President makes the determination that (A) “the agency
+
+. . . has as a primary function intelligence, counterintelligence, investigative, or national security
+
+work,” and (B) the provisions of the statute “cannot be applied to that agency . . . in a manner
+
+consistent with national security requirements and considerations.” 5 U.S.C. § 7103(b)(1)
+
+(emphasis added). Like most Presidents before him, on March 27, 2025, President Trump issued
+
+such an order. Specifically, in Executive Order 14,251, Exclusions from Federal Labor-
+
+Management Relations Programs (“the EO”), the President made the required determinations,
+
+thereby excluding from statutory coverage the identified agencies and agency subdivisions
+
+including, as relevant here, the DOJ, which includes the BOP.
+
+       On September 25, 2025, the Director of the BOP notified CPL-33 that “[a]s a result” of
+
+“the President’s broad authority under 5 U.S.C § 7103(b)(1) to exempt agencies” including the
+
+DOJ—and “based on the EO [14,251]”—the BOP “no longer recognizes [CPL-33] as the exclusive
+
+representative for employees of the existing bargaining unit.” ECF No. 28-5.
+
+       On November 13, 2025, Plaintiffs, CPL-33 and Local 1661, filed this action. See
+
+Complaint, ECF No. 1 (“Compl.”). Plaintiffs advance two causes of action, both of which state
+
+they fall under the APA’s “scope of review” for an agency decision. First, they argue that the
+
+BOP’s September 25, 2025, termination of the CBA between the BOP and CPL-33 was arbitrary
+
+and capricious, in violation of the Administrative Procedure Act (“APA”), 5 U.S.C. § 706(2)(A).
+
+Compl. ¶¶ 56–65. Second, Plaintiffs argue that the BOP decision was in violation of the APA, 5
+
+U.S.C. § 706(2)(B), because it represented impermissible retaliation in violation of the First
+
+
+
+                                                  3
+      Case 3:25-cv-01907-VDO            Document 79        Filed 10/08/26      Page 4 of 17
+
+
+
+
+Amendment. Compl. ¶¶ 66–70. For relief, Plaintiffs request that this Court enter a permanent
+
+injunction prohibiting Defendants from effectuating the termination of the CBA. See Compl., p.
+
+17.
+
+       On December 22, 2025, Plaintiffs filed their preliminary injunction (“PI”) motion. See ECF
+
+No. 28-1 (PI Memo). On February 13, 2026, Defendants filed a motion to dismiss. See ECF No.
+
+40. On April 28, 2026, the Court denied Defendants’ motion to dismiss and, on April 30, 2026,
+
+heard oral argument on Plaintiffs’ PI motion. See ECF Nos. 54 and 56. The Court also set a
+
+deadline to produce the CAR by May 13, 2026, in accordance with its prior order and set a deadline
+
+for Plaintiffs to file a motion for supplemental discovery and briefing schedule for such a motion.
+
+See ECF No. 57. Defendants produced the CAR on May 13, 2026, see ECF No. 59, and filed an
+
+answer on July 8, 2026. See ECF No. 69.
+
+       On September 29, 2026, the Court granted Plaintiff’s PI motion. See Order, ECF No. 72.
+
+In the Order, the Court found the BOP Director’s termination letter and public message were
+
+contradictory and, “[a]lthough an agency may have multiple reasons for its action, it cannot offer
+
+an entirely pretextual explanation that is undermined by its own contradictory assertions made the
+
+same day.” Id., p. 26. As such, the Court concluded that “Plaintiffs are likely to succeed on their
+
+claim that Defendants’ decision to terminate the CBA was arbitrary and capricious in violation of
+
+the APA.” Id., p. 27. The Court also found Plaintiffs demonstrated that they will suffer irreparable
+
+harm that could not otherwise be remedied in the absence of a preliminary injunction and that the
+
+balance of the equities and the public interest also weigh in favor of granting a preliminary
+
+injunction. Id., pp. 27-30. In granting the preliminary injunction, the Court concluded with an order
+
+that “Defendants shall immediately reinstate the CBA, as well as any amendments, local
+
+supplemental agreements, and memoranda of understanding that were in place subsidiary to the
+
+
+
+                                                 4
+       Case 3:25-cv-01907-VDO          Document 79        Filed 10/08/26      Page 5 of 17
+
+
+
+
+CBA, for the remainder of the agreed-upon term provided in the CBA.” Id., p. 32. Earlier in its
+
+Order, the Court also stated that “Defendants shall immediately reinstate the CBA for the
+
+remainder of the agreed-upon term provided in the CBA, and shall be governed by the terms of
+
+that agreement.” Id., p. 2.
+
+       On October 2, 2026, Defendants filed a notice of compliance stating Defendants are aware
+
+of the Court’s Order and aver they are complying with its terms. See ECF No. 75. Defendants also
+
+explained their understanding of what such compliance entails. Specifically, Defendants do not
+
+understand this Court’s injunction to preclude the agency from making a fresh decision to
+
+terminate the CBA before the end of the agreed-upon term, nor do they read the injunction as
+
+indicating that the district court intends to supervise every alleged failure to perform a CBA term
+
+in lieu of the CBA’s own grievance and arbitration mechanisms. See id. Plaintiffs then filed the
+
+Motion on October 6, 2026, and the Court ordered a response by October 8, 2026, at 11:00 AM
+
+EST. See ECF Nos. 75-76.
+
+II.    LEGAL STANDARD
+
+       A contempt order “is a ‘potent weapon,’ to which courts should not resort where there is a
+
+fair ground of doubt as to the wrongfulness of the defendant’s conduct.” King v. Allied Vision,
+
+Ltd., 65 F.3d 1051, 1058 (2d Cir. 1995) (quotations omitted). It is the moving party’s burden to
+
+establish “by clear and convincing evidence that the alleged contemnor violated the district court’s
+
+edict.” Id. (citation omitted). “A party may be held in civil contempt for failure to comply with a
+
+court order only if: ‘(1) the order ... is clear and unambiguous, (2) the proof of noncompliance is
+
+clear and convincing, and (3) the contemnor has not diligently attempted to comply in a reasonable
+
+manner.’” Liberty Propane L.P. v. Feheley, 522 F. App’x 38 (2d Cir. 2013) (quoting Paramedics
+
+Electromedicina Comercial, Ltda v. GE Med. Sys. Info. Techs., Inc., 369 F.3d 645, 655 (2d
+
+
+
+                                                 5
+         Case 3:25-cv-01907-VDO         Document 79        Filed 10/08/26     Page 6 of 17
+
+
+
+
+Cir.2004))). “A clear and unambiguous order is one that leaves no uncertainty in the minds of
+
+those to whom it is addressed, who must be able to ascertain from the four corners of the order
+
+precisely what acts are forbidden.” King, 65 F.3d at 1058 (quotations omitted).
+
+III.      ARGUMENT
+
+       A. Defendants have not violated the Court’s Order
+
+          Defendants have complied with the Court’s Order. The Court’s Order states, in part:
+
+          The September 25, 2025, termination of the CBA is preliminarily set aside and enjoined.
+          Defendants shall immediately reinstate the CBA for the remainder of the agreed-upon term
+          provided in the CBA, and shall be governed by the terms of that agreement. Defendants
+          shall also reinstate any amendments, local supplemental agreements, and memoranda of
+          understanding that were in place subsidiary to the CBA.
+
+Order, p. 2, ECF No. 72. Defendants reinstated the CBA along with any amendments, local
+
+supplemental agreements, and memoranda of understanding that were in place subsidiary to the
+
+CBA. See Hemingway Declaration, ¶ 10; see also Notice of Compliance, Exhibit 1, ECF No. 75-
+
+1. As noted in Defendants Notice of Compliance, they assume this Court’s Order did not mean the
+
+district court intended to supervise every alleged failure to perform a CBA term following the
+
+Order to reinstate the CBA prior to its re-termination. But despite Plaintiffs assertion to the
+
+contrary,1 Defendants had diligently worked over the last week to “turn back on” normal
+
+operations under the reinstated CBA prior to re-termination, and that effort takes time after more
+
+than a year after its termination. As one example, Mr. Hemingway describes how in the year
+
+between the first termination of the CBA and the Court’s Order, BOP reclaimed thousands of
+
+square feet of office space, as well as significant amounts of information technology (“IT”)
+
+
+
+
+          1
+           Plaintiffs filed a “Notice Relating to Motion for Contempt or in the Alternative to
+Enforce” on October 7, 2026, “Plaintiffs’ Counsel became aware that Defendants have approved
+official time requests for members of the CPL-33 board, including for CPL-33 President Brandy
+White yesterday” as well as several other instances of compliance. See ECF No 78.
+                                                  6
+       Case 3:25-cv-01907-VDO            Document 79        Filed 10/08/26      Page 7 of 17
+
+
+
+
+equipment and other resources, that had been provided to local BOP union chapters and their
+
+members free of charge. Hemingway Declaration, ¶ 16. The space and resources formerly used by
+
+union representatives and members has already been repurposed by BOP institutions and much of
+
+it is now used for mission-related work. Id. Following issuance of the Preliminary Injunction, and
+
+prior to re-terminating the CBA, however, institutions had been instructed to identify space to be
+
+used by the Union on a permanent basis. Id. This process would take time to identify space at each
+
+of the approximately 122 institutions, many of which have extremely limited space available, and
+
+ensure it is habitable for use by the Union. Id. Nonetheless, prior to the October 7, 2026,
+
+termination, at least one institution had identified space to be utilized by its local union. Id. Until
+
+more permanent office space could be identified prior to the re-termination, the Regional Directors
+
+instructed wardens to ensure a private space was available for Union officials to meet with their
+
+members as needed on an ad hoc basis. Id.
+
+       Additionally, BOP took the following many steps:
+
+   •   Following issuance of the Preliminary Injunction, and prior to re-terminating the CBA,
+       Wardens at all BOP locations were instructed by their respective Regional Directors to
+       consider all requests for official time on a case-by-case basis pursuant to Article 11 of the
+       Master Agreement, and to authorize reasonable official time request. In the short time since
+       the Order was issued on September 29, 2026, the Agency has received several hundred
+       requests for official time pursuant to Article 11. Local management officials immediately
+       began reviewing these requests on a case-by-case basis and reasonable requests for official
+       time were granted in accordance with Article 11 of the Master Agreement. Hemingway
+       Declaration, ¶ 14. For example:
+
+           o Multiple Union officials at USP Lee in Virginia requested, and were granted, a total
+             of 40 hours of official time. Hemingway Declaration, ¶ 14a.
+           o Union officials at FCI McDowell in West Virginia requested, and were granted, 16
+             hours of official time. Hemingway Declaration, ¶ 14b.
+           o National Union President Brandy Moore White requested, and was granted, to be
+             placed on 100% official time. Hemingway Declaration, ¶ 14c.
+           o Union officials at FCI Tucson in Arizona requested, and were granted, a total of 32
+             hours of official time. Hemingway Declaration, ¶ 14d.
+           o Thomas Moore, who is the National Legislative Coordinator for the Union
+             requested, and was granted, 100% official time. Hemingway Declaration, ¶ 14e.
+
+                                                  7
+       Case 3:25-cv-01907-VDO          Document 79       Filed 10/08/26      Page 8 of 17
+
+
+
+
+           o The local union president at FCI El Reno in Oklahoma requested, and was granted,
+             eight hours of official time. Hemingway Declaration, ¶ 14f.
+           o The local union president at FCI Three Rivers in Texas requested, and was granted,
+             two hours of official time. Hemingway Declaration, ¶ 14g.
+
+   •   Following issuance of the Preliminary Injunction, and prior to the October 7, 2026,
+       termination, the Bureau ceased utilizing the streamlined policy development process which
+       it implemented in December 2025. Under that process, over 130 new, updated, or cancelled
+       policies were issued in a nine-month period. No new or updated policies or procedure
+       memoranda have been issued since September 29, 2026. Prior to issuance of the new
+       termination, the Agency expected to engage with the Union regarding new or updated
+       policies and procedural memoranda as such documents are completed, in accordance with
+       the procedures agreed to by the Agency and the Union prior to the September 25, 2025,
+       termination. This includes recently completed policies and procedural memos such as:
+       Authorization for Use of Expandable Batons; Information Security and Resources
+       Protection; Accounts Payable; Federal Prison Industries Physical Inventories; Federal
+       Prison Industries Product, Plant, and Equipment; Volunteer Services; and Pretrial Inmates.
+       Hemingway Declaration, ¶ 15.
+
+   •   Following issuance of the Preliminary Injunction, and prior to the October 7, 2026,
+       termination, Wardens have been instructed to allow Union officials to provide
+       representation to bargaining unit employees during official meetings, interviews pursuant
+       to an investigation, and during the disciplinary process. For example, at FCI Phoenix in
+       Arizona, the Union provided representation to an employee during their oral response to a
+       disciplinary proposal. Hemingway Declaration, ¶ 17.
+
+   •   Following issuance of the Preliminary Injunction, and prior to the October 7, 2026,
+       termination, the grievance system pursuant to Article 31 of the Master Agreement was
+       available for use by all employees to raise concerns including violations of the contract or
+       failure to comply with the terms of the Preliminary Injunction. Article 31 instructs
+       employees and the Union to file grievances at the institution level. Hemingway
+       Declaration, ¶ 18.2
+
+   •   Since September 29, 2026, some arbitrators and Union representatives have engaged with
+       Agency representatives to re-activate some of these arbitrations. The Agency has engaged
+       with the Union and arbitrators on such grievances and, prior to the October 7, 2026,
+       termination, the Agency had begun scheduling them for hearing or other proceedings as
+       appropriate. Hemingway Declaration, ¶ 19.3
+
+
+       2
+         Mr. Hemingway is not aware of any grievances being filed between September 29, 2026
+and October 7, 2026. See Hemingway Declaration, ¶ 18.
+       3
+         Following issuance of the Preliminary Injunction, and prior to the October 7, 2026,
+termination, Mr. Hemingway was aware that some grievances in which arbitration was previously
+invoked pursuant to Article 32 of the Master Agreement were held in abeyance following the
+September 25, 2025, termination. See Hemingway Declaration, ¶ 19.
+                                                8
+    Case 3:25-cv-01907-VDO           Document 79        Filed 10/08/26      Page 9 of 17
+
+
+
+
+•   Following issuance of the Preliminary Injunction, and prior to the October 7, 2026,
+    termination, the Bureau was in the process of directing its payroll service provider to restart
+    collecting union dues for CPL-33 members. BOP’s ability to restart dues automatically for
+    union members is limited because AFGE has been promoting the use of its internal dues
+    collection system, “ e-Dues.” BOP does not have information on which employees may
+    now be paying membership dues directly through the e-Dues system. As a result, restarting
+    automatic payroll deductions for all impacted employees could harm those employees by
+    having double payment of dues; and requires substantial effort by human resource staff to
+    ensure information is inputted correctly and accurately. Hemingway Declaration, ¶ 20.
+
+•   Following issuance of the Preliminary Injunction, and prior to the October 7, 2026,
+    termination, local union officials at numerous institutions have requested meetings with
+    institution management, to include the resumption of labor-management relations (LMR)
+    meetings. Local management officials have been instructed to begin scheduling such
+    requested meetings, to include LMR. Such meetings are being scheduled as soon as
+    reasonably practicable. At FCI Gilmer in West Virginia, for example, a union
+    representative was invited to attend a committee meeting, consistent with the Master
+    Agreement and Program Statement 3730.06, Workplace Violence Prevention, Staff.
+    Hemingway Declaration, ¶ 21.
+
+•   To the best of Mr. Hemingway’s knowledge, since the issuance of the Preliminary
+    Injunction, and prior to the October 7, 2026, termination, the Union has not requested to
+    schedule national LMR meetings, nor have they sought to invoke negotiations on any
+    specific policy proposals. Had such requests been received prior to the October 7, 2026,
+    termination, the Bureau would have engaged with the Union to schedule and engage in
+    negotiations as appropriate. Hemingway Declaration, ¶ 22.
+
+•   Each institution controls access to the roster program locally. Mr. Hemingway is aware
+    multiple union officials have requested roster access from their assigned institutions. All
+    such reasonable requests for access were in the process of being authorized at the time of
+    the October 7, 2026, termination. Hemingway Declaration, ¶ 23.
+
+•   Scheduling for most employees is done on a quarterly basis. The roster for the current
+    quarter was approved weeks ahead of the start of the new quarter, and staff had been
+    notified of their assigned posts, shifts, and schedules at each location. There was no way
+    to feasibly alter these schedules or engage with the Union to negotiate new schedules prior
+    to the beginning of the quarter. Beginning with the next quarter (which begins on or around
+    January 1, 2026), prior to re-termination, the Bureau was prepared to discontinue its
+    reliance on 12-hour shifts for certain custody posts and plans to revert back to the schedules
+    in place prior to September 25, 2025, until appropriate negotiations could take place related
+    to the use of 12-hour custody shifts. Prior to re-termination, that process would have
+    continued for the next quarter. Hemingway Declaration, ¶ 24.
+
+•   Following issuance of the Preliminary Injunction, and prior to re-terminating the CBA, the
+    Agency took numerous actions to re-implement the terms and provisions of the Master
+    Agreement as it related to misconduct, investigations, and adjudication. Hemingway
+
+                                              9
+      Case 3:25-cv-01907-VDO          Document 79       Filed 10/08/26      Page 10 of 17
+
+
+
+
+       Declaration, ¶ 25.
+          o The Agency ceased implementation of the “irrefutable evidence” standard for
+              misconduct in reliance on the procedures in Article 30 of the Master Agreement.
+              Hemingway Declaration, ¶ 25a.
+          o The Agency ceased implementation of the voluntary misconduct diversion program
+              in reliance on the procedures in Article 30 of the Master Agreement. Hemingway
+              Declaration, ¶ 25b.
+          o The Agency ceased implementation of updated timeframes in which to provide a
+              response to disciplinary and adverse actions. Instead, new proposed discipline and
+              new proposed adverse actions issued prior between September 29, 2026 and
+              October 7, 2026, will allow employees to respond in accordance with the
+              timeframes articulated in Article 30(j) of the Master Agreement. Hemingway
+              Declaration, ¶ 25c.
+          o As indicated above, following issuance of the Preliminary Injunction, and prior to
+              re-terminating the CBA, local management officials had been instructed to allow
+              Union representation during misconduct investigation and during the disciplinary
+              process, in accordance with applicable regulations issued by the Office of Personnel
+              Management (OPM). Reasonable official time for such purposes had been
+              authorized. Hemingway Declaration, ¶ 23e.
+
+       Plaintiffs allege that wardens have been told not to comply with the PI and not to work
+
+with the union. See Motion, pp. 1-2. As indicated above, the BOP avers no such guidance was
+
+given by BOP leadership. See Hemingway Declaration, ¶ 26. On the contrary, beginning the
+
+morning of September 30, 2026, Mr. Hemingway describes the focus of BOP senior leadership
+
+being on implementation and compliance with the Preliminary Injunction and remained the focus
+
+of Bureau leadership until the agreement was terminated on October 7, 2026. Id. Specifically,
+
+when BOP senior leadership met on Monday, October 5, 2026, the six Regional Directors were
+
+explicitly instructed to notify the wardens in their respective regions to comply with the Court’s
+
+Order. Id. Indeed, since filing the Motion, and prior to re-terminating the CBA, Plaintiffs have
+
+acknowledged instances of compliance, see n. 1, supra, but maintain that as of October 7, 2026,
+
+they are not “aware of any central guidance that BOP leadership has provided to wardens that
+
+withdraws or contradicts the BOP guidance that directed non-compliance, as described in
+
+Plaintiffs’ motion.” See ECF No. 78, p. 1. But Mr. Hemingway notes that he and other leaders
+
+
+
+                                               10
+      Case 3:25-cv-01907-VDO            Document 79        Filed 10/08/26      Page 11 of 17
+
+
+
+
+from BOP Human Resources Management Division have been communicating with the Regional
+
+Directors regularly since the Preliminary Injunction was issued. See Hemingway Declaration, ¶ 27.
+
+At no time have any of the Regional Directors brought any such unapproved or inappropriate
+
+communications to his attention. Id. Nonetheless, even if a warden or management official at an
+
+isolated institution made such an inappropriate statement, BOP maintains that such a statement
+
+would have been inconsistent with the agency’s position, inconsistent with guidance issued to the
+
+Regional Directors, and could have been rectified through the normal grievance procedures
+
+pursuant to Article 31 of the Master Agreement. Id.
+
+       Because Plaintiffs have not, and cannot, carry their burden of proving by clear and
+
+convincing evidence that Defendants have violated the Court’s Order, their motion to enforce
+
+should be denied.
+
+   B. Plaintiffs seek to enforce requirements that exceed the Court’s Order
+
+       Plaintiffs argue Defendants “have not restored union office space or official time, allowed
+
+for union representation in disciplinary proceedings, or taken any of the other myriad specific steps
+
+that Defendants themselves told the Court would be required if the Court entered the requested
+
+injunction” and urge the Court to “find that Defendants are in civil contempt and order Defendants
+
+to purge that contempt through immediate compliance.” Mot. Memorandum of Law, ECF No. 75-
+
+1, pp. 2, 12. CPL-33 has 30,000 members, see ECF No. 28-2, ¶ 4, and Plaintiffs’ assertion that any
+
+instance of one of its members asserting an alleged failure to perform a CBA term is evidence of
+
+noncompliance with the Court’s Order at the penalty of contempt, would be the type of order that
+
+has already concerned the First Circuit and led to that court’s issuance of two stays of orders issued
+
+out of the District of Rhode Island in a similar case. See Notice of Compliance, ECF No. 75, p. 1;
+
+see also Am. Fed’n of Gov't Emps. Loc. 2305 v. United States Dep’t of Veterans Affs., No. 26-
+
+
+                                                 11
+      Case 3:25-cv-01907-VDO           Document 79        Filed 10/08/26      Page 12 of 17
+
+
+
+
+1321, ---F. 4th--- 2026 WL 2969474, at *4 (1st Cir. Oct. 2, 2026); Am. Fed'n of Gov't Emps. Loc.
+
+2305 v. United States Dep't of Veterans Affs., 177 F.4th 1 (1st Cir. 2026) (staying enforcement
+
+order requiring compliance with the CBA “in both form and substance” on sovereign-immunity
+
+grounds).4
+
+       Plaintiffs’ motion conflates reinstating the CBA with adhering to each and every one of
+
+its terms. See, e.g., Mot. Memorandum of Law, ECF No. 75-1, p 2. In other words, Plaintiffs argue
+
+that if the BOP was not adhering to every term of the CBA between the Court’s Order and the re-
+
+termination, as Plaintiffs understand it, the BOP is not merely in breach of the CBA but also in
+
+violation of the preliminary injunction. That is mistaken.
+
+       The existence of a contract does not guarantee that both parties will adhere to each and
+
+every contract term indefinitely. Rather, the existence of a contract provides both parties to the
+
+contract certain rights and remedies if the other party breaches. See United States v. Winstar Corp.,
+
+518 U.S. 839, 919 (1996) (Scalia, J., concurring in the judgment) (“Virtually every contract
+
+operates, not as a guarantee of particular future conduct, but as an assumption of liability in the
+
+event of nonperformance. . . .” (emphasis omitted)); see generally Restatement (Second) of
+
+Contracts § 1 (Am. Law Inst. 1981) (defining a “contract,” as “a promise or a set of promises for
+
+the breach of which the law gives a remedy”).
+
+       It is unsurprising that CPL-33 would occasionally accuse BOP of violating the CBA
+
+between the Court’s Order and the re-termination in its treatment of one of the 30,000 employees
+
+
+
+       4
+          Curiously, Plaintiffs suggest a civil contempt order would be more appropriate given “the
+jurisdictional issues that arose in American Federation of Government Employees Local 2305 v.
+U.S. Department of Veterans Affairs, No. 1:25-cv-00583 (D.R.I.) where the district court issued
+an order to enforce its injunction. See 177 F.4th 1, 17 (1st Cir. 2026).” See Mot. Memorandum of
+Law, ECF No. 75-1, pp. 2, pp. 2-3. Plaintiffs do not grapple with the First Circuit’s conclusions.
+Nor do they explain how a court order that would be jurisdictionally improper as an enforcement
+order would somehow become proper in civil contempt.
+                                                 12
+      Case 3:25-cv-01907-VDO            Document 79       Filed 10/08/26      Page 13 of 17
+
+
+
+
+covered by that agreement. As Plaintiffs acknowledge, under Article 31 “the CBA [ ] establishes
+
+grievance and arbitration procedures for employees and the union to resolve disputes with the
+
+agency over employment matters. . . . and grievances must be resolved according to the procedures
+
+delineated in that article.” Decl. of Brandy White, ECF No. 28-2, ¶ 14; see also ECF No. 40-3 at
+
+pp. 75-81 (Articles 31-33). “Any employee has the right to file a formal grievance.” ECF No. 40-
+
+3 at p. 75 (Articles 31, § c). If Plaintiffs had a good-faith basis for contending that the BOP has
+
+breached a provision of the CBA, Plaintiffs’ remedy was to file a complaint under the grievance
+
+procedures set out in the CBA, rather than filing a motion to enforce or for contempt with the
+
+Court.
+
+         Even before President Trump issued the Executive Order that led to the BOP CBA’s
+
+termination, Plaintiffs routinely filed complaints, using the negotiated grievance procedures in the
+
+CBA, in which employees or Plaintiffs themselves alleged the CBA was not being followed in a
+
+specific situation. See Decl. of Brandy White, ECF No. 28-2, ¶ 13. Plaintiffs should have followed
+
+the same practice between the Court’s Order and the re-termination. Indeed, it makes no sense to
+
+think the preliminary injunction requiring the CBA’s reinstatement required BOP to remedy any
+
+and all labor grievances with Plaintiffs, even if those disputes were already in existence before the
+
+CBA’s termination. The injunction simply restored the parties to the status quo as it existed before
+
+the CBA’s termination.
+
+         Plaintiffs attempt an end-run around the exclusive procedures for resolving grievances that
+
+arose under the CBA between the Court’s Order and the re-termination for the several alleged
+
+instances by its members asserting an alleged failure to perform a CBA term, and request the Court
+
+trigger the “potent weapon” of “judicial contempt power.” Int’l Longshoremen’s Ass’n v. Phila.
+
+Marine Trade Ass’n, 389 U.S. 64, 76 (1967). Such an approach would be improper as a matter of
+
+
+
+                                                 13
+      Case 3:25-cv-01907-VDO            Document 79        Filed 10/08/26       Page 14 of 17
+
+
+
+
+federal labor law,5 federal contracting law, and even the ordinary common law of contracts.6
+
+Indeed, federal courts are prohibited from ordering specific performance of government
+
+contractual provisions and policing non-compliance. See, e.g., Up State Fed. Credit Union v.
+
+Walker, 198 F.3d 372, 377 (2d Cir. 1999) (“The Tucker Act impliedly forbids relief other than
+
+remedies provided by the Court of Federal Claims for actions that arise out of a contract with the
+
+United States.” (cleaned up)); Presidential Gardens Assocs. v. United States ex rel. Sec’y of
+
+Housing & Urban Dev., 175 F.3d 132, 143 (2d Cir. 1999) (“Actions seeking specific performance
+
+of a contract, brought in order to avoid the Tucker Act’s limitation on money judgments, are not
+
+allowed to be brought against the United States.”); Albrecht v. Comm. on Emp. Benefits of Fed.
+
+Rsrv. Emp. Benefits Sys., 357 F.3d 62, 68 (D.C. Cir. 2004) (“We have held that the Tucker Act
+
+“‘impliedly forbids—in APA terms—not only district court awards of money damages, which the
+
+Claims Court may grant, but also injunctive relief, which the Claims Court may not.’”). Plaintiffs’
+
+claim is founded in a contract, not a separate agency or government-wide policy (such as the EO).
+
+Their suit is premised on an alleged breach of contract—BOP’s termination of the collective-
+
+bargaining agreement. And this motion is premised on an alleged breach of contract—Plaintiffs
+
+now argue the BOP breached terms following the Order and prior to its re-termination. But the
+
+
+
+       5
+           The FSLMRS contains a subpart governing how alleged violations of a collective
+bargaining agreement are to be handled, including grievances, appeals, and judicial review. See
+FSLMRS See 5 U.S.C. §§ 7121-712. None of the provisions governing judicial review and
+enforcement permit a labor union to petition a United States district court for a global and indefinite
+specific performance injunction. See 5 U.S.C. § 7123. To be sure, Plaintiffs are no longer subject
+to the FSLMRS by virtue of the Executive Order, which is unchallenged here. But it remains
+notable that even under that statute, this sort of remedy would clearly not have been permissible.
+        6
+          Specific performance remedies must be narrow and targeted; courts will not decree
+specific performance of vague, indefinite, or uncertain contractual requirements. See Restatement
+(First) of Contracts § 370 (1932) (“Specific enforcement will not be decreed unless the terms of
+the contract are so expressed that the court can determine with reasonable certainty what is the
+duty of each party and the conditions under which performance is due.”).
+
+                                                  14
+      Case 3:25-cv-01907-VDO           Document 79        Filed 10/08/26     Page 15 of 17
+
+
+
+
+Court’s relief was plainly contract-based—the preliminary injunction ordered reinstatement of the
+
+contract—and Plaintiffs seek a contempt order requiring compliance with the contract’s terms.
+
+And, as noted above, this is precisely the type of order that the Court lacks authority to issue. In
+
+short, this Court does not have jurisdiction to entertain Plaintiffs’ request to find Defendants in
+
+contempt and police across-the-board compliance with the terms of the CBA between the Court’s
+
+order and the re-termination, and that is certainly not what the preliminary injunction does.
+
+       The status quo before the September 25, 2025, CBA termination further illustrates how
+
+Plaintiffs’ Motion overstates what the Court’s Order requires. A “‘prohibitory’ injunction” is
+
+designed to restore “the status quo.” Citigroup Glob. Markets, Inc. v. VCG Special Opportunities
+
+Master Fund Ltd., 598 F.3d 30, 35, n. 4 (2d Cir. 2010). Yet the status quo was not a situation where
+
+Plaintiffs could seek enforcement of the CBA in district court for alleged violations of the CBA’s
+
+terms. Rather, before the CBA’s termination, Plaintiffs filed labor grievances when they believed
+
+the BOP was out of compliance with the CBA. In other words, restoring Plaintiffs to the status quo
+
+would not restore them to a situation where Plaintiffs could seek district court intervention for
+
+every alleged violation of the CBA between the Court’s order and the re-termination.
+
+       Moreover, Plaintiffs’ motion fails to recognize the significance of the Executive Order—
+
+unchallenged in this case—which exempts the BOP from the FSLMRS’s coverage. Executive
+
+Order, §§ 1, 2(c). Certain provisions of the CBA incorporate the FSLMRS to the extent applicable.
+
+See, e.g., ECF No. 40-3 at pp. 1; 8; 10-11; 15; 23-24; 26, 33-34; 37; 41; 65; 75; 93. Thus, to the
+
+extent Plaintiffs seek to enforce any right afforded under the FSLMRS, their motion to enforce is
+
+without basis because the Order did not make Plaintiffs subject to the FSLMRS. Granting the
+
+Plaintiff’s motion reinstating the CBA, and ignoring the existence of the Executive Order, would
+
+
+
+
+                                                15
+      Case 3:25-cv-01907-VDO            Document 79       Filed 10/08/26      Page 16 of 17
+
+
+
+
+demonstrably improve Plaintiffs’ position over the original status quo and effectively place the
+
+Court in a position that it has overridden the Presidential Executive Order. This cannot be the case.
+
+IV.    CONCLUSION
+
+       Plaintiffs’ motion for contempt or alternatively to enforce should be denied. Defendants
+
+have already complied with the Court’s Order. The relief the Plaintiffs seek via the Motion exceeds
+
+the relief afforded in the Court’s Order.
+
+
+                                                              Respectfully submitted,
+
+
+                                                              THE FEDERAL BUEARU OF
+                                                              PRISONS; and WILLIAM K.
+                                                              MARSHALL III, in his official
+                                                              capacity as Director of the BOP,
+                                                              hereby respectfully
+
+                                                              By their attorneys
+
+                                                              DAVID X. SULLIVAN
+                                                              United States Attorney
+
+                                                                      /s/
+                                                              J. Brian Meskill (ct29611)
+                                                              Assistant United States Attorney
+                                                              450 Main Street, Rm. 328
+                                                              Hartford, CT 06103
+                                                              Tel.: 860-947-1101
+                                                              Fax: (860) 760-7979
+                                                              Email: Brian.Meskill@usdoj.gov
+
+                                                              BRETT A. SHUMATE
+                                                              Assistant Attorney General
+
+
+                                                              Jeremy Mauritzen (CA Bar 354615)
+                                                              Trial Attorney
+                                                              U.S. Department of Justice
+                                                              Civil Division, Federal Programs
+                                                              Branch 1100 L Street, N.W.
+                                                              Washington, D.C. 20005
+
+                                                 16
+Case 3:25-cv-01907-VDO   Document 79   Filed 10/08/26   Page 17 of 17
+
+
+
+
+                                          Tel.: (202) 598-7315
+                                          Email: jeremy.mauritzen@usdoj.gov
+
+
+
+
+                               17
+

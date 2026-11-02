@@ -1,0 +1,1147 @@
+           Case 1:25-cv-02657     Document 1         Filed 08/13/25   Page 1 of 23
+
+
+
+                   IN THE UNITED STATES DISTRICT COURT
+                       FOR THE DISTRICT OF COLUMBIA
+
+
+NATIONAL ASSOCIATION OF                          :
+AGRICULTURE EMPLOYEES,                           :
+139 Altama Connector                             :
+P.O. Box 312                                     :
+Brunswick, GA 31525                              :
+                                                 :
+                    Plaintiff,                   :
+                                                 :
+      v.                                         :
+                                                 :
+DONALD J. TRUMP                                  :       COMPLAINT FOR
+in his official capacity as                      :       DECLARATORY AND
+President of the United States                   :       INJUNCTIVE RELIEF
+1600 Pennsylvania Avenue, NW                     :
+Washington, DC 20500,                            :
+                                                 :
+BROOKE L. ROLLINS                                :       Case No. 25-cv-02657
+in her official capacity as Secretary            :
+U.S. Department of Agriculture                   :
+1400 Independence Ave SW                         :
+Washington, DC 20250,                            :
+                                                 :
+      and                                        :
+                                                 :
+SCOTT KUPOR                                      :
+in his official capacity as Director             :
+Office of Personnel Management,                  :
+1900 E Street, NW                                :
+Washington, DC 20415,                            :
+                                                 :
+             Defendants.                         :
+
+
+                                        Introduction
+
+      1.     The Plaintiff National Association of Agriculture Employees (“NAAE”)
+
+is a labor union that represents the employees of the Plant Protection and
+
+Quarantine (“PPQ”) organizational unit in U.S. Department of Agriculture. The
+
+primary function of the employees represented by NAAE is to conduct inspections of
+           Case 1:25-cv-02657    Document 1     Filed 08/13/25   Page 2 of 23
+
+
+
+incoming passengers and cargo as well as surveys of crops and rangeland for plant
+
+pests and diseases, and to assist in eradication of plant pests and diseases when
+
+they are found. Any work that was once performed by these employees that related
+
+to national security was transferred to Customs and Border Protection in the
+
+Department of Homeland Security by the Homeland Security Act of 2002. PPQ
+
+employees have no responsibility for guarding the nation against bioterrorism or
+
+agroterrorism, nor are they trained in those matters. Nonetheless, President Trump
+
+issued Executive Order No. 14,251 on March 27, 2025 revoking PPQ employees’
+
+collective bargaining rights (along with the collective bargaining rights of two-thirds
+
+of the Federal workforce) ostensibly because the primary function of PPQ is
+
+“national security work.” Ironically, this Executive Order did not revoke the
+
+collective bargaining rights of the employees of U. S. Customs and Border
+
+Protection, to whom PPQ’s employees’ national security work was earlier
+
+transferred. Because PPQ employees only protect the nation’s crops and food supply
+
+from natural threats posed by plant pests and diseases, rather than from espionage,
+
+sabotage, subversion or foreign aggression, NAAE has brought this suit to challenge
+
+the Executive Order.
+
+
+                          Jurisdiction, Venue and Parties
+
+      2.     This Court has jurisdiction over this matter pursuant to 28 U.S.C. §
+
+1331 because the action arises under federal law, including the United States
+
+Constitution.
+
+
+
+
+                                          
+           Case 1:25-cv-02657     Document 1      Filed 08/13/25   Page 3 of 23
+
+
+
+      3.      Venue is proper in this judicial district pursuant to 28 U.S.C. § 1391(e)
+
+because the Defendants reside here and because a substantial part of the events or
+
+omissions giving rise to the Plaintiff’s claims occurred in this District.
+
+      4.      The Plaintiff National Association of Agriculture Employees (“NAAE”)
+
+is a national labor organization that is the collective bargaining representative of
+
+approximately 1,500 employees of Plant Protection and Quarantine, a
+
+organizational unit of the Animal and Plant Health Inspection Service (“APHIS”) of
+
+the United States Department of Agriculture.
+
+      5.      The Defendant Donald J. Trump is the President of the United States
+
+and is being sued in his official capacity. In that capacity, he issued Executive Order
+
+No. 14,251.
+
+      6.      The Defendant Brooke L. Rollins is the Secretary of the United States
+
+Department of Agriculture and is being sued in her official capacity. In
+
+that capacity, she has enforced Executive Order No. 14,251 within APHIS and PPQ.
+
+      7.      The Defendant Scott Kupor is the Director of the U.S. Office of
+
+Personnel Management. He is sued in his official capacity. In that capacity, he
+
+provides guidance and direction to Federal agencies on the application and
+
+enforcement of Executive Order No. 14,251.
+
+
+                                 Factual Allegations
+
+                         The NAAE and its bargaining unit.
+
+      8.      The Plaintiff, then known as the Federal Plant Quarantine Inspectors
+
+National Association, was initially recognized as the exclusive collective bargaining
+
+
+                                            
+            Case 1:25-cv-02657    Document 1    Filed 08/13/25   Page 4 of 23
+
+
+
+representative of employees of USDA’s Plant Protection and Quarantine
+
+organizational unit in 1963 pursuant to Executive Order No. 10,988, which for the
+
+first time formalized collective bargaining in the Federal government.
+
+      9.      In 1978, Congress enacted Chapter 71 of the Civil Service Reform Act,
+
+also known as the Federal Service Labor-Management Relations Statute
+
+(hereinafter “Chapter 71” or “FSLMR Statute”), which created the Federal Labor
+
+Relations Authority and, for the first time, granted collective bargaining rights to
+
+most of the Federal civil service by statute. The Plaintiff changed its name to
+
+NAAE in 1985 and has continued to represent most professional and non-
+
+professional employees of PPQ (other than supervisors, management personnel and
+
+certain administrative and higher-grade professional employees) under the FSLMR
+
+Statute. Its most recent collective bargaining agreement became effective in 2024
+
+and does not expire until 2028.
+
+      10.     The Plant Protection and Quarantine organizational unit of APHIS
+
+has as its primary function to protect our Nation’s agriculture and natural
+
+resources from invasive pests and diseases.
+
+      a.      When shipments containing live plants or propagative material arrive
+
+      in the United States, U.S. Customs and Border Protection transfers those
+
+      shipments to an APHIS plant inspection station. PPQ experts inspect
+
+      shipments to confirm they are free of pests and diseases that could harm U.S.
+
+      agriculture or natural resources. Once a shipment clears a plant inspection
+
+      station, it is allowed to enter the United States.
+
+
+
+                                            
+      Case 1:25-cv-02657   Document 1    Filed 08/13/25   Page 5 of 23
+
+
+
+     PPQ conducts an overseas commodity preclearance program for fresh
+
+fruits and vegetables in 25 countries before their shipment to the United
+
+States to ensure they are free from pests and diseases.
+
+c.      PPQ inspects baggage of all passengers and cargo departing Hawaii or
+
+Puerto Rico bound for the continental United states to prevent the
+
+introduction of non-native agricultural pests and diseases into the mainland.
+
+d.      PPQ conducts a Smuggling Interdiction and Trade Compliance
+
+program of restricted plants and plant products, both at ports of entry and
+
+after they enter commerce in the U.S.
+
+e.      PPQ issues USDA Phytosanitary Certificates for plants, seeds, and
+
+plant products for export from the United States to attest they are free of
+
+pests and diseases to comply with other nations’ quarantine programs and
+
+import restrictions.
+
+f.      PPQ conducts a Cotton Pests Program that works with growers, the
+
+cotton industry, States and Mexico to eradicate the boll weevil from cotton-
+
+producing areas of the U.S. and northern Mexico.
+
+g.      PPQ conducts the Field Crop and Rangeland Ecosystems Pests
+
+program to protect crops and rangelands from the establishment or spread of
+
+invasive or economically significant pests, such as grasshoppers, Morman
+
+Crickets, imported fire ants, Karnal Bunt (a fungal disease), Witchweed (a
+
+parasitic plant), Roseau Cane Scale and Cogongrass (an invasive perennial
+
+weed) through surveys and eradication efforts. Other PPQ pest detection
+
+programs carry out plant, specialty crop, tree and wood pest surveys in
+
+                                     
+            Case 1:25-cv-02657   Document 1     Filed 08/13/25    Page 6 of 23
+
+
+
+      cooperation with state departments of agriculture, universities and industry
+
+      partners.
+
+      11.     Of the 1,500 or so PPQ employees represented by Plaintiff NAAE,
+
+approximately 500 are “Plant Health Safeguarding Specialists” and another 400 are
+
+“Plant Protection Technicians” who assist the Plant Health Safeguarding
+
+Specialists. Among the other predominant occupations and positions in PPQ
+
+represented by Plaintiff NAAE are approximately 60 Agriculturalists, 70 Biological
+
+Science Laboratory Technicians, 70 Entomologists, 30 Biologists or Molecular
+
+Biologists, 10 Botonists, 25 Plant Pathologists, 25 Pest Survey Specialists, 75
+
+Smuggling Interdiction and Trade Compliance Officers, and 20 Tree Climbers.
+
+                   PPQ is not engaged in national security work.
+
+      12.     The FSLMR Statute contains several provisions under which
+
+employees may be excluded from coverage based on their or their agency’s
+
+involvement in national security. None are applicable to the work of PPQ or the
+
+NAAE bargaining unit.
+
+      13.     The FSLMR Statute provides that:
+
+            The President may issue an order excluding any agency or
+      subdivision thereof from coverage under this chapter if the President
+      determines that—
+
+             (A) the agency or subdivision has as a primary function
+      intelligence, counterintelligence, investigative, or national security
+      work, and
+
+            (B) the provisions of this chapter cannot be applied to that
+      agency or subdivision in a manner consistent with national security
+      requirements and considerations.
+
+
+
+                                           
+            Case 1:25-cv-02657   Document 1     Filed 08/13/25    Page 7 of 23
+
+
+
+5 U.S.C. § 7103(b)(1).
+
+      14.     The FSLMR Statute also provides that bargaining units shall not be
+
+appropriate if they include employees “engaged in intelligence, counterintelligence,
+
+investigative, or security work which directly affects national security.” 5 U.S.C. §
+
+7112(b)(6).
+
+      15.     Following “9/11,” any of the duties of APHIS and PPQ that were
+
+arguably within the realm of national security, along with over 3,000 agriculture
+
+inspectors, were transferred from APHIS and PPQ to U.S. Customs and Border
+
+Protection in the newly created Department of Homeland Security (“DHS”) by the
+
+Homeland Security Act of 2002, 6 U.S.C. § 231. This included inspecting
+
+international passengers, luggage and cargo at ports of entry as well as foreign
+
+arrival vessels and aircrafts and crews for plant pests and diseases. In 2003, USDA
+
+and DHS entered into a Memorandum of Agreement with several appendices that
+
+effectuated the transfer of any national security functions from APHIS to DHS.
+
+Article 1 of this Memorandum explains:
+
+      Historically, the USDA Animal and Plant Health Inspection Service
+      (APHIS) Agriculture Quarantine Inspection (AQI) program has focused
+      mainly on preventing the introduction of harmful pests and diseases
+      into the United States. Now, the threat of intentional introduction of
+      these pests or pathogens as a means of biological warfare or terrorism
+      is an emerging concern that the United States must be prepared to
+      deal with effectively. Guarding against such an eventuality is
+      important to the security of the Nation. Failure to do so could disrupt
+      American agricultural production, erode confidence in the U.S. food
+      supply, and destabilize the U.S. economy. The transfer of USDA
+      agriculture inspectors, with their expertise in biology and agricultural
+      inspection, provides DHS the capability to recognize and prevent the
+      entry of organisms that might be used for biological warfare or
+      terrorism.
+
+
+                                            
+            Case 1:25-cv-02657    Document 1     Filed 08/13/25    Page 8 of 23
+
+
+
+https://www.aphis.usda.gov/plant-protection-quarantine/about/moa (last visited
+
+August 4, 2025).
+
+      16.     The Homeland Security Act vested the U.S. Customs and Border
+
+Protection (“CBP”) with responsibility to “enforce and administer the laws relating
+
+to agricultural import and entry inspection.” 6 U.S.C. § 2119(c)(11). The former PPQ
+
+inspection officers who were transferred to DHS now work as CPB “Agriculture
+
+Specialists” alongside CBP Officers at ports of entry, enforcing APHIS’ regulations.
+
+      17.     In 2003, PPQ management claimed that its Smuggling Interdiction
+
+and Trade Compliance Officers should not be included in NAAE’s bargaining unit
+
+because they were “engaged in . . . investigative . . . work which directly affects
+
+national security” because their work “directly affects the economic and productive
+
+security of the United States” by combating smuggling of prohibited agricultural
+
+products. Relying on FLRA case law defining national security work, a hearing
+
+officer of the FLRA ruled that the Smuggling Interdiction and Trade Compliance
+
+Officers were not engaged in work that “directly affects national security.” “It is, of
+
+course, beyond dispute that unlawful entry into the country of plant and animal
+
+pests can and have caused substantial economic harm to the agricultural sector of
+
+the United States economy,” wrote the hearing officer. But in order to fit within the
+
+definition of “national security,” employees must “deal with protecting the national
+
+economy as a whole from ‘espionage, sabotage, subversion, foreign aggression, and
+
+other illegal acts which adversely affect the national defense.’” U.S. Dep’t of
+
+Agriculture, Animal Plant Health Inspection Service, Plant Protection and
+
+
+
+                                             
+            Case 1:25-cv-02657    Document 1     Filed 08/13/25   Page 9 of 23
+
+
+
+Quarantine, WA-RP-01-0049, slip op. at 18, 19. (August 15, 2003), quoting Dep’t of
+
+Energy, Oak Ridge Operations, 4 F.L.R.A. 644, 655-656 (1980).
+
+
+                The NAAE files “grievances to block Trump policies.”
+
+      18.     Following his inauguration, President Trump undertook several major
+
+initiatives to attack the Federal civilian workforce. NAAE vigorously used the
+
+legitimate means provided to it under the FSLMR Statute and its collective
+
+bargaining agreement to fight back against implementation of those initiatives at
+
+PPQ to protect the welfare of its members.
+
+      19.     On January 20, 2025, the Office of Personnel Management issued
+
+guidance on probationary periods, advising agencies that probationary periods are
+
+“an essential tool for agencies to assess employee performance and manage staffing
+
+levels,” directing agencies to provide OPM with a list of all probationary employees,
+
+and instructing agencies to “promptly determine” whether probationary employees
+
+should be retained. On February 11, 2025, the President issued an Executive Order
+
+directing agency heads to “promptly undertake preparations to initiate large-scale
+
+reductions in force. . .” and to develop“[r]eorganization [p]lans.” According to public
+
+reporting, on February 13, 2025, OPM officials met with federal agency leaders to
+
+provide guidance on how to carry out probationary termination actions as part of
+
+the broader effort to restructure and downsize the federal workforce.
+
+      20.     Then, on February 14, OPM directed agencies to terminate all
+
+probationers unless they were encumbering positions in “mission critical areas.”
+
+“We have asked that you separate probationary employees that you have not
+
+
+                                           
+         Case 1:25-cv-02657     Document 1      Filed 08/13/25   Page 10 of 23
+
+
+
+identified as mission critical no later than end of the day, Monday, 2/17” the
+
+instruction stated. CHCO Council Memo to CHCOs and Deputy CHCOs, Subject:
+
+Follow-up: CHCO Council Special Session, (Feb. 14, 2025). As a result, on February
+
+14, 2025 PPQ terminated all its probationary employees. In addition, as part of this
+
+reduction-in-force, at least 13 term employees of PPQ, whose term appointments are
+
+customarily renewed, were notified that their appointments were ending.
+
+      21.    On March 12, 2025 NAAE filed a grievance on behalf of the terminated
+
+probationary and term employees alleging that PPQ failed to provide these
+
+employees with their rights under OPM’s reduction-in-force regulations and that
+
+their termination violated the NAAE collective bargaining agreement. PPQ denied
+
+the union’s first step grievance and NAAE advanced the grievance to step 2 and
+
+step 3 of the negotiated grievance procedure contained in the NAAE collective
+
+bargaining agreement, to which management failed to provide a response.
+
+      22.    On January 20, 2025 President Trump issued a Memorandum
+
+directing all agencies to terminate their telework programs. When NAAE received
+
+notice from PPQ that employees’ telework agreements were being terminated, the
+
+union demanded to bargain over the impact and implementation of the end of
+
+telework. When PPQ management refused NAAE’s bargaining demand, the union
+
+filed another grievance under the parties’ collective bargaining agreement, to which
+
+PPQ has refused to respond.
+
+
+
+
+                                          
+            Case 1:25-cv-02657   Document 1     Filed 08/13/25   Page 11 of 23
+
+
+
+      Defendant Trump issues an Executive Order to punish those unions
+          who, like NAAE, file grievances that challenge his policies.
+
+      23.      On March 27, 2025, Defendant Trump issued Executive Order No.
+
+14,251, Exclusions from Federal Labor-Management Programs, 90 Fed. Reg. 14553
+
+(Mar. 27, 2025), which invoked 5 U.S.C. §7103(b) and terminated the collective
+
+bargaining rights of employees in ten Cabinet level departments and seven
+
+independent agencies whose “primary function” is ostensibly national security,
+
+allegedly because the Federal Service Labor Management Relations Statute “cannot
+
+be applied to these agencies and agency subdivisions in a manner consistent with
+
+national security requirements and considerations.”
+
+      24.      Among the agencies and subdivisions that were excluded from
+
+coverage of the FSLMR Statute in Section 2 of Executive Order 14251 were “[t]he
+
+following agencies or subdivisions of the Department of Agriculture:
+
+                                    *      *     *
+
+      (b)      Animal and Plant Health Inspection Service.”
+
+      25.      President Trump’s Executive Order strips collecting bargaining rights
+
+from three-quarters of the federal employees who are currently represented by
+
+federal sector unions, demonstrating that it was not a targeted assessment based on
+
+national security concerns. See Hassan Ali Kanu, Trump Moves to Strip
+
+Unionization Rights from Most Federal Workers, Politico.com, available at
+
+https://www.politico.com/news/2025/03/28/union-rights-federal-workers-donald-
+
+trump-00257010(Mar. 28, 2025).
+
+
+
+
+                                          
+         Case 1:25-cv-02657     Document 1     Filed 08/13/25   Page 12 of 23
+
+
+
+      26.     The White House issued a “fact sheet” simultaneously with the
+
+Executive Order in which it candidly admitted that the President’s Executive Order
+
+was issued to curtail the power of and to punish those particular labor
+
+organizations who, like NAAE, have ostensibly “obstructed” the President’s efforts
+
+to illegally dismantle the Federal government and to illegally dismiss large
+
+segments of the Federal workforce these labor organizations represent by filing
+
+grievances:
+
+      President Trump is taking action to ensure that agencies vital to
+      national security can execute their missions without delay and protect
+      the American people. The President needs a responsive and
+      accountable civil service to protect our national security.
+      Certain Federal unions have declared war on President Trump’s
+      agenda.
+
+      The largest Federal union describes itself as “fighting back” against
+      Trump. It is widely filing grievances to block Trump policies.
+
+      For example, VA’s unions have filed 70 national and local grievances
+      over President Trump’s policies since the inauguration—an average of
+      over one a day.
+
+      Protecting America’s national security is a core constitutional duty,
+      and President Trump refuses to let union obstruction interfere with his
+      efforts to protect Americans and our national interests.
+
+      President Trump supports constructive partnerships with unions who
+      work with him; he will not tolerate mass obstruction that jeopardizes
+      his ability to manage agencies with vital national security missions.
+
+Fact Sheet: President Donald J. Trump Exempts Agencies with National Security
+
+Missions from Federal Collective Bargaining Requirements,
+
+https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-
+
+trump-exempts-agencies-with-national-security-missions-from-federal-collective-
+
+bargaining-requirements/ (last visited August 12, 2025).
+
+                                         
+            Case 1:25-cv-02657    Document 1     Filed 08/13/25   Page 13 of 23
+
+
+
+      27.      What is equally revealing about the scope of the exclusions in
+
+Executive Order 14251 are the agencies and employees that were not excluded: The
+
+President did not exclude those agencies or employees “with unions who work with
+
+him” politically and who do not oppose his efforts to neuter the civil service or, as he
+
+disparagingly calls it, “the deep state.” Section 2 of the Executive Order carves out
+
+protections for the unions who have not opposed his policies or politics:
+
+      Notwithstanding the forgoing, nothing in this section shall exempt
+      from the coverage of Chapter 71 of title 5, United States Code:
+
+               (a) the immediate, local employing offices of any agency police
+               officers, security guards, or firefighters, provided that this
+               exclusion does not apply to the Bureau of Prisons;
+
+The country’s largest law enforcement union, the National Fraternal Order of Police
+
+(“FOP”), endorsed President Trump’s candidacy in 2016, 2020, and 2024, and
+
+President Trump has regularly touted those endorsements. And the largest
+
+firefighters’ union in the country, the IAFF, after having exclusively supported
+
+Democratic presidential candidates for more than 50 years, broke with that
+
+tradition, declining to endorse either candidate in the 2016 and 2024 elections and
+
+in 2020, then-candidate Trump touted his endorsement by one of IAFF’s larger
+
+chapters.
+
+      28.      The Executive Order excluded 12 subdivisions of the Department of
+
+Homeland Security; but it did not exclude U.S. Customs and Border Protection, to
+
+which APHIS’s national security responsibilities had been transferred by the
+
+Homeland Security Act of 2002. See Section 2, subsection 1-407. The National
+
+Border Patrol Council represents approximately 18,000 employees of Customs and
+
+
+                                           
+          Case 1:25-cv-02657     Document 1     Filed 08/13/25   Page 14 of 23
+
+
+
+Border Protection, and it endorsed Donald Trump for election in 2016, 2020 and
+
+2024.
+
+        29.   Also on March 28, the Acting Director of the Office of Personnel
+
+Management issued a Memorandum to Heads and Acting Heads of Departments
+
+and Agencies instructing them to discontinue participation in ongoing and future
+
+grievance procedures, to disregard extant collective bargaining agreements, to
+
+prohibit union representatives from using “official time” authorized by statute and
+
+collective bargaining agreements for representational purposes, to terminate the
+
+unions’ use of agency resources such as office space, and, in order to starve the
+
+unions of resources, to terminate employees’ dues allotments that are also
+
+authorized by statute and collective bargaining agreements. Guidance on Executive
+
+Order Exclusions from Federal Labor-Management Programs,
+
+https://www.opm.gov/policy-data-oversight/latest-memos/guidance-on-executive-
+
+order-exclusions-from-federal-labor-management-programs.pdf (last visited August
+
+12, 2025) (“OPM’s Guidance”).
+
+        30.   On August 12, 2025 Michael Watson, the Administrator of the Animal
+
+and Plant Health Inspection Service, sent a notice to the President of NAAE
+
+informing the union that:
+
+     Based on the EO and as of the date of this notice, APHIS no longer
+     recognizes NAAE asthe exclusive representative for employees
+     referenced in the Federal Labor RelationsAuthority (FLRA)
+     certifications dated November 30, 2021, and March 22, 2023. As aresult,
+     the following actions are being taken:
+
+     A. The collective bargaining agreement (CBA) between APHIS and
+     NAAE dated August 21, 2024, and any other negotiated agreements
+     between these parties are no longer in effect. . . .
+
+                                           
+          Case 1:25-cv-02657      Document 1     Filed 08/13/25    Page 15 of 23
+
+
+
+
+     B. Official time pursuant to 5 U.S.C. § 7131 et seq. will no longer be
+     granted to or recorded by employees who previously served as NAAE
+     union representatives under theCBA or other negotiated agreements. . .
+
+     C.     Union dues that were withheld from employees’ pay and
+     transmitted to NAAE have been stopped.
+
+
+      31.    As a result of Executive Order No. 14,251 and OPM’s Guidance, the
+
+Defendant Rollins and her subordinates refuse to honor the terms of NAAE’s
+
+collective bargaining agreement and her and her subordinates’ other obligations to
+
+the union under the FSLMR Statute. Acting through subordinates, Defendant
+
+Rollins has cancelled NAAE officers’ use of “official time” within their duty day to
+
+perform representational duties; she refuses to process or respond to grievances the
+
+NAAE has filed; she refuses to honor union dues allotments from NAAE members’
+
+paychecks and she and her subordinates refuse to notify or bargain with NAAE over
+
+changes in conditions of employment or in any other way recognize NAAE as the
+
+certified collective bargaining representative of PPQ employees.
+
+
+                                CLAIMS FOR RELIEF
+
+                                 First Cause of Action
+                                      Ultra Vires
+
+      32.    NAAE reasserts and realleges the allegations contained in paragraphs
+
+1 through 31 as if fully set forth here.
+
+      33.    Plaintiff has a non-statutory right of action to enjoin and declare
+
+unlawful official action that is ultra vires. Courts have jurisdiction to grant relief
+
+
+
+
+                                            
+          Case 1:25-cv-02657    Document 1      Filed 08/13/25   Page 16 of 23
+
+
+
+when the President and his subordinate officials act beyond the scope of their
+
+authority and violate the law to the injury of an individual or organization.
+
+      34.    The President may exclude an agency or subdivision from coverage of
+
+the Federal Service Labor Management Relations Statute only if that subdivision
+
+has as a primary function intelligence, counterintelligence, investigative, or
+
+national security work, and only if the provisions of the Statute cannot be applied
+
+to that subdivision in a manner consistent with national security requirements and
+
+considerations.
+
+      35.    In a case involving civilian personnel matters, the Supreme Court has
+
+defined “national security” as “only those activities of the Government that are
+
+directly concerned with the protection of the Nation from internal subversion or
+
+foreign aggression and not those which contribute to the strength of the Nation only
+
+through their impact on the general welfare.” Cole v. Young, 352 U.S. 536, 544
+
+(1956).
+
+      36.    Relying on Cole v. Young, the Federal Labor Relations Authority has
+
+defined national security as “only those sensitive activities of the government that
+
+are directly related to” protecting the United States “from espionage, sabotage,
+
+subversion, foreign aggression, and any other illegal acts which adversely affect the
+
+national defense.” Dep’t. of Energy, Oak Ridge Operations, 4 F.L.R.A. 644, 655-56
+
+(1980). Section 7 of Executive Order 14251 cites this definition approvingly.
+
+      37.    The primary function of USDA’s Plant Protection and Quarantine is to
+
+protect the nation’s agriculture and food supply from natural threats posed by
+
+pests and plant diseases and not from “internal subversion or foreign aggression.”
+
+                                           
+         Case 1:25-cv-02657     Document 1      Filed 08/13/25    Page 17 of 23
+
+
+
+      38.    Any responsibility which PPQ may have had to protect plants “from
+
+espionage, sabotage, subversion, foreign aggression, and any other illegal acts
+
+which adversely affect the national defense” was transferred to Customs and
+
+Border Protection by the Homeland Security Act of 2002.
+
+      39.    In fact, the FLRA found that the work of APHIS Food Inspectors who
+
+inspect incoming cargo did not have “a clear and direct connection to national
+
+security” because they “are not responsible for the detection and interception of bio-
+
+terrorism agents or weapons of mass destruction, nor have they been trained in
+
+such duties.” The FLRA found “that CBP plays a leading role in protecting the
+
+country against the importation of cargo that poses a risk of terrorism and weapons
+
+of mass destruction” as opposed to APHIS which “conducts agricultural inspections
+
+of incoming cargo to protect the United States from potential carriers of animal and
+
+plant pests and diseases that could cause serious damage to the country’s crops,
+
+livestock, pets and environment.” U.S. Dep’t. of Agric., Food Safety Inspection
+
+Serv., 61 F.L.R.A. 397, 398 (2005).
+
+      40.    Since “national security work” is not a responsibility of APHIS or PPQ,
+
+no less its “primary function,” the President clearly exceeded the authority granted
+
+to him by Congress in 5 U.S.C. § 7103(b) when he exempted APHIS and PPQ from
+
+coverage of the FSLMR Statute. In so doing, the Defendant Trump exercised power
+
+that was specifically withheld by Congress and acted in contravention of a specific
+
+statutory prohibition and therefore his action was ultra vires.
+
+
+
+
+                                           
+         Case 1:25-cv-02657      Document 1     Filed 08/13/25   Page 18 of 23
+
+
+
+       41.   Because the Executive Order goes beyond the narrow authority
+
+granted by § 7103(b) and thereby impermissibly effectuates a partial repeal of
+
+Chapter 71, the Executive Order is ultra vires.
+
+       42.   The President is not entitled to any presumption of regularity that
+
+might otherwise be due him when he issued Executive Order 14251 because the
+
+Defendant was indifferent to the purposes of the Federal Service Labor
+
+Management Relations Statute and has acted deliberately in contravention of them.
+
+The fact sheet that the White House issued reveals other motives for terminating
+
+NAAE’s and other labor organizations’ collective bargaining rights, as does the
+
+sweeping scope of the Order as well as the selective exclusions from the Order of a
+
+handful of favored unions (such as the police unions and Border Patrol agents) who
+
+are viewed as supporters of the President’s agenda.
+
+       43.   OPM’s March 27, 2025 Guidance on Executive Order Exclusions from
+
+Federal Labor-Management Programs is also ultra vires because it relies on and
+
+enforces an illegally issued and invalid Executive Order.
+
+       44.   The Defendant Rollins and her subordinates’ actions in terminating
+
+NAAE’s official time, dues allotment, pending grievances and collective bargaining
+
+relationship is also ultra vires because they rely on and enforce an illegally issued
+
+and invalid Executive Order and on illegally issued and invalid Guidance from
+
+OPM.
+
+
+
+
+                                           
+           Case 1:25-cv-02657      Document 1     Filed 08/13/25   Page 19 of 23
+
+
+
+                                 Second Cause of Action
+                     Violation of NAAE’s First Amendment Rights
+
+         45.    NAAE reasserts and realleges the allegations contained in paragraphs
+
+1 through 44 as if fully set forth here.
+
+         46.    The right of public employees to assemble and to petition for redress of
+
+grievances by filing grievances through a negotiated union grievance procedure is
+
+protected by the First Amendment and public employees have a right to be free
+
+from retaliation for engaging in such activities. Morfin v. Albuquerque Public
+
+Schools, 906 F.2d 1434, 1438 (10th Cir. 1990); Petrario v. Cutler, 187 F.Supp.2d 26,
+
+31-32 (D. Conn. 2002); Stellmaker v. DePetrillo, 710 F.Supp. 891, 892-93 (D. Conn.
+
+1989).
+
+         47.    NAAE’s grievances against the Trump Administration’s termination of
+
+probationary and other employees and its demand to bargain and subsequent
+
+grievance over the President’s elimination of telework constitutes First Amendment
+
+activity by NAAE and its members.
+
+         48.    The Executive Order retaliates against NAAE and its members for
+
+that protected First Amendment activity. Indeed, the White House’s Fact Sheet on
+
+the Executive Order proclaims the Order’s retaliatory motive. To justify the
+
+Executive Order, the Fact Sheet explains that “[c]ertain Federal unions have
+
+declared war on President Trump’s agenda” by “filing grievances to block Trump
+
+policies” and that “President Trump refuses to let union obstruction interfere with
+
+his efforts.”
+
+         49.    The Executive Order also constitutes “viewpoint discrimination”
+
+                                            
+           Case 1:25-cv-02657     Document 1     Filed 08/13/25    Page 20 of 23
+
+
+
+because it excludes those labor organizations which have been supportive of the
+
+Defendant Trump. As the Fact Sheet frankly explains, “President Trump supports
+
+constructive partnerships with unions who work with him” but that “he will not
+
+tolerate mass obstruction that jeopardizes his ability to manage agencies with
+
+vital national security missions.”
+
+         50.   Defendants have also acted to illegally curtail and infringe NAAE’s
+
+First Amendment rights by carrying out the Executive Order and terminating
+
+NAAE’s collective bargaining rights and abrogating its collective bargaining
+
+agreement and the privileges and benefits NAAE enjoys under the Statute and
+
+which it has negotiated in its collective bargaining agreements.
+
+         51.   The Executive Order thus “constitutes a sufficiently adverse action”
+
+against NAAE “to give rise to an actionable First Amendment claim.” Hous. Cmty.
+
+Coll. Sys. v. Wilson, 595 U.S. 468, 477 (2022). The Order, in other words, “would
+
+deter a similarly situated individual of ordinary firmness from exercising his or her
+
+constitutional rights.” Connelly v. Cnty. of Rockland, 61 F.4th 322, 325 (2d Cir.
+
+2023).
+
+                                Third Cause of Action
+                  Violation of the Fifth Amendment’s Guarantee of
+                            Equal Protection of the Laws
+
+         52.   NAAE reasserts and realleges the allegations contained in paragraphs
+
+1 through 51 as if fully set forth here.
+
+         53.   The due process guarantee of the Fifth Amendment to the United
+
+States Constitution includes a guarantee of equal protection. See United States v.
+
+Windsor, 570 U.S. 744, 769–70 (2013); Bolling v. Sharpe, 347 U.S. 497, 499 (1954).
+                                           
+              Case 1:25-cv-02657    Document 1     Filed 08/13/25    Page 21 of 23
+
+
+
+       54.       “The Constitution’s guarantee of equality ‘must at the very least mean
+
+that a bare . . . desire to harm a politically unpopular group cannot’ justify
+
+disparate treatment of that group.” Windsor, 570 U.S. at 770 (quoting Dep’t of
+
+Agriculture v. Moreno, 413 U.S. 528, 534–35 (1973)).
+
+       55.       A “bare . . . desire to harm a politically unpopular group” is precisely
+
+what motivated the Executive Order’s exclusion of 75% of union-represented
+
+employees across multiple Cabinet departments and independent agencies, while
+
+providing a blanket exception for agency police and firefighters, whose unions have
+
+supported President Trump. This conclusion is all the more inescapable given the
+
+White House’s statements admitting that the purpose of the order is to harm and
+
+punish federal unions like NAAE that have voiced opposition to Trump
+
+Administration policies and petitioned the government for redress from those
+
+policies
+
+       56.       In particular, the Executive Order and actions of the Defendants have
+
+denied NAAE and its members of equal protection of the laws because it has
+
+stripped them of their collective bargaining rights and simultaneously allowed the
+
+employees of U.S. Customs and Border Protection, to whom PPQ’s national security
+
+responsibilities were transferred, to retain their rights under the FSLMR Statute.
+
+
+
+                                     Prayer for Relief
+
+       WHEREFORE, the Plaintiff National Association of Agriculture Employees
+
+ requests judgment against the Defendants:
+
+       A.        Declaring that Sections 1(a) and 2(b) of the March 27, 2025 Executive
+
+                                             
+            Case 1:25-cv-02657   Document 1       Filed 08/13/25    Page 22 of 23
+
+
+
+Order are unlawful and null and void.
+
+      B.       Declaring that OPM’s March 27, 2025, Guidance on Executive Order
+
+Exclusions from Federal Labor-Management Programs, is unlawful as applied to
+
+NAAE.
+
+      C.       Enjoining Defendant Rollins and all her agents and subordinates
+
+from implementing Sections 1(a) and 2(b) of the March 27, 2025 Executive Order.
+
+      D.       Enjoining Defendant Rollins and all agents and subordinates from
+
+implementing the OPM’s March 27, 2025, Guidance on Executive Order Exclusions
+
+from Federal Labor-Management Programs with respect to NAAE.
+
+      E.       Enjoining Defendant Rollins and all agents and subordinates from
+
+continuing to fail to recognize NAAE as the exclusive representative of the
+
+employees of the Plant Protection and Quarantine organizational unit in APHIS
+
+and ordering Defendant Rollins and her agents and subordinates to restore NAAE’s
+
+collective bargaining agreements and relationship with PPQ and to honor the
+
+agreements’ provisions and any of the FSLMR Statute’s provisions concerning dues
+
+allotments, official time, use of and access to agency resources.
+
+      F.       Awarding Plaintiff reasonable attorney fees and costs incurred.
+
+      G.       Ordering such further relief as the Court may deem just and
+
+appropriate.
+
+
+Dated: August____, 2025                          Respectfully submitted,
+
+
+                                        By:      _/s/ Richard J. Hirn____________
+                                                 Richard J. Hirn
+                                                 D.C. Bar No. 291849
+
+                                           
+Case 1:25-cv-02657   Document 1    Filed 08/13/25   Page 23 of 23
+
+
+
+                                  richard@hirnlaw.com
+                                  5335 Wisconsin Ave., NW, Suite 440
+                                  Washington, D.C. 20015
+                                  (202) 274-1812
+
+                                  General Counsel
+                                  National Association of Agriculture
+                                  Employees
+
+
+                           By:    _/s/ Keith R. Bolek ______________
+                                  Keith R. Bolek
+                                  Bar No. 463129
+                                  kbolek@odonoghuelaw.com
+                                  April H. Pullium
+                                  Bar No. 198026
+                                  apullium@odonoghuelaw.com
+                                  O’Donoghue & O’Donoghue LLP
+                                  5301 Wisconsin Avenue, Suite 800
+                                  Washington, D.C. 20015
+                                  (202) 362-0041
+
+                                  Attorneys for Plaintiff National
+                                  Association of Agriculture
+                                  Employees
+
+
+
+
+                            
+
