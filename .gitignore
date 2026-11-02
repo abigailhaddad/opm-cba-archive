@@ -3,3 +3,4 @@ data/text/
 *.part
 .DS_Store
 __pycache__/
+hfstage/

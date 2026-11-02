@@ -2,7 +2,7 @@
 
 A copy of every federal union contract in OPM's public database, with a first pass at which ones have been terminated under the executive orders that removed agencies from collective bargaining.
 
-The PDFs and extracted text are on Hugging Face: [link]. This repo has the metadata, the termination flags, the sources behind them, and the scripts. Current counts are in [`data/SUMMARY.md`](data/SUMMARY.md), which is generated from the data.
+The PDFs and extracted text are on Hugging Face: [abigailhaddad/opm-cba-agreements](https://huggingface.co/datasets/abigailhaddad/opm-cba-agreements). This repo has the metadata, the termination flags, the sources behind them, and the scripts. Current counts are in [`data/SUMMARY.md`](data/SUMMARY.md), which is generated from the data.
 
 ## Termination flags
 
