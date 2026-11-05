@@ -1,0 +1,72 @@
+name: weekly listing check
+
+on:
+  schedule:
+    - cron: "17 11 * * 1"   # Mondays 11:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: weekly-listing
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Tests
+        run: |
+          pip install -r requirements.txt
+          python -m pytest -q tests
+
+      - name: Fetch and validate listing
+        id: fetch
+        run: python scripts/fetch_listing.py
+
+      - name: Diff against previous listing
+        id: diff
+        if: steps.fetch.outputs.prev != ''
+        run: |
+          set +e
+          python scripts/diff_listing.py "${{ steps.fetch.outputs.prev }}" "${{ steps.fetch.outputs.new }}"
+          code=$?
+          set -e
+          if [ "$code" != 0 ] && [ "$code" != 10 ] && [ "$code" != 11 ]; then exit "$code"; fi
+
+      - name: Commit listing and change log
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898733+github-actions[bot]@users.noreply.github.com"
+          git add data/raw data/changes
+          if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
+          git commit -m "Weekly listing $(date -u +%F): added=${{ steps.diff.outputs.added || 0 }} removed=${{ steps.diff.outputs.removed || 0 }} changed=${{ steps.diff.outputs.changed || 0 }}"
+          git push
+
+      - name: Open or comment on issue for added/removed records
+        if: steps.diff.outputs.added != '0' && steps.diff.outputs.added != '' || steps.diff.outputs.removed != '0' && steps.diff.outputs.removed != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          title="OPM listing changed"
+          body="Added: ${{ steps.diff.outputs.added }}, removed: ${{ steps.diff.outputs.removed }}, changed: ${{ steps.diff.outputs.changed }}. See data/changes/$(date -u +%F).md. Run: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          num=$(gh issue list --state open --search "in:title \"$title\"" --json number -q '.[0].number')
+          if [ -n "$num" ]; then gh issue comment "$num" --body "$body"; else gh issue create --title "$title" --body "$body"; fi
+
+      - name: Open or comment on issue on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          title="Weekly listing pipeline failed"
+          body="Run failed: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          num=$(gh issue list --state open --search "in:title \"$title\"" --json number -q '.[0].number')
+          if [ -n "$num" ]; then gh issue comment "$num" --body "$body"; else gh issue create --title "$title" --body "$body"; fi
