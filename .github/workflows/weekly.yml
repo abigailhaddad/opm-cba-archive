@@ -27,7 +27,7 @@ jobs:
 
       - name: Tests
         run: |
-          pip install pytest
+          pip install -r requirements.txt
           python -m pytest -q tests
 
       - name: Fetch and validate listing

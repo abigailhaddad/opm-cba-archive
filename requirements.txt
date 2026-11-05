@@ -1,0 +1,3 @@
+# Only the tests need a package. The scripts use the Python standard library.
+# scripts/extract.py also calls pdftotext and pdfinfo (poppler-utils), which are system tools, not pip packages.
+pytest
