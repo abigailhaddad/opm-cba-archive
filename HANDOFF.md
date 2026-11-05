@@ -12,11 +12,11 @@ Every Monday at 11:17 UTC a GitHub Action (`.github/workflows/weekly.yml`) does 
 4. Commits the new listing (`data/raw/`) and the change file to the repo.
 5. Opens a GitHub issue titled "OPM listing changed" if any record was added or removed, or adds a comment to the open one. If the pipeline itself fails, it does the same under "Weekly listing pipeline failed".
 
-**It does not download any PDFs, extract text, rebuild the table, or touch Hugging Face.** The step that was meant to do that (`TODO - download PDFs and upload to Hugging Face`) only prints a message. Nothing in this repo uploads to Hugging Face at all; the dataset was published by hand.
+**It does not download any PDFs, extract text, rebuild the table, or touch Hugging Face.** Those steps are manual (see "Refreshing the data by hand"). Nothing in this repo uploads to Hugging Face; the dataset was published by hand.
 
 So `data/cba_agreements.csv`, the termination flags and the Hugging Face dataset are all as of the 2026-11-01 pull until someone redoes the manual steps below. A change to a file URL or a new record shows up in the weekly change file and nowhere else.
 
-One more thing to check: scheduled workflows only run from the default branch. The workflow file is on the `pipeline` branch, not yet on `main`, so it won't run until it's merged.
+Scheduled workflows only run from the default branch. This workflow is not on `main` yet (it was added on the `pipeline` branch), so it will not run until it is merged. Until then, no weekly listing is saved and no issues are opened.
 
 ## Where things live
 
@@ -28,12 +28,12 @@ One more thing to check: scheduled workflows only run from the default branch. T
 | Where each termination flag comes from | `data/terminations/sources.csv` and `record_flags.csv`; copies of the source documents are alongside |
 | Counts and caveats | `METHODS.md`; `data/SUMMARY.md` is generated |
 | Weekly listings and change logs | `data/raw/`, `data/changes/` |
-| Hugging Face dataset card | `hf/README.md` (not committed on this branch) |
+| Hugging Face dataset card | `hf/README.md` (matches the card on the Hub as of 2026-11-05) |
 
 ## Secrets and permissions
 
 - `GITHUB_TOKEN` is supplied by GitHub. The workflow asks for permission to write contents (to commit the listing) and issues (to open them). No setup needed.
-- `HF_TOKEN` is read by the workflow, but only to decide whether to run the TODO step. Nothing uses it yet. Whoever writes the upload step will need a Hugging Face token with write access to the dataset.
+- No Hugging Face token is used by the workflow. The manual upload needs a Hugging Face account with write access to the dataset.
 
 ## Refreshing the data by hand
 
@@ -41,13 +41,14 @@ Run from the repo root. `extract.py` needs `pdftotext` and `pdfinfo` (poppler) i
 
 ```
 python3 -I scripts/fetch_listing.py
-python3 -I scripts/download.py LISTING.json data/files data/download_log.jsonl DEADLINE_EPOCH
+LISTING=$(ls data/raw/cba_listing_*.json | tail -1)
+python3 -I scripts/download.py "$LISTING" data/files data/download_log.jsonl $(( $(date +%s) + 3600 ))
 python3 -I scripts/extract.py data/files data/text data/extract_log.jsonl
 python3 -I scripts/build_table.py
 python3 -I scripts/summary.py
 ```
 
-`download.py` waits a second between requests and stops at its deadline or at 3 GB, so it can be run again to resume. `build_table.py` uses the newest listing in `data/raw/`; if that listing has records you haven't downloaded, those rows come out without a hash or page count. Download first.
+The `download.py` arguments are the listing, the output folder, the log, and a deadline as a Unix timestamp (the example gives it an hour). `download.py` waits a second between requests and stops at its deadline or at 3 GB, so it can be run again to resume. `build_table.py` uses the newest listing in `data/raw/`; if that listing has records you haven't downloaded, those rows come out without a hash or page count. Download first.
 
 Then upload the PDFs, `text/`, `agreements.csv` and the card to Hugging Face yourself. There is no script for that.
 

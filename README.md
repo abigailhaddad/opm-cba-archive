@@ -4,6 +4,10 @@ A copy of every federal union contract in OPM's public database, with a first pa
 
 The PDFs and extracted text are on Hugging Face: [abigailhaddad/opm-cba-agreements](https://huggingface.co/datasets/abigailhaddad/opm-cba-agreements). This repo has the metadata, the termination flags, the sources behind them, and the scripts. Current counts are in [`data/SUMMARY.md`](data/SUMMARY.md), which is generated from the data.
 
+## What runs automatically
+
+A weekly GitHub Action snapshots OPM's listing, diffs it against the last one, commits both, and opens an issue if records were added or removed. It does not download PDFs, extract text, rebuild the table or flags, or upload to Hugging Face. Those steps are manual; the commands are in `HANDOFF.md`.
+
 ## Termination flags
 
 Each agreement gets one flag in `data/cba_agreements.csv`:
@@ -31,3 +35,7 @@ Court and injunction status goes stale fast; `METHODS.md` says how current it is
 - `HANDOFF.md`: what runs automatically, what doesn't, and what a new owner has to change
 
 Tests: `pip install -r requirements.txt && python -m pytest -q tests`.
+
+## License
+
+The code is MIT (`LICENSE`). The agreements are documents published by OPM; this is an unofficial copy.

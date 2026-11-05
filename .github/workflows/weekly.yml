@@ -17,8 +17,6 @@ jobs:
   check:
     runs-on: ubuntu-latest
     timeout-minutes: 30
-    env:
-      HF_TOKEN: ${{ secrets.HF_TOKEN }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -52,13 +50,6 @@ jobs:
           if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
           git commit -m "Weekly listing $(date -u +%F): added=${{ steps.diff.outputs.added || 0 }} removed=${{ steps.diff.outputs.removed || 0 }} changed=${{ steps.diff.outputs.changed || 0 }}"
           git push
-
-      # TODO: download new/changed PDFs (scripts/download.py), extract text, and
-      # upload to the Hugging Face dataset. Not implemented yet. Runs only when an
-      # HF_TOKEN repository secret exists.
-      - name: TODO - download PDFs and upload to Hugging Face
-        if: env.HF_TOKEN != '' && (steps.diff.outputs.added != '0' || steps.diff.outputs.changed != '0')
-        run: echo "TODO - PDF download and HF upload not implemented"
 
       - name: Open or comment on issue for added/removed records
         if: steps.diff.outputs.added != '0' && steps.diff.outputs.added != '' || steps.diff.outputs.removed != '0' && steps.diff.outputs.removed != ''
