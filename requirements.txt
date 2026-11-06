@@ -1,3 +1,6 @@
-# Only the tests need a package. The scripts use the Python standard library.
-# scripts/extract.py also calls pdftotext and pdfinfo (poppler-utils), which are system tools, not pip packages.
+# The scripts that read OPM and build the table use only the Python standard library.
+# scripts/refresh.py also needs huggingface_hub, to read and publish the dataset, and
+# scripts/extract.py / cba_pipeline.extract_record call pdftotext and pdfinfo (poppler-utils),
+# which are system tools, not pip packages.
 pytest
+huggingface_hub

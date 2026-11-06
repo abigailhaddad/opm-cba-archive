@@ -9,13 +9,14 @@ import json
 import os
 from collections import Counter
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = os.environ.get("CBA_ROOT") or os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 P = lambda *a: os.path.join(ROOT, *a)
 
 rows = list(csv.DictReader(open(P("data/cba_agreements.csv"))))
 listing = sorted(glob.glob(P("data/raw/cba_listing_*.json")))[-1]
 pulled = os.path.basename(listing).replace("cba_listing_", "").replace(".json", "")
 
+listed = [r for r in rows if r.get("in_current_listing", "True") == "True"]
 ok = [r for r in rows if r["download_status"] == "ok"]
 text = Counter(r["text_status"] for r in rows)
 flags = Counter(r["termination_flag"] for r in rows)
@@ -44,11 +45,13 @@ out = [
     "",
     "| | Count |",
     "|---|---:|",
-    f"| Agreements in OPM's listing | {len(rows):,} |",
+    f"| Agreements in OPM's listing | {len(listed):,} |",
     f"| Downloaded | {len(ok):,} |",
     f"| Not downloaded | {len(rows) - len(ok):,} |",
     f"| Unique files (SHA-256) | {len({r['sha256'] for r in ok}):,} |",
 ]
+if len(rows) != len(listed):
+    out.append(f"| No longer in OPM's listing, kept here | {len(rows) - len(listed):,} |")
 for k, v in sorted(text.items(), key=lambda kv: -kv[1]):
     out.append(f"| Text status `{k or 'none'}` | {v:,} |")
 out += [
