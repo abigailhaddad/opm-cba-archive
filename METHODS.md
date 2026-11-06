@@ -1,5 +1,7 @@
 # Methods and full counts
 
+The counts and tables below describe the **2026-11-01 pull**, and this file is not regenerated. From then on the weekly refresh keeps the dataset current and rewrites `data/SUMMARY.md` each time it publishes; the termination-flag sources and rules below are still the ones a person maintains by hand.
+
 A local archive of OPM's public database of federal collective bargaining agreements (CBAs), pulled on
 **2026-11-01** (listing fetched 2026-11-01 23:59:22 UTC, i.e. 6:59 PM ET; files downloaded 2026-11-01 23:59:51 UTC to 2026-11-02 00:32:36 UTC (6:59-7:32 PM ET)), with
 a first-pass flag for agreements that appear to have been terminated under Executive Orders 14251 and 14343.

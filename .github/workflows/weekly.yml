@@ -1,32 +1,57 @@
-name: weekly listing check
+name: weekly refresh
+
+# Every Monday: fetch OPM's listing, diff it, download only the files that are new or changed,
+# extract their text, rebuild data/cba_agreements.csv and publish to Hugging Face as one commit.
+# A week with nothing new commits nothing and ends green. See HANDOFF.md.
+#
+# To test by hand: Actions > weekly refresh > Run workflow. The defaults are a dry run (nothing is
+# committed here or on Hugging Face). Put a few record ids in "force_ids" to make it download them
+# again, and set dry_run to false to publish for real.
 
 on:
   schedule:
     - cron: "17 11 * * 1"   # Mondays 11:17 UTC
   workflow_dispatch:
+    inputs:
+      limit:
+        description: "Download at most this many files (0 downloads none)"
+        default: "300"
+      dry_run:
+        description: "Do everything except commit to Hugging Face and to this repo"
+        type: boolean
+        default: true
+      force_ids:
+        description: "Comma-separated record ids to download again (testing)"
+        default: ""
 
 permissions:
   contents: write
   issues: write
 
 concurrency:
-  group: weekly-listing
+  group: weekly-refresh
   cancel-in-progress: false
 
 jobs:
-  check:
+  refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 120
+    env:
+      DRY_RUN: ${{ inputs.dry_run == true && 'true' || 'false' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Tests
+      - name: Install poppler (pdftotext) and the Python packages
         run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq poppler-utils
           pip install -r requirements.txt
-          python -m pytest -q tests
+
+      - name: Tests
+        run: python -m pytest -q tests
 
       - name: Fetch and validate listing
         id: fetch
@@ -41,18 +66,44 @@ jobs:
           code=$?
           set -e
           if [ "$code" != 0 ] && [ "$code" != 10 ] && [ "$code" != 11 ]; then exit "$code"; fi
+          # An unchanged listing is not worth a commit: drop the copy we just saved.
+          if [ "$code" = 0 ]; then rm -f "${{ steps.fetch.outputs.new }}"; echo "listing unchanged"; fi
 
-      - name: Commit listing and change log
+      - name: Download new files, extract text, rebuild the table, publish to Hugging Face
+        id: refresh
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          LIMIT: ${{ inputs.limit || '300' }}
+          FORCE_IDS: ${{ inputs.force_ids }}
+        run: |
+          # Never fails here, so the repo state below is committed first. The last step turns the
+          # exit code into a red run.
+          set +e
+          args="--limit $LIMIT"
+          if [ "$DRY_RUN" = "true" ]; then args="$args --dry-run"; fi
+          if [ -n "$FORCE_IDS" ]; then args="$args --force-ids $FORCE_IDS"; fi
+          python scripts/refresh.py $args
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Commit the listing, change log and refreshed table
+        if: env.DRY_RUN != 'true'
+        env:
+          REFRESH_CODE: ${{ steps.refresh.outputs.code }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898733+github-actions[bot]@users.noreply.github.com"
           git add data/raw data/changes
+          # The logs and table say which files are on Hugging Face, so they are committed only when
+          # the publish step finished (or had nothing to do). Exit codes 0, 3 and 6 reach that point.
+          case "$REFRESH_CODE" in
+            0|3|6) git add data/download_log.jsonl data/extract_log.jsonl data/cba_agreements.csv data/SUMMARY.md data/hf_card.sha256 ;;
+          esac
           if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
-          git commit -m "Weekly listing $(date -u +%F): added=${{ steps.diff.outputs.added || 0 }} removed=${{ steps.diff.outputs.removed || 0 }} changed=${{ steps.diff.outputs.changed || 0 }}"
-          git push
+          git commit -m "Weekly refresh $(date -u +%F): listing added=${{ steps.diff.outputs.added || 0 }} removed=${{ steps.diff.outputs.removed || 0 }} changed=${{ steps.diff.outputs.changed || 0 }}, published=${{ steps.refresh.outputs.published || 0 }} files"
+          git push || { git pull --rebase && git push; }
 
       - name: Open or comment on issue for added/removed records
-        if: steps.diff.outputs.added != '0' && steps.diff.outputs.added != '' || steps.diff.outputs.removed != '0' && steps.diff.outputs.removed != ''
+        if: env.DRY_RUN != 'true' && (steps.diff.outputs.added != '0' && steps.diff.outputs.added != '' || steps.diff.outputs.removed != '0' && steps.diff.outputs.removed != '')
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -61,12 +112,43 @@ jobs:
           num=$(gh issue list --state open --search "in:title \"$title\"" --json number -q '.[0].number')
           if [ -n "$num" ]; then gh issue comment "$num" --body "$body"; else gh issue create --title "$title" --body "$body"; fi
 
-      - name: Open or comment on issue on failure
-        if: failure()
+      - name: Open or comment on issue for new agreements to review
+        if: env.DRY_RUN != 'true' && steps.refresh.outputs.review_count != '' && steps.refresh.outputs.review_count != '0' && steps.refresh.outputs.published != '' && steps.refresh.outputs.published != '0'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          title="Weekly listing pipeline failed"
-          body="Run failed: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          title="New agreements to review for termination flags"
+          file="data/changes/review-$(date -u +%F).md"
+          if [ ! -f "$file" ]; then echo "no review file"; exit 0; fi
+          num=$(gh issue list --state open --search "in:title \"$title\"" --json number -q '.[0].number')
+          if [ -n "$num" ]; then gh issue comment "$num" --body-file "$file"; else gh issue create --title "$title" --body-file "$file"; fi
+
+      - name: Summary
+        if: always()
+        env:
+          REFRESH_CODE: ${{ steps.refresh.outputs.code }}
+        run: |
+          {
+            echo "### Weekly refresh"
+            echo "- dry run: $DRY_RUN"
+            echo "- downloaded: ${{ steps.refresh.outputs.downloaded || 0 }}, failed: ${{ steps.refresh.outputs.failed || 0 }}"
+            echo "- files published to Hugging Face: ${{ steps.refresh.outputs.published || 0 }}"
+            echo "- new agreements to review: ${{ steps.refresh.outputs.review_count || 0 }}"
+            echo "- refresh exit code: ${REFRESH_CODE:-none}"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Fail the run if the refresh reported a problem
+        if: steps.refresh.outputs.code != '' && steps.refresh.outputs.code != '0'
+        run: |
+          echo "scripts/refresh.py exited ${{ steps.refresh.outputs.code }}. 2 = the checks before publishing failed, 3 = OPM refused a request, 4 = HF_TOKEN is not set, 5 = the Hugging Face commit failed, 6 = most downloads failed."
+          exit 1
+
+      - name: Open or comment on issue on failure
+        if: failure() && env.DRY_RUN != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          title="Weekly refresh failed"
+          body="Run failed: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID (refresh exit code: ${{ steps.refresh.outputs.code || 'not reached' }}). 2 = checks failed, nothing published; 3 = OPM refused a request; 4 = HF_TOKEN missing; 5 = Hugging Face commit failed; 6 = most downloads failed."
           num=$(gh issue list --state open --search "in:title \"$title\"" --json number -q '.[0].number')
           if [ -n "$num" ]; then gh issue comment "$num" --body "$body"; else gh issue create --title "$title" --body "$body"; fi

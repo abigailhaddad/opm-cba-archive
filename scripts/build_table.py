@@ -1,14 +1,20 @@
 """Build data/cba_agreements.csv: listing fields + download hash + page count + text flag +
 EO coverage + termination flag. Usage: python3 -I scripts/build_table.py
+CBA_ROOT (env, optional) points the script at another copy of the repo layout, for tests.
 Inputs: data/raw/cba_listing_*.json (latest), data/download_log.jsonl, data/extract_log.jsonl,
 data/terminations/record_flags.csv (hand-curated confirmed matches), scripts/coverage.py rules."""
 import json, glob, csv, os, sys, re, collections
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from coverage import coverage, psf_hint
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+from cba_pipeline import read_rows, typed_row
+ROOT = os.environ.get("CBA_ROOT") or os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 P = lambda *a: os.path.join(ROOT, *a)
 listing = sorted(glob.glob(P("data/raw/cba_listing_*.json")))[-1]
 recs = json.load(open(listing))["results"]
+# The table as last published. It keeps rows for records OPM has since removed from the listing, and it
+# remembers which agreements are a bare submission form, which needs the text files a fresh clone lacks.
+prev_rows = read_rows(P("data/cba_agreements.csv"))
+prev_status = {r["id"]: r["text_status"] for r in prev_rows}
 dl = {}
 for l in open(P("data/download_log.jsonl")):
     j = json.loads(l)
@@ -55,9 +61,13 @@ def pi_dod_match(r):
 
 def text_status(e, rid):
     if not e: return "not_processed"
-    if (e.get("pages") or 0) <= 2 and os.path.exists(P("data/text", rid + ".txt")) and \
-       re.search(r"Submission\s+Form", open(P("data/text", rid + ".txt"), errors="replace").read()[:3000]):
-        return "submission_form_only"
+    tp = P("data/text", rid + ".txt")
+    if (e.get("pages") or 0) <= 2:
+        if os.path.exists(tp):
+            if re.search(r"Submission\s+Form", open(tp, errors="replace").read()[:3000]):
+                return "submission_form_only"
+        elif prev_status.get(rid) == "submission_form_only":
+            return "submission_form_only"
     if e.get("error") or e.get("pdftotext_rc") not in (0, None): return "error"
     pages = e.get("pages") or 0; w = e.get("words") or 0
     if w == 0: return "no_text"
@@ -104,11 +114,18 @@ for r in recs:
         "text_status": text_status(e, r["id"]),
         "eo_coverage": cov, "eo_section": sec, "eo_note": cnote, "psf_indicator": hint,
         "termination_flag": flag, "termination_basis": basis, "termination_sources": srcs,
+        "in_current_listing": True,
     })
+current_ids = {r["id"] for r in rows}
+removed = 0
+for p in prev_rows:
+    if p["id"] not in current_ids:
+        row = typed_row(p); row["in_current_listing"] = False
+        rows.append(row); removed += 1
 with open(P("data/cba_agreements.csv"), "w", newline="") as f:
     w = csv.DictWriter(f, fieldnames=list(rows[0]), quoting=csv.QUOTE_NONNUMERIC); w.writeheader(); w.writerows(rows)
 c = collections.Counter
-print("records", len(rows))
+print("records", len(rows), f"({removed} no longer in the listing)")
 print("download", c(x["download_status"] for x in rows))
 print("unique sha", len({x["sha256"] for x in rows if x["sha256"]}))
 print("text", c(x["text_status"] for x in rows))
