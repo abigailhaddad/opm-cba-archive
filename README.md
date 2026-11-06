@@ -29,6 +29,12 @@ OPM requires covered agencies to report the status of every agreement to OPM mon
 
 Court and injunction status goes stale fast; `METHODS.md` says how current it is. Check before relying on any single flag.
 
+## Testing it by hand
+
+Actions > "weekly refresh" > Run workflow. The defaults are a dry run: it does everything except commit to Hugging Face or this repo, and prints what it would publish. `limit` caps the files downloaded (0 downloads none), `dry_run` is ticked until you want a real publish, and `force_ids` takes comma-separated record ids to download again. A good first test is `limit` 3 with three ids from `data/cba_agreements.csv`.
+
+On your own machine: `pip install -r requirements.txt`, install poppler, then `python3 scripts/fetch_listing.py` and `python3 scripts/refresh.py --dry-run --limit 3`. Tests: `python -m pytest -q tests` (they use fakes for OPM and Hugging Face, so they need no network).
+
 ## Files
 
 - `data/cba_agreements.csv`: one row per agreement, with OPM's fields, file hash, text status and termination flag
