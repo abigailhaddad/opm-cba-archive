@@ -94,8 +94,17 @@ The agency and union match, but the specific document OPM posts has been superse
 
 **DoD (889 records).** The Apr 9 2026 memo (S03) could not be retrieved: media.defense.gov returned HTTP 403
 to both curl and WebFetch. What it says comes from GovExec's quotes (S11) and the DFAS memo that cites it
-(S02). A replacement memo dated Aug 24 2026 (S04) is known only from one advocacy newsletter. Rules applied, in
-order:
+(S02). A replacement memo dated Aug 24 2026 (S04) was first known only from one advocacy newsletter. A court
+filing checked on 2026-11-15 (S37, the second amended complaint in AFGE Local 1410 v. DoD, D. Md.
+1:26-cv-02653) quotes the Apr 9 memo's carve-outs: agreements "subject to a court order enjoining
+implementation" of the EO, the employees in the Apr 23 2025 certification, and "the local employing offices of
+any agency police offices, security guards, or firefighters." Those are the carve-outs rules 1-3 below
+already use. The same case's docket confirms the Aug 24 memo exists and "rescinds and replaces" the Apr 9 one;
+its carve-outs are still known only from the newsletter. Neither memo has been read in full. The complaint
+also alleges that DoD, in practice, kept honoring CBAs only for individual police officers, guards and
+firefighters, and ended coverage for other employees in the same local offices. If that is right, some
+employees in the 82 `not_flagged_exempt_psf` units may have lost coverage too; that is an allegation, not a
+finding, and no flag was changed. Rules applied, in order:
 1. Police/firefighter/guard indicator in union or unit name (IAFF, FOP, "police", "force protection", etc.) →
    `not_flagged_exempt_psf` (82). The memo excludes their "local employing offices".
 2. Union and local listed in the AFL-CIO v. Trump preliminary injunction (S12, Oct 1 2025: 21 IFPTE locals,
