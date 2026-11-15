@@ -134,8 +134,11 @@ def main(argv=None, fetch=None, hf=None, extract=None, sleep=None):
 
     local_pdfs = {f[:-4] for f in os.listdir(pdf_dir)} if os.path.isdir(pdf_dir) else set()
     local_texts = {f[:-4] for f in os.listdir(text_dir)} if os.path.isdir(text_dir) else set()
+    ocr_dir = P("data/ocr")
+    local_ocr = {f[:-4] for f in os.listdir(ocr_dir) if f.endswith(".txt")} if os.path.isdir(ocr_dir) else set()
+    hf_ocr_ids = {f[4:-4] for f in hf_files if f.startswith("ocr/") and f.endswith(".txt")}
     bad = cp.verify_table(rows, records, published_rows, hf_pdf_ids | local_pdfs, hf_text_ids | local_texts,
-                          redownloaded=result["ok"])
+                          redownloaded=result["ok"], ocr_ids=hf_ocr_ids | local_ocr)
     if bad:
         say("CHECKS FAILED, nothing published:")
         for b in bad:
@@ -146,7 +149,8 @@ def main(argv=None, fetch=None, hf=None, extract=None, sleep=None):
     if changed_flags:
         say(f"{len(changed_flags)} existing rows changed flag (listing fields changed); first: {changed_flags[0]}")
 
-    ops = cp.commit_plan(rows, published_rows, hf_files, pdf_dir, text_dir, csv_path, remote_csv, result["ok"])
+    ops = cp.commit_plan(rows, published_rows, hf_files, pdf_dir, text_dir, csv_path, remote_csv, result["ok"],
+                         ocr_dir=ocr_dir)
     card_path = P("hf/README.md")
     card_state = P("data/hf_card.sha256")
     recorded = open(card_state).read().strip() if os.path.exists(card_state) else None

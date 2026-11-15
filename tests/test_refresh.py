@@ -284,6 +284,27 @@ def test_commit_plan_never_contains_a_deletion(tmp_path):
     assert not any("id9" in p for p, _ in ops)
 
 
+def test_commit_plan_adds_ocr_text_once_and_again_only_when_it_changes(tmp_path):
+    pdf, txt, csvp = make_files(tmp_path, [])
+    ocr = tmp_path / "ocr"; ocr.mkdir()
+    (ocr / "id1.txt").write_text("ocr text")
+    rows = [table_row(1, ocr_words="900"), table_row(2, ocr_words="")]
+    ops = cp.commit_plan(rows, [table_row(1), table_row(2)], set(), pdf, txt, csvp, b"new table", [], ocr_dir=str(ocr))
+    assert [p for p, _ in ops] == ["ocr/id1.txt"]                       # no ocr_words -> nothing for id2
+    published = [table_row(1, ocr_words="900")]
+    assert cp.commit_plan(rows[:1], published, {"ocr/id1.txt"}, pdf, txt, csvp, b"new table", [], ocr_dir=str(ocr)) == []
+    rows[0]["ocr_words"] = "950"
+    assert [p for p, _ in cp.commit_plan(rows[:1], published, {"ocr/id1.txt"}, pdf, txt, csvp, b"new table", [],
+                                         ocr_dir=str(ocr))] == ["ocr/id1.txt"]
+
+
+def test_verify_a_row_with_ocr_words_needs_its_ocr_file():
+    rows = [table_row(1, ocr_words="900")]
+    ids = {"id1"}
+    assert any("no OCR text file" in p for p in cp.verify_table(rows, [rec(1)], [], ids, ids, ocr_ids=set()))
+    assert cp.verify_table(rows, [rec(1)], [], ids, ids, ocr_ids={"id1"}) == []
+
+
 def test_hf_client_refuses_anything_but_additions(monkeypatch):
     """HfClient.commit builds only CommitOperationAdd; its assertion guards against a future delete."""
     import hf_client
@@ -374,6 +395,16 @@ def test_bare_submission_forms_survive_a_clone_with_no_text_files(tmp_path):
     (tmp_path / "data" / "extract_log.jsonl").write_text(json.dumps({"id": "id1", "pages": 1, "words": 40, "pdftotext_rc": 0}) + "\n")
     p.write_text(s)
     assert run_build(str(tmp_path))["id1"]["text_status"] == "submission_form_only"
+
+
+def test_ocr_words_come_from_the_ocr_log_only_when_the_hash_matches(tmp_path):
+    root = build_root(tmp_path, [rec(1), rec(2), rec(3)])
+    log = [{"id": "id1", "sha256": "a" * 64, "words": 900}, {"id": "id2", "sha256": "b" * 64, "words": 800}]
+    (tmp_path / "data" / "ocr_log.jsonl").write_text("".join(json.dumps(x) + "\n" for x in log))
+    t = run_build(root)
+    assert t["id1"]["ocr_words"] == "900"
+    assert t["id2"]["ocr_words"] == ""     # OCR was run on a different file than the one now listed
+    assert t["id3"]["ocr_words"] == ""
 
 
 def test_the_build_reproduces_the_published_table_from_the_repo_data(tmp_path):

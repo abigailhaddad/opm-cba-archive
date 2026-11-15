@@ -181,7 +181,7 @@ def extract_record(src, dst, run=subprocess.run):
 
 # ---------- the table ----------
 
-NUMERIC_COLUMNS = {"download_http", "bytes", "sha256_dup_count", "pages", "words"}
+NUMERIC_COLUMNS = {"download_http", "bytes", "sha256_dup_count", "pages", "words", "ocr_words"}
 BOOLEAN_COLUMNS = {"is_pdf_magic", "encrypted"}
 
 
@@ -209,12 +209,13 @@ def read_rows(path):
 
 # ---------- checks before publishing ----------
 
-def verify_table(rows, listing_records, prev_rows, pdf_ids, text_ids, redownloaded=()):
+def verify_table(rows, listing_records, prev_rows, pdf_ids, text_ids, redownloaded=(), ocr_ids=None):
     """Return a list of problems with the rebuilt table. An empty list means safe to publish.
 
     rows: the new table (dicts of strings). prev_rows: the published table. pdf_ids / text_ids: ids that
     will have a PDF / text file on Hugging Face after this run (already there, or about to be uploaded).
     redownloaded: ids fetched this run, the only ones allowed to change hash.
+    ocr_ids: ids that will have an OCR text file on Hugging Face after this run (None skips the check).
     """
     problems = []
     ids = [r["id"] for r in rows]
@@ -240,6 +241,8 @@ def verify_table(rows, listing_records, prev_rows, pdf_ids, text_ids, redownload
                 problems.append(f"{r['id']}: no PDF on Hugging Face or in this run's upload")
             if r["id"] not in text_ids:
                 problems.append(f"{r['id']}: no text file on Hugging Face or in this run's upload")
+        if ocr_ids is not None and r.get("ocr_words") not in (None, "") and r["id"] not in ocr_ids:
+            problems.append(f"{r['id']}: has ocr_words but no OCR text file on Hugging Face or in this run's upload")
         p = prev.get(r["id"])
         if p:
             if p["download_status"] == "ok" and r["id"] not in redown and r["sha256"] != p["sha256"]:
@@ -258,11 +261,13 @@ def flag_changes(rows, prev_rows):
 
 # ---------- what to publish ----------
 
-def commit_plan(rows, prev_rows, hf_files, pdf_dir, text_dir, csv_path, remote_csv_bytes, downloaded):
+def commit_plan(rows, prev_rows, hf_files, pdf_dir, text_dir, csv_path, remote_csv_bytes, downloaded, ocr_dir=None):
     """The Hugging Face commit as a list of (path_in_repo, local_path). Additions only, never deletes.
 
     A PDF and its text go up when the file was downloaded this run and is new to Hugging Face or has a
-    different hash from the published row. The table goes up when it differs from the published one.
+    different hash from the published row. An OCR text (data/ocr/<id>.txt, committed in git) goes up when
+    the row has ocr_words and the file is not on Hugging Face yet or its word count changed. The table
+    goes up when it differs from the published one.
     """
     prev = {r["id"]: r for r in prev_rows}
     sha = {r["id"]: r["sha256"] for r in rows}
@@ -278,6 +283,15 @@ def commit_plan(rows, prev_rows, hf_files, pdf_dir, text_dir, csv_path, remote_c
         ops.append((f"pdfs/{rid}.pdf", pdf))
         if os.path.exists(txt):
             ops.append((f"text/{rid}.txt", txt))
+    if ocr_dir:
+        for r in sorted(rows, key=lambda r: r["id"]):
+            words = r.get("ocr_words")
+            local = os.path.join(ocr_dir, r["id"] + ".txt")
+            if words in (None, "") or not os.path.exists(local):
+                continue
+            path = f"ocr/{r['id']}.txt"
+            if path not in hf_files or str(prev.get(r["id"], {}).get("ocr_words", "")) != str(words):
+                ops.append((path, local))
     if remote_csv_bytes != open(csv_path, "rb").read():
         ops.append(("agreements.csv", csv_path))
     return ops

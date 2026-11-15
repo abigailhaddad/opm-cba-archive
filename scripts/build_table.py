@@ -2,7 +2,8 @@
 EO coverage + termination flag. Usage: python3 -I scripts/build_table.py
 CBA_ROOT (env, optional) points the script at another copy of the repo layout, for tests.
 Inputs: data/raw/cba_listing_*.json (latest), data/download_log.jsonl, data/extract_log.jsonl,
-data/terminations/record_flags.csv (hand-curated confirmed matches), scripts/coverage.py rules."""
+data/terminations/record_flags.csv (hand-curated confirmed matches), data/ocr_log.jsonl (optional),
+scripts/coverage.py rules."""
 import json, glob, csv, os, sys, re, collections
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from coverage import coverage, psf_hint
@@ -23,6 +24,11 @@ ex = {}
 if os.path.exists(P("data/extract_log.jsonl")):
     for l in open(P("data/extract_log.jsonl")):
         j = json.loads(l); ex[j["id"]] = j
+# OCR of the scanned agreements (scripts/ocr.py). Used only when it was run on the file the table now points to.
+ocr = {}
+if os.path.exists(P("data/ocr_log.jsonl")):
+    for l in open(P("data/ocr_log.jsonl")):
+        j = json.loads(l); ocr[j["id"]] = j
 manual = collections.defaultdict(list)
 mf = P("data/terminations/record_flags.csv")
 if os.path.exists(mf):
@@ -112,6 +118,7 @@ for r in recs:
         "is_pdf_magic": (d.get("magic") == "%PDF-") if d.get("status") == "ok" else None,
         "pages": (e or {}).get("pages"), "words": (e or {}).get("words"), "encrypted": (e or {}).get("encrypted"),
         "text_status": text_status(e, r["id"]),
+        "ocr_words": ocr[r["id"]]["words"] if r["id"] in ocr and d.get("sha256") and ocr[r["id"]].get("sha256") == d.get("sha256") else None,
         "eo_coverage": cov, "eo_section": sec, "eo_note": cnote, "psf_indicator": hint,
         "termination_flag": flag, "termination_basis": basis, "termination_sources": srcs,
         "in_current_listing": True,
