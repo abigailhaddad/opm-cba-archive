@@ -183,8 +183,8 @@ rendered at 300 dpi in grayscale with `pdftoppm` and read with Tesseract 5.5.2 (
 confidence), and `ocr_words` in the table. Mean confidence by file runs from 83.0 to 96.3; the low one
 (4f3548ee, Navy-AFGE) is sideways two-up pages and its text is noisy. Checks: five pages from five files were
 compared by eye with the page image, and for the 7 `low_text` files, 96.9% to 100% of the words (4+ letters)
-in the PDF's own text layer also appear in the OCR text. Pages that OCR as empty were looked at and are blank
-or "Page Intentionally Left Blank". The OCR is run by hand, not by the weekly job.
+in the PDF's own text layer also appear in the OCR text. All 28 pages that OCR as (nearly) empty were looked at: 27 are blank, "Page Intentionally Left Blank" or a
+one-word divider; one (2d46abc6, page 2) is a cover page printed on a dark background whose text OCR lost. The OCR is run by hand, not by the weekly job.
 
 **EO coverage** (`eo_coverage`, `scripts/coverage.py`). A rule set that reads the agency and sub-agency
 fields and checks them against the agencies and subdivisions named in EO 14251 s.1-4 (as amended by EO 14343).
