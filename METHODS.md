@@ -214,10 +214,11 @@ agency actually terminated the agreement.
   firefighters or police whose offices are carved out. Federal Wage System trades at certified subdivisions are
   carved out too. National Guard dual-status technicians (ACT, 68 records) were treated like other DoD units,
   but no source was found specifically about Guard technician contracts.
-- **Court status moves fast.** The injunction-related flags reflect orders as of the dates cited. Not checked:
-  the outcome of the appeal of S12, the status of the FEA injunction, the AFGE/NFFE v. DoD case (D. Md.
-  1:26-cv-02653, PI motion filed July 2026), anything after Oct 16 2026 in the BOP case, and the current state of
-  the VA-AFGE dispute.
+- **Court status moves fast.** The injunction-related flags reflect orders as of the dates cited. Those cases
+  were rechecked on 2026-11-15 against the court dockets (`data/terminations/court_status_2026-11-15.md`,
+  sources S32-S36): the AFL-CIO and FEA injunctions are still in effect with their appeals undecided, the D. Md.
+  case has no ruling, the BOP agreement stays reinstated by court order, and the VA-AFGE master is still
+  contested after the First Circuit's Oct 2 2026 stay. No flag changed.
 - **Matching rules** (`scripts/coverage.py`, `scripts/build_table.py`) read free-text fields that are
   inconsistent. For example, the same component appears as "Department of Army", "DEPARTMENT OF ARMY",
   "Army", and with trailing spaces. The DFAS master agreement is listed under "AFMC". The Federal Grain

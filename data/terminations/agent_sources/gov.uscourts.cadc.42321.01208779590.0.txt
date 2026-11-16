@@ -1,0 +1,1256 @@
+                  United States Court of Appeals
+                             FOR THE DISTRICT OF COLUMBIA CIRCUIT
+                                       ____________
+No. 25-5303                                                 September Term, 2025
+                                                                         1:25-cv-01362-PLF
+                                                       Filed On: September 25, 2025
+Federal Education Association, et al.,
+
+              Appellees
+
+       v.
+
+Donald J. Trump, in his official capacity as
+President of the United States, et al.,
+
+              Appellants
+
+       BEFORE:       Henderson*, Pan**, and Garcia, Circuit Judges
+
+                                         ORDER
+
+      Upon consideration of the emergency motion for a stay pending appeal, the
+opposition thereto, and the reply, it is
+
+       ORDERED that the administrative stay entered on September 2, 2025, be
+dissolved. It is
+
+         FURTHER ORDERED that the motion for stay be denied. The government
+seeks the “extraordinary” relief of a stay pending appeal. Citizens for Resp. & Ethics in
+Washington v. FEC, 904 F.3d 1014, 1017 (D.C. Cir. 2018) (per curiam). To secure that
+relief, the government must show that it will face “irreparable injury” if the district court’s
+order is not stayed while the appeal is pending. Nken v. Holder, 556 U.S. 418, 433–35
+(2009). That injury must be “both certain and great,” and “of such imminence that there
+is a clear and present need for equitable relief to prevent irreparable harm.” Chaplaincy
+of Full Gospel Churches v. England, 454 F.3d 290, 297 (D.C. Cir. 2006) (cleaned up).
+The government has not met that burden on the facts of this case. Indeed, it has not
+made a meaningful attempt to do so.
+
+                                               I
+
+      On March 27, 2025, the President issued an Executive Order excluding
+approximately two-thirds of the federal workforce, including all employees of the
+
+
+
+* A statement by Circuit Judge Henderson, dissenting from this order, is attached.
+
+** A statement by Circuit Judge Pan, concurring in this order, is attached.
+                 United States Court of Appeals
+                            FOR THE DISTRICT OF COLUMBIA CIRCUIT
+                                     ____________
+No. 25-5303                                                September Term, 2025
+
+Department of Defense, from collective bargaining protections under the Federal
+Service Labor-Management Relations Statute (FSLMRS). See Exec. Order
+No. 14,251, 90 Fed. Reg. 14553, 14553–55 (Mar. 27, 2025). The Order invokes the
+President’s statutory authority to “issue an order excluding any agency or subdivision
+thereof from coverage under” the FSLMRS “if the President determines” both that “the
+agency or subdivision has as a primary function . . . national security work” and that “the
+provisions of [the FSLMRS] cannot be applied to that agency or subdivision in a manner
+consistent with national security requirements and considerations.” 5 U.S.C.
+§ 7103(b)(1).
+
+       Several groups of plaintiffs separately sued to enjoin enforcement of the Order.
+The district court has granted preliminary injunctions in three cases. See Nat’l Treasury
+Emps. Union v. Trump, 780 F. Supp. 3d 237, 268–69 (D.D.C. 2025); Am. Foreign Serv.
+Ass’n v. Trump, 783 F. Supp. 3d 248, 273 (D.D.C. 2025); Fed. Educ. Ass’n v. Trump,
+2025 WL 2355747, at *20 (D.D.C. Aug. 14, 2025). The first concerned several
+agencies and subdivisions listed in the Order. Nat’l Treasury Emps. Union, 780 F.
+Supp. 3d at 247, 267–69. The second concerned the State Department, which was
+also specifically identified in the Order. Am. Foreign Serv. Ass’n v. Trump, 783 F.
+Supp. 3d at 256, 273. In both cases, the government sought, and this court granted,
+stays pending appeal. See Nat’l Treasury Emps. Union v. Trump, 2025 WL 1441563,
+at *1–3 (D.C. Cir. May 16, 2025) (per curiam); Am. Foreign Serv. Ass’n v. Trump,
+2025 WL 1742853, at *1–4 (D.C. Cir. June 20, 2025) (per curiam).
+
+       The plaintiffs in this third case are three unions that represent employees of the
+Department of Defense Education Activity (DoDEA), a subdivision of the Department of
+Defense (DoD) that “operates schools for the children of uniformed and civilian DoD
+personnel stationed in military bases in the United States and abroad.” Fed. Educ.
+Ass’n, 2025 WL 2355747, at *2 (citation omitted). Although the Order excludes the
+entire DoD from FSLMRS coverage, the district court’s preliminary injunction prevents
+implementation of the Order only as to DoDEA. The government appeals, and it
+requests an immediate stay while we consider that appeal.
+
+                                             II
+
+        Assuming without deciding that the government is likely to succeed on the
+merits, it has not met its burden to separately demonstrate that it will face irreparable
+injury. That failure alone dooms its request. See, e.g., KalshiEX LLC v. Commodity
+Futures Trading Comm’n, 119 F.4th 58, 64 (D.C. Cir. 2024) (“[A] showing of irreparable
+harm is a necessary prerequisite for a stay.”); Ruckelshaus v. Monsanto Co., 463 U.S.
+1315, 1317 (1983) (Blackmun, J., in chambers) (similar).
+
+
+                                          Page 2
+                 United States Court of Appeals
+                            FOR THE DISTRICT OF COLUMBIA CIRCUIT
+                                      ____________
+No. 25-5303                                                September Term, 2025
+
+        In its stay motion to this court, the government devotes just one paragraph to
+articulating its irreparable injury. See Mot. 25. That paragraph summarily asserts that
+the district court’s preliminary injunction “inflicts irreparable harm on the President by
+impeding his national-security prerogatives” and references this court’s two prior stays
+pending appeal. Id. (citing Nat’l Treasury Emps. Union, 2025 WL 1441563, at *2; Am.
+Foreign Serv. Ass’n, 2025 WL 1742853, at *3); accord Reply 12–13.
+
+       True, courts are appropriately hesitant to question the President’s national
+security determinations. True also, there is an interest in maintaining consistency in our
+orders, even non-precedential ones.
+
+       But here, the government’s allegation of irreparable harm is entirely untethered
+from the injunction the government asks us to stay. The preliminary injunction here
+operates only as to DoDEA. Accordingly, the government must show that requiring
+DoDEA to adhere to the FSLMRS’s collective bargaining requirements during the
+pendency of the appeal will harm national security or otherwise irreparably injure the
+government. It has not done so.
+
+        To start, unlike in both prior appeals, the government cannot assert that the
+President determined that applying the FSLMRS to the agency or subdivision covered
+by the preliminary injunction would be inconsistent with national security requirements.
+If that were true, the government would have a stronger argument that this preliminary
+injunction directly undermines the President’s determination. But in arguing the merits,
+the government urges that the President made a blanket statutory determination for the
+Department of Defense as a whole and was not required to “be more granular” by
+making separate determinations for subdivisions like DoDEA. Reply 11. If the
+President did not consider DoDEA independently, the Order itself cannot show that an
+injunction specific to DoDEA causes irreparable harm.
+
+        The government offers nothing to address this deficiency. Its stay motion and
+reply brief do not contain a single word on the central question of how the preliminary
+injunction as to DoDEA imposes irreparable injury. The reply brief illustrates this flaw:
+The injunction imposes irreparable harm, the government argues, because “Plaintiffs
+provide no basis to second-guess the President’s determination that applying the
+provisions of the FSLMRS to DoD would be inconsistent with national-security
+requirements.” Reply 12 (emphasis added). Again, the government is clear elsewhere
+that the President made no such determination as to DoDEA, so there is nothing to
+which we could defer. Because it was the government’s burden to demonstrate
+irreparable harm, it would be entirely appropriate to go no further. See United States ex
+rel. Totten v. Bombardier Corp., 380 F.3d 488, 497 (D.C. Cir. 2004) (“Ordinarily,
+
+
+                                          Page 3
+                 United States Court of Appeals
+                            FOR THE DISTRICT OF COLUMBIA CIRCUIT
+                                      ____________
+No. 25-5303                                                September Term, 2025
+
+arguments that parties do not make on appeal are deemed to have been waived.”
+(collecting cases)).
+
+                                             III
+
+        Below, the government did make an argument specific to DoDEA. That fact
+serves primarily to underscore the government’s failure to do so on appeal. But even if
+we were inclined to overlook the government’s forfeiture, the theory it presented to the
+district court is also flawed.
+
+        In its request for a stay to the district court, the government attempted to explain
+how the injunction as to DoDEA would cause irreparable injury. But that asserted injury
+was indirect and relied on a chain of inferences. According to the government, DoDEA
+supports DoD’s “overall national security mission” because delivering quality education
+to the children of DoD personnel aids DoD’s “recruitment and retention efforts.” D. Ct.
+Dkt. 39 at 7–9 (citation omitted). And requiring DoDEA to adhere to the FSLMRS’s
+collective bargaining requirements, the government said, would “disrupt[]” its
+educational mission, including by requiring more instruction by “substitute teachers” and
+by diverting “resources that DoDEA otherwise could devote to the education of
+students.” Id. The implication was that the quality of education provided by DoDEA
+might, over time, lead current or potential DoD personnel to seek other employment,
+which would harm national security.
+
+        Setting aside the merits of this chain of reasoning and granting that the harms
+would be serious, the theory is still insufficient. We have long required stay applicants
+to show that their asserted injuries are imminent, in that those injuries would manifest to
+a meaningful extent during the pendency of the appeal. See Chaplaincy of Full Gospel
+Churches, 454 F.3d at 297; see also White v. Florida, 458 U.S. 1301, 1302 (1982)
+(Powell, J., in chambers) (denying stay application because “[a]lthough [the applicant]
+establishe[d] that he may suffer irreparable harm at some point in the future, there [wa]s
+no indication that the harm [wa]s imminent”); cf. Clapper v. Amnesty Int’l USA, 568 U.S.
+398, 410 (2013) (explaining, in the standing context, that an injury is not “imminent” if it
+“relies on a highly attenuated chain of possibilities”). The government did not even
+attempt to demonstrate that the indirect effects on national security it posited could
+meet that standard, and it is far from self-evident that they would. Given all of
+that—and the fact that the government does not so much as mention this argument on
+appeal—we cannot conclude that the government has met its burden.1
+
+1
+ By contrast, it arguably is self-evident that, for example, some State Department
+employees’ everyday activities—including “diplomatic negotiations” and the submission
+of “reports . . . to Washington”—directly impact “national security.” Am. Foreign Serv.
+
+                                          Page 4
+                United States Court of Appeals
+                           FOR THE DISTRICT OF COLUMBIA CIRCUIT
+                                    ____________
+No. 25-5303                                               September Term, 2025
+
+                                        *     *      *
+
+       The government, like other litigants, may not simply assume that this court will
+leap to intervene on its behalf based on generalized assertions of injury. Stays pending
+appeal are a rare form of emergency relief reserved for true emergencies. And it is not
+enough that the government “stamp[s] the word ‘EMERGENCY’ on the front cover of its
+stay application.” Labrador v. Poe, 144 S. Ct. 921, 926 n.3 (2024) (Gorsuch, J.,
+concurring in the grant of stay). In every case, the government must explain why the
+specific order from which it seeks relief imposes certain, great, and imminent injury
+while the appeal is pending. See Citizens for Resp. & Ethics in Washington, 904 F.3d
+at 1019. It did not do so here.
+
+
+                                      Per Curiam
+
+
+                                                         FOR THE COURT:
+                                                         Clifton B. Cislak, Clerk
+
+                                                  BY:    /s/
+                                                         Selena R. Gancasz
+                                                         Deputy Clerk
+
+
+
+
+Ass’n, 2025 WL 1742853, at *3 (quoting Faruki v. Rogers, 349 F. Supp. 723, 730
+(D.D.C. 1972)).
+
+                                            Page 5
+PAN, Circuit Judge, concurring:
+
+     The Federal Service Labor-Management Relations Statute
+(FSLMRS) guarantees the benefits of union representation and
+collective bargaining to federal civil servants. 5 U.S.C.
+§§ 7101–7135. On March 27, 2025, the President issued
+Executive Order 14,251, which excludes numerous agencies
+and subdivisions from the purview of the FSLMRS. See Exec.
+Order No. 14,251, 90 Fed. Reg. 14553 (Mar. 27, 2025). Three
+Unions that represent employees of the Department of Defense
+Education Activity (DoDEA) sued the government in district
+court to challenge the legality of the Executive Order. The
+district court entered a preliminary injunction barring the
+government from implementing the Executive Order insofar as
+it excludes DoDEA from FSLMRS coverage. The preliminary
+injunction allows DoDEA workers to continue enjoying
+FSLMRS protections during the pendency of the instant
+litigation.
+
+     The government appeals the district court’s preliminary-
+injunction order and now moves for a stay of the injunction
+pending the resolution of its appeal. I fully concur with the
+court’s order denying the government’s stay motion because
+the government fails to meet its burden to show that it will be
+irreparably harmed by the injunction. I write separately to
+express my view that the government also fails to demonstrate
+that it is likely to succeed on the merits of its appeal and that
+the equities and the public interest favor a stay. See Nken v.
+Holder, 556 U.S. 418, 434 (2009).
+
+     On the merits, the Unions are likely to succeed in arguing
+that the President exceeded his statutory authority when he
+excluded a vast number of government agencies and
+subdivisions from FSLMRS coverage without making
+mandatory determinations that each agency or subdivision “has
+as a primary function intelligence, counterintelligence,
+investigative, or national security work,” and that “the
+                               2
+provisions of [the FSLMRS] cannot be applied to that agency
+or subdivision in a manner consistent with national security
+requirements and considerations.” 5 U.S.C. § 7103(b)(1).
+Although the statute allows exclusions only for national-
+security-related reasons, the district court found that the
+Executive Order likely did not rely on such reasons and instead
+imposed broad exemptions motivated by anti-union animus
+and policy goals that have nothing to do with the statutory
+criteria. See FEA v. Trump, No. 25-cv-1362, 2025 WL
+2355747, at *9 (D.D.C. Aug. 14, 2025). In addition, the
+Executive Order appears to add a new basis for coverage
+exclusions that Congress did not include in the statute. See 90
+Fed. Reg. at 14555 (excluding “any other agency or
+subdivision [within a Cabinet department] that has information
+resources management duties as the agency or subdivision’s
+primary duty”). The Executive Order therefore is likely ultra
+vires.
+
+     Moreover, the equities and the public interest also weigh
+in favor of the Unions. The district court found that the Unions
+have been irreparably harmed by the Executive Order because
+it has caused the government to “discontinue[] negotiations
+over successive collective bargaining agreements,” to “stop[]
+engaging in arbitral proceedings on various grievances,” and to
+“disallow[] union representation during employee disciplinary
+meetings and investigatory interviews,” among other things.
+FEA, 2025 WL 2355747, at *16. In addition, the FSLMRS
+emphasizes that the public has an interest in the protection of
+public employees’ collective-bargaining rights, 5 U.S.C.
+§ 7101, and that interest extends to ensuring that the President
+does not unlawfully undermine statutory protections.
+
+     The government thus utterly fails to meet its burden to
+justify the relief that it seeks.
+                                 3
+                                 I.
+
+     In 1978, Congress enacted the FSLMRS based on its
+determination that “the statutory protection of the right of
+employees to organize, bargain collectively, and participate
+through labor organizations . . . (A) safeguards the public
+interest, (B) contributes to the effective conduct of public
+business, and (C) facilitates and encourages the amicable
+settlements of disputes between employees and their employers
+involving conditions of employment.” 5 U.S.C. § 7101(a).
+Congress intended the FSLMRS to apply to almost the entire
+executive branch, excluding only a handful of agencies that it
+identified by name — most notably, the Federal Bureau of
+Investigation, the Central Intelligence Agency, the National
+Security Agency, and the Secret Service.1 Id. § 7103(a)(3).
+Thus, most federal civil servants have enjoyed FSLMRS
+collective-bargaining protections for nearly half a century.
+
+     Congress granted the President limited authority to exempt
+additional agencies and agency subdivisions from the
+requirements of the FSLMRS, exclusively for reasons related
+to national security. Specifically, 5 U.S.C. § 7103(b)(1) allows
+the President to exclude an agency or subdivision from
+FSLMRS coverage if, and only if, he makes two mandatory
+determinations: “(A) [that] the agency or subdivision has as a
+primary       function    intelligence,      counterintelligence,
+investigative, or national security work, and (B) [that] the
+provisions of [the FSLMRS] cannot be applied to that agency
+or subdivision in a manner consistent with national security
+requirements and considerations.”
+
+1
+     The FSLMRS also excludes the Departments of State,
+Agriculture, and Commerce, but employees at those agencies enjoy
+protection under a materially identical statute, the Foreign Service
+Labor-Management Relations Statute. See 22 U.S.C. §§ 4101, 4103.
+                               4
+
+     On March 27, 2025, the President issued Executive Order
+14,251, which invokes § 7103(b)(1) to exclude a long list of
+federal agencies and subdivisions from FSLMRS coverage.
+Although the Executive Order parrots the statute’s language, it
+does not make any specific findings regarding the “primary
+function[s]” of any of the excluded agencies or explain why the
+provisions of the FSLMRS cannot be applied to those agencies
+without compromising “national security requirements and
+considerations.” 5 U.S.C. § 7103(b)(1). The Executive Order
+makes the following conclusory statements: “The agencies and
+agency subdivisions set forth [below] are hereby determined to
+have as a primary function intelligence, counterintelligence,
+investigative, or national security work. It is also hereby
+determined that [the FSLMRS] cannot be applied to these
+agencies and agency subdivisions in a manner consistent with
+national security requirements and considerations.” 90 Fed.
+Reg. at 14553. The Executive Order then lists six entire
+Cabinet departments (with only minor caveats), twenty-six
+subdivisions within five other Cabinet departments, seven
+entire independent agencies, and every Office of the Chief
+Information Officer within any Cabinet department. Id. at
+14553–55. Further, it includes, with no apparent statutory
+basis, “any other agency or subdivision [within a Cabinet
+department] that has information resources management duties
+as the agency or subdivision’s primary duty.” Id. at 14554.
+The Executive Order’s extremely broad list of agencies and
+subdivisions encompasses two-thirds of the federal civil
+service, or well over one million federal workers.2
+
+
+
+2
+     The Executive Order excludes those agencies and subdivisions
+pursuant to substantively identical provisions in the FSLMRS and
+the Foreign Service Labor-Management Relations Statute, see supra
+n.1.
+                                 5
+     The Unions have sued the President, the Department of
+Defense (DoD), the Office of Personnel Management (OPM),
+and the respective heads of those agencies.3 The Unions
+contend that the Executive Order violates the Administrative
+Procedure Act (APA), the First Amendment, the Fifth
+Amendment, and their members’ rights to procedural due
+process. They also press an ultra vires claim, alleging that the
+President exceeded his statutory authority by (1) excluding
+agencies and subdivisions from FSLMRS coverage without
+applying the national-security criteria set forth in § 7103(b)(1);
+and (2) using the exclusion provision for improper purposes,
+such as to retaliate against unions that have challenged the
+Administration and to promote policy objectives unrelated to
+the statutory requirements.
+
+     Focusing on the ultra vires claim, the district court granted
+the Unions’ request for a preliminary injunction. The
+preliminary injunction bars the DoD, OPM, and their
+respective officials from excluding DoDEA from FSLMRS
+coverage during the pendency of this case.
+
+                                II.
+
+     The district court concluded that the four preliminary-
+injunction factors — the likelihood of success on the merits,
+irreparable harm, the balance of equities, and the public interest
+
+3
+     Other unions — including the National Treasury Employees
+Union (NTEU), American Foreign Service Association (AFSA), and
+American Federation of Government Employees (AFGE) — have
+also filed lawsuits challenging the Executive Order. See Nat’l
+Treasury Emps. Union v. Trump, No. 25-5157, 2025 WL 1441563,
+at *2 (D.C. Cir. May 16, 2025) (per curiam); Am. Foreign Serv. Ass’n
+v. Trump, No. 25-5184, 2025 WL 1742853, at *1 (D.C. Cir. June 20,
+2025) (per curiam); Am. Fed’n of Gov’t Emps. v. Trump, 148 F.4th
+648, 653 (9th Cir. 2025) (per curiam).
+                               6
+— favor the Unions. See FEA, 2025 WL 2355747, at *6, *19.
+In seeking a stay of the injunction, the government bears the
+burden with respect to the same four factors. See Nken, 556
+U.S. at 433–34.
+
+     The court’s order properly denies the government’s
+request for a stay on the ground that the government fails to
+demonstrate irreparable harm. Notably, the government also
+fails to meet its burden to show that it is likely to succeed on
+the merits of its appeal, and that the equities and the public
+interest weigh in its favor.
+
+          A. Likelihood of Success on the Merits
+
+     The government argues that the Unions likely will not
+succeed on the merits of their ultra vires claim because (1) the
+district court lacks jurisdiction; (2) the President has
+unreviewable discretion to exempt agencies and subdivisions
+from the FSLMRS; and (3) even if ultra vires review is
+available, the Executive Order passes muster. In my view, all
+three arguments likely fail.
+
+                       1. Jurisdiction
+
+     The Executive Order excludes the Unions’ members from
+FSLMRS coverage. But the government nevertheless argues
+that the district court lacks jurisdiction over this case because
+the FSLMRS requires the Unions to litigate their claims before
+the Federal Labor Relations Authority (FLRA), and then
+appeal any adverse ruling to a U.S. Court of Appeals. See 5
+U.S.C. § 7123. The government asserts that this case is
+governed by our decision in AFGE v. Trump, 929 F.3d 748,
+755 (D.C. Cir. 2019). There, we held that certain plaintiffs
+covered by the FSLMRS had to bring their claims to the FLRA
+even if the FLRA could not provide complete relief. See id. at
+                                7
+755–59. We reasoned that the FLRA offered “much of the
+review and relief that [the plaintiffs] sought from the district
+court,”4 and although the FLRA lacked jurisdiction over some
+of the claims, the plaintiffs could still raise those claims on
+appeal. Id. at 757, 759 (“[W]e may review . . . claims on appeal
+from an FLRA proceeding even if the FLRA [could not address
+them].”).
+
+     The government’s theory is unavailing because Congress
+likely did not intend to require unions to bring futile claims to
+the FLRA. See Axon Enter., Inc. v. FTC, 598 U.S. 175, 186
+(2023) (considering “whether the particular claims brought
+were ‘of the type Congress intended to be reviewed within this
+statutory structure’” (quoting Thunder Basin Coal Co. v. Reich,
+510 U.S. 200, 212 (1994))). If the Unions went to the FLRA
+in the first instance, the FLRA would almost certainly rely on
+the Executive Order to dismiss their case for lack of
+jurisdiction, just like it has handled similar cases. See, e.g., 57
+F.L.R.A. 750 (Apr. 25, 2002) (dismissing several cases
+involving a U.S. Attorney’s Office for lack of jurisdiction
+because an executive order had excluded U.S. Attorneys’
+Offices from the FSLMRS). Indeed, the district court noted
+that the government currently takes the position in an ongoing
+DoDEA grievance proceeding that, pursuant to the Executive
+Order, the FLRA lacks authority to adjudicate that proceeding
+because it concerns DoDEA. See FEA, 2025 WL 2355747, at
+*5.
+
+
+
+4
+     Specifically, the AFGE plaintiffs could secure much of their
+desired relief by arguing to the FLRA that their employer had
+engaged in “bad-faith bargaining in violation of the” FSLMRS,
+“refused to bargain over mandatory matters in violation of the”
+FSLMRS, or “refuse[d] to bargain over permissive subjects” in the
+manner required by the FSLMRS. 929 F.3d at 757.
+                                8
+     Moreover, even if the FLRA had jurisdiction over the
+Unions, the FSLMRS likely does not empower the FLRA to
+award relief for the claims that the Unions advance against the
+Executive Order: The Unions bring ultra vires, APA, and
+constitutional claims, but the FLRA generally hears only
+traditional labor-management disputes.            See 5 U.S.C.
+§ 7105(a)(2) (delineating the limited powers and duties of the
+FLRA). The government offers no authority suggesting that
+the FLRA can adjudicate ultra vires, APA, or constitutional
+challenges to an executive order, nor that the FLRA has the
+power to grant meaningful relief from the operation of an
+executive order. AFGE is thus distinguishable because the
+AFGE plaintiffs could receive from the FLRA “much of the . . .
+relief that they sought from the district court,” 929 F.3d at 757,
+but here, it appears that the FLRA cannot grant any effective
+relief to the Unions at all.
+
+     Under the circumstances, it is unlikely that Congress
+intended the FSLMRS’s statutory-review scheme to reach
+standalone claims challenging an executive order’s legality.
+See Axon Enter., 598 U.S. at 186 (“The ultimate question is
+how best to understand what Congress has done — whether the
+statutory review scheme, though exclusive where it applies,
+reaches the claim in question.”).
+
+            2. Availability of Ultra Vires Review
+
+    The government argues that the FSLMRS precludes any
+ultra vires review because the decision to exempt agencies and
+subdivisions from collective-bargaining requirements is
+committed “to the discretion of the President.” Mot. 14
+(quoting AFSA, 2025 WL 1742853, at *2); accord Dalton v.
+Specter, 511 U.S. 462, 474 (1994). The government is likely
+incorrect.
+                               9
+    As an initial matter, precedent suggests that even
+discretionary presidential actions are subject to ultra vires
+review. See, e.g., Am. Forest Res. Council v. United States, 77
+F.4th 787, 797 (D.C. Cir. 2023) (explaining that we can review
+ultra vires claims challenging national-monument designations
+“notwithstanding the broad discretion the Antiquities Act vests
+in the President”); Mass. Lobstermen’s Ass’n v. Raimondo, 141
+S. Ct. 979, 980–81 (2021) (mem.) (Roberts, C.J., respecting the
+denial of certiorari) (indicating that courts can review ultra
+vires Antiquities Act claims even though “[t]he Act vests
+significant discretion in the President”).          Thus, the
+government’s invocation of the President’s discretion is not
+dispositive.
+
+    In any event, the statute at issue here does not confer
+absolute discretion on the President such that courts cannot
+discern the limits of his authority. We have held that “[s]o long
+as a statutory provision plainly delineates the outer limits of
+agency authority and Congress has not expressly precluded
+judicial review, the provision may be susceptible to review for
+ultra vires acts that clearly violate its terms.” Nat’l Ass’n of
+Postal Supervisors v. USPS, 26 F.4th 960, 971 (D.C. Cir.
+2022). Section 7103(b)(1) fits that description. It provides in
+full:
+
+       The President may issue an order excluding any
+       agency or subdivision thereof from coverage
+       under [the FSLMRS] if the President
+       determines that — (A) the agency or
+       subdivision has as a primary function
+       intelligence, counterintelligence, investigative,
+       or national security work, and (B) the
+       provisions of [the FSLMRS] cannot be applied
+       to that agency or subdivision in a manner
+                                 10
+        consistent with national security requirements
+        and considerations.
+
+5 U.S.C. § 7103(b)(1). While § 7103(b)(1) allows the President
+to “determine[] that” its requirements are met, it specifies the
+findings that the President must make in order to exclude any
+agency or subdivision from FSLMRS coverage. Id. To order
+an exclusion, the President must “determine[]” that the
+excluded agency or subdivision has a certain “primary
+function” and that the FSLMRS’s collective-bargaining
+provisions “cannot be applied to that agency or subdivision”
+consistent with “national security requirements and
+considerations.” Id. Those requirements cabin the President’s
+discretion and delineate the outer bounds of his authority,
+thereby readily enabling ultra vires review.5
+
+     The government cites AFGE v. Reagan for the proposition
+that a court cannot require the President to explain the basis for
+§ 7103(b)(1) determinations. See 870 F.2d 723, 727 (D.C. Cir.
+
+5
+      A prior panel that considered a motion to stay a preliminary
+injunction in the AFSA case did not hold to the contrary. See 2025
+WL 1742853, at *3. The AFSA panel “assume[d] without deciding
+that a form of review [was] appropriate” when considering a
+materially identical statutory provision governing the Foreign
+Service. Id. (assessing 22 U.S.C. § 4103(b)). To the extent the AFSA
+panel made statements suggesting that the President has absolute
+discretion to exempt agencies or subdivisions from collective-
+bargaining requirements, that was dictum that did not address the
+criteria that the President must apply when making such exemptions.
+See id. (“Here, the statute commits the relevant decision to the
+President’s discretion.”). The AFSA panel’s statements about the
+President’s discretion do not bind us; AFSA is a nonprecedential
+order, and even if it were precedential, “[b]inding circuit law comes
+only from the holdings of a prior panel, not from its dicta.” Gersman
+v. Grp. Health Ass’n, 975 F.2d 886, 897 (D.C. Cir. 1992).
+                               11
+1989). But in that case, we “deem[ed] the familiar presumption
+of regularity decisive.” Id. Reagan does not help the
+government here because the district court specifically found
+that the presumption of regularity does not apply. The district
+court reasoned:
+
+       (1)     the    Executive    Order    and     the
+       Administration’s surrounding statements are at
+       odds with Congress’s findings in the FSLMRS;
+       (2) the White House Fact Sheet [that
+       accompanied the Executive Order] reflects
+       retaliatory motive [against unions]; and (3) the
+       Administration’s guidance related to the
+       Executive Order — specifically, the OPM
+       Guidance — suggests that the invocation of
+       Section 7103(b)(1) was in furtherance of
+       unrelated policy goals rather than based on the
+       statutory criteria.
+
+FEA, 2025 WL 2355747, at *9. Because record evidence
+supports the district court’s presumption-of-regularity
+findings, they are unlikely to be clearly erroneous. See Gov’t
+of Guam v. Guerrero, 11 F.4th 1052, 1055 (9th Cir. 2021)
+(“[W]e review the district court’s determination that [the
+government] is entitled to the presumption of regularity for
+clear error as a mixed question of law and fact where the nature
+of our inquiry is essentially factual.”). Moreover, Reagan
+addressed a limited executive order that excluded eight
+narrowly defined subdivisions within the Drug Enforcement
+Administration and the U.S. Marshals Service. See 870 F.2d at
+726 (assessing Exec. Order 12,559, 51 Fed. Reg. 18761 (May
+20, 1986)). Here, the Executive Order, which strips two-thirds
+of civil-service workers of their statutory collective-bargaining
+protections, is a poor fit for a presumption of “regularity.”
+                               12
+                    3. Ultra Vires Review
+
+     Although an ultra vires claim is “essentially a Hail Mary
+pass,” NRC v. Texas, 605 U.S. 665, 681 (2025) (citation
+omitted), it provides a critical backstop when “there is no other
+means . . . to protect and enforce [a statutory] right,” Leedom
+v. Kyne, 358 U.S. 184, 190 (1958). The modern doctrine arose
+from a recognition that “the absence of jurisdiction of the
+federal courts” over a claim that a government official clearly
+violated a statute “meant a sacrifice or obliteration of a right
+which Congress had created.” Id. (quoting Switchmen’s Union
+of N. Am. v. Nat’l Mediation Bd., 320 U.S. 297, 300 (1943)).
+Ultra vires claims thus constitute a crucial safety net, ensuring
+that courts can fall back on their “general jurisdiction” to
+safeguard rights that Congress “intended . . . to be enforced”
+when other types of legal claims do not fit the facts. Id. at 190–
+91 (citations omitted).
+
+     Ultra vires review can play a particularly important role in
+addressing situations where the President has grossly exceeded
+the bounds of his statutory authority, given that other types of
+claims — most notably, APA claims, see Franklin v.
+Massachusetts, 505 U.S. 788, 801 (1992) — cannot directly
+reach the President’s actions. In the absence of presidential
+ultra vires review, any “statute permitting the President in his
+sole discretion to” take a given type of action could
+“transform[] into a [source of] power without any discernible
+limit.” Mass. Lobstermen’s Ass’n, 141 S. Ct. at 981 (Roberts,
+C.J., respecting the denial of certiorari). Such a scenario would
+“implicate[] separation of powers concerns that resonate with
+the constitutional claims” against the President that the
+                                 13
+Supreme Court recognized as justiciable in Franklin. Murphy
+Co. v. Biden, 65 F.4th 1122, 1129 (9th Cir. 2023).6
+
+     In conducting ultra vires review, a court must determine
+whether a government official has acted “plainly in excess of
+[his] delegated powers and contrary to a specific prohibition in
+the statute that is clear and mandatory.” Global Health Council
+v. Trump, No. 25-5097, 2025 WL 2480618, at *12 (D.C. Cir.
+Aug. 28, 2025) (cleaned up). Although meritorious ultra vires
+claims are rare, we have ruled in favor of plaintiffs alleging
+ultra vires government conduct when the challenged action is
+based on unexplained and obvious deviations from statutory
+text, see Nat’l Ass’n of Postal Supervisors, 26 F.4th at 973–74,
+and when the government’s interpretation of its statutory
+authority would “lead[] to an absurd result,” Aid Ass’n for
+Lutherans v. USPS, 321 F.3d 1166, 1176 (D.C. Cir. 2003).
+Moreover, a showing that the government has attempted to
+enlarge its authority in bad faith can bolster an ultra vires
+claim. Cf. Barwood, Inc. v. District of Columbia, 202 F.3d 290,
+294 (D.C. Cir. 2000).
+
+     Against that backdrop, the Executive Order’s alleged
+infirmities go well beyond the “garden-variety error[] of law or
+fact” that cannot be reviewed as ultra vires. Fed. Express
+Corp. v. U.S. Dep’t of Com., 39 F.4th 756, 764 (D.C. Cir. 2022)
+(cleaned up). Indeed, because this case focuses on a
+presidential determination, there may be “no other means . . .
+
+6
+     The district court granted the Unions’ request to enjoin the DoD,
+OPM, and their officials, rather than the President himself. ECF
+No. 22 (Plaintiffs’ Motion for a Preliminary Injunction). The Unions
+and district court took this approach because “courts do not have
+jurisdiction to enjoin [the President].” Newdon v. Roberts, 603 F.3d
+1002, 1013 (D.C. Cir. 2010). Rather, courts can enforce a
+presidential ultra vires holding by enjoining agencies and their
+officials from implementing the President’s unlawful order.
+                                14
+to protect and enforce [a statutory] right.” Leedom, 358 U.S.
+at 190 (citation omitted). And the district court found it likely
+that the Executive Order excludes two-thirds of the federal civil
+service from statutory protections for reasons unrelated to
+national security, thus grossly exceeding the President’s
+statutory power under § 7103(b)(1). Based on the facts found
+by the district court, ultra vires review is appropriate to address
+the President’s alleged “obliteration of a right which Congress
+has given [federal] employees,” id. (cleaned up) — namely,
+their right “to engage in collective bargaining with respect to
+conditions of employment through representatives chosen by
+employees,” 5 U.S.C. § 7102.
+
+     The President likely exceeded his authority under
+§ 7103(b)(1), which allows him to exclude agencies and
+subdivisions from FSLMRS coverage based only on specific,
+national-security-related determinations. The Executive Order
+provides no indication that the President made the requisite
+determinations. The Executive Order does not identify any
+agency’s or subdivision’s “primary function” in national
+security, much less explain why the “provisions of [the
+FSLMRS] cannot be applied to that agency or subdivision in a
+manner consistent with national security requirements and
+considerations.” 5 U.S.C. § 7103(b)(1). In fact, the Executive
+Order’s exclusions seem to contravene § 7103(b)(1)’s
+requirements because many of the listed agencies and
+subdivisions do not appear to have as “primary function[s]
+intelligence, counterintelligence, investigative, or national
+security work.” Id.; see also Cole v. Young, 351 U.S. 536, 544
+(1956) (defining “national security” as concerning “only those
+activities of the Government that are directly concerned with
+the protection of the Nation from internal subversion or foreign
+aggression, and not those which contribute to the strength of
+the Nation only through their impact on the general welfare”).
+                                   15
+Such agencies include the Department of Veterans Affairs,7 the
+Environmental      Protection    Agency,8     the    Federal
+                                9
+Communications Commission,         the General Services
+Administration,10 and the U.S. International Trade
+Commission.11 Excluded subdivisions that also likely do not
+have the requisite “primary function[s]” include the
+Department of Treasury’s Office of Tax Policy,12 the
+
+
+
+7
+      About the Department, U.S. Dep’t of Veterans Affs. (Apr. 9,
+2025), https://perma.cc/78YM-VP7W (“Our Mission: To fulfill
+President Lincoln’s promise to care for those who have served in our
+nation’s military and for their families, caregivers, and survivors.”).
+8
+      Our Mission and What We Do, EPA (July 23, 2025),
+https://perma.cc/9L8E-CMQX (“The mission of EPA is to protect
+human health and the environment.”).
+9
+      What We Do, FCC, https://perma.cc/6CLC-JLM6 (“The
+Federal Communications Commission regulates interstate and
+international communications by radio, television, wire, satellite and
+cable in all 50 states, the District of Columbia and U.S. territories.”).
+10
+      Our Mission’s Evolution, GSA (Mar. 20, 2024),
+https://perma.cc/4ZNV-6C38 (“Today our mission has evolved to
+provide stewardship of the way the government uses and provides
+real estate, acquisition services, and technology.”).
+11
+      About the USITC, USITC, https://perma.cc/MJ2H-UAF7
+(“Mission[:] Investigate and make determinations in proceedings
+involving imports claimed to injure a domestic industry or violate
+U.S. intellectual property rights; provide independent analysis and
+information on tariffs, trade and competitiveness; and maintain the
+U.S. tariff schedule.”).
+12
+      Tax Policy, Dep’t of the Treasury, https://perma.cc/Z6NN-
+M65Q (“Tax Policy develops and implements tax policies and
+programs; reviews regulations and rulings to administer the Internal
+Revenue Code, negotiates tax treaties, provides economic and legal
+policy analysis for domestic and international tax policy decisions.
+It also provides estimates for the President’s budget, fiscal policy
+decisions, and cash management decisions.”).
+                                 16
+Department of Justice’s Civil Rights Division,13 and the
+Department of the Interior’s Bureau of Land Management.14
+
+     By excluding two-thirds of the federal civil service from
+statutory protections without making the required findings, the
+Executive Order transforms a circumscribed exception into the
+general rule. The Executive Order’s breadth makes it “hard to
+imagine a type of [agency or subdivision] that would not
+qualify.” City of Los Angeles v. Patel, 576 U.S. 409, 425
+(2015). As the Supreme Court explained in interpreting a
+different civil-service statute with a national-security
+exception, “if Congress intended the term to have such a broad
+meaning that all positions in the Government could be said to
+be affected with the ‘national security,’ the result would be that
+the 1950 Act, though in form but an exception to the general
+personnel laws, could be utilized effectively to supersede those
+laws.” Cole, 351 U.S. at 547. Cole’s reasoning reflects the
+Court’s general disinclination to allow narrow statutory
+exceptions to “swallow” broader statutory rules. E.g., EPA v.
+Calumet Shreveport Refining, LLC, 145 S. Ct. 1735, 1751
+(2025) (“This constraint follows from the function of the
+‘nationwide scope or effect’ exception as just that — an
+exception. Congress, after all, is unlikely to intend for an
+exception to swallow the rule.”); Patel, 576 U.S. at 424–25
+(“To classify hotels as pervasively regulated would permit
+what has always been a narrow exception to swallow the
+
+13
+     About the Division, DOJ Civil Rights Div. (June 1, 2023),
+https://perma.cc/4J8A-H26T (“The Division enforces federal
+statutes prohibiting discrimination on the basis of race, color, sex,
+disability, religion, familial status, military status and national
+origin.”).
+14
+     Our Mission, DOI BLM, https://perma.cc/R3HN-M2SA (“The
+Bureau of Land Management’s mission is to sustain the health,
+diversity, and productivity of public lands for the use and enjoyment
+of present and future generations.”).
+                                17
+rule.”); Flynt v. Ohio, 451 U.S. 619, 622 (1981) (“A contrary
+conclusion would permit the fourth exception to swallow the
+rule.”).
+
+     Here, the Executive Order is likely ultra vires because it
+broadly and unlawfully applies the FSLMRS’s exclusion
+provision without regard to statutory mandates, in a quest to
+use a narrow national-security exception to “swallow” a
+general rule that favors union representation. The President
+likely does not have unfettered authority to unilaterally
+transform the scope of the FSLMRS, while disregarding the
+statute’s intended reach, purpose, and mandatory requirements.
+See NTEU v. Trump, 780 F. Supp. 3d 237, 254–55 (D.D.C.
+2025) (adopted by cross-reference by FEA, 2025 WL 2355747,
+at *9) (finding that “the President was indifferent to the
+purposes and requirements of the FSLMRS, or acted
+deliberately in contravention of them” (cleaned up)).
+
+     In addition, the district court made other findings that
+buttress its determination that the Executive Order’s exclusions
+are unrelated to national security and therefore likely ultra
+vires. Although the FSLMRS permits the President to exclude
+workers from its protective ambit only for reasons related to
+national security, the district court found that there was “clear
+evidence” that the White House Fact Sheet reflected
+“retaliatory motive towards certain unions”;15 and that
+“substantial evidence in the record” showed that the Executive
+
+15
+     As the district court found, in the Fact Sheet accompanying the
+Executive Order, the White House proclaimed that “[c]ertain Federal
+unions have declared war on President Trump’s agenda,” including
+by “widely filing grievances to block Trump policies.” FEA, 2025
+WL 2355747, at *4. The Fact Sheet specifically criticized
+Department of Veterans Affairs unions for “fil[ing] 70 national and
+local grievances over President Trump’s policies since the
+inauguration.” Id.
+                                 18
+Order’s breadth “was in furtherance of unrelated policy goals
+rather than based on the [FSLMRS’s] statutory criteria.”16
+NTEU, 780 F. Supp. 3d at 254 (cleaned up) (adopted by cross-
+reference by FEA, 2025 WL 2355747, at *9). Those factual
+findings lend further support to the district court’s conclusion
+that the President acted beyond the narrow, national-security-
+related bounds of the exclusion provision, and did so to achieve
+improper goals — such as retaliating against unions for
+protected activity.17
+
+     Finally, it is notable that the Executive Order purports to
+expand the scope of § 7103(b)(1) by excluding from FSLMRS
+coverage “any other agency or subdivision [within a Cabinet
+department] that has information resources management duties
+as the agency or subdivision’s primary duty.” 90 Fed. Reg. at
+14554. That provision of the Executive Order effectively adds
+
+16
+      The district court relied on a memorandum released by OPM
+(the “OPM Guidance”) that explained how agency heads should
+implement the Executive Order. FEA, 2025 WL 2355747, at *4.
+That memorandum characterized the Executive Order as a means to
+achieve the President’s broader policy “to eliminate waste, bloat, and
+insularity within agencies and operate them more efficiently.”
+NTEU, 780 F. Supp. 3d at 257 (adopted by cross-reference by FEA,
+2025 WL 2355747, at *9). The memorandum comments minimally
+on national security and instead focuses on the Administration’s goal
+of removing “underperforming employees.” Id.
+17
+      The government contends that we should focus not on the
+Executive Order as a whole, but on its inclusion of the DoD
+specifically. That approach is likely incorrect for at least two
+reasons. First, the FSLMRS provides that “[t]he President may issue
+an order excluding any agency or subdivision thereof,” suggesting
+that the order itself is the proper unit of review. 5 U.S.C. § 7103(b)
+(emphasis added). And second, an agency-by-agency analysis would
+require a court, in the first instance, to determine whether specific
+agencies meet § 7103(b)(1)’s requirements, even though it appears
+that the President himself did not conduct such an analysis.
+                                  19
+“information resources management” to the list of primary
+functions that can justify exempting an agency or subdivision
+from the requirements of the FSLMRS. The President’s
+enlargement by fiat of the list of primary functions in
+§ 7103(b)(1)(a) also is likely ultra vires. Cf. Guedes v. ATF,
+920 F.3d 1, 43 (D.C. Cir. 2019) (Henderson, J., concurring in
+part and dissenting in part) (“The Rule’s fatal flaw comes from
+its ‘adding to’ the statutory language in a way that is — at least
+to me — plainly ultra vires.” (citation omitted)).
+
+         B. Balance of Equities and Public Interest
+
+    The balance of equities and the public interest, which
+merge here because the government is a party, see Singh v.
+Berger, 56 F.4th 88, 107 (D.C. Cir. 2022), favor the Unions.
+The district court found that the Unions suffered irreparable
+harm from the Executive Order because it caused the
+government to “discontinue[] negotiations over successive
+collective bargaining agreements,” to “stop[] engaging in
+arbitral proceedings on various grievances,” and to “disallow[]
+union representation during employee disciplinary meetings
+and investigatory interviews,” among other things. FEA, 2025
+WL 2355747, at *16.18 That harm outweighs the government’s
+
+18
+      This case is thus distinguishable from NTEU, in which a panel
+of this court stayed a different injunction against implementation of
+the Executive Order. See 2025 WL 1441563, at *3. There, the panel
+described the plaintiff union’s asserted harms as “speculative”
+because “the Government [had] directed [the relevant] agencies to
+refrain from terminating collective-bargaining agreements or
+decertifying bargaining units until after the litigation concludes.” Id.
+at *1 (emphasis in original); accord AFGE, 148 F.4th at 656
+(“Whatever harm to collective bargaining rights that Plaintiffs will
+experience due to a stay is mitigated by the direction to agencies to
+refrain from terminating collective bargaining agreements until
+litigation has concluded.”).
+                               20
+asserted national-security interests because the restoration of
+FSLMRS protections to DoDEA’s educators and other
+employees is unlikely to impede the President’s ability to keep
+the nation safe.
+
+    In addition, the FSLMRS explicitly recognizes the public
+interest in protecting the collective-bargaining rights of federal
+employees. 5 U.S.C. § 7101. That supports allowing DoDEA
+workers to remain within the FSLMRS’s ambit during the
+pendency of this case. And relatedly, the public interest does
+not support allowing the Executive Order to undermine
+statutory protections for DoDEA employees where the
+Executive Order is likely unlawful. See League of Women
+Voters of U.S. v. Newby, 838 F.3d 1, 13 (D.C. Cir. 2016)
+(“There is a substantial public interest in having [the
+government] abide by the federal laws . . . .” (cleaned up)). The
+balance of the equities and the public interest therefore support
+denying the government’s motion to stay the preliminary
+injunction.
+
+                               III.
+
+     Our dissenting colleague asserts that the government will
+likely prevail on the merits of its appeal of the preliminary
+injunction for three reasons: (1) Ultra vires review is
+inappropriate where “the plaintiffs pressed, and the district
+court accepted, what is essentially an ordinary statutory-
+interpretation argument,” Dissenting Op. 2; (2) the alleged
+ultra vires action is not “plain on the record” because the
+district court looked to “non-party” agencies and subdivisions
+that do not appear to satisfy the statutory national-security-
+related requirements, id. at 3 (citation omitted) (emphasis in
+original); and (3) “the district court’s decision and reasoning
+failed to reflect” the deference due to the Executive in the
+                              21
+domain of “foreign policy and national security,” id. at 4
+(citation omitted). I respectfully disagree.
+
+     First, this case does not present “an ordinary statutory-
+interpretation argument.” Dissenting Op. 2. The Unions claim
+that the President stripped over one million federal employees
+of their statutory collective-bargaining rights without making
+the required national-security determinations, and that he did
+so for reasons unrelated to the statutory criteria. See supra
+section II.A.3. That is not a mere question of “statutory
+interpretation” because no plausible reading of the statute
+would permit the Executive to exclude a plethora of agencies
+from FSLMRS coverage for reasons that have nothing to do
+with national security. The wholesale transformation of labor
+relations across the entire executive branch, allegedly for
+reasons unsupported by any statutory authority, is indeed an
+action “so extreme that one may view it as jurisdictional or
+nearly so.” Dissenting Op. 3 (quoting Griffith v. FLRA, 842
+F.2d 487, 493 (D.C. Cir. 1988)). And because the statute
+requires the President to make the exclusion determinations,
+and the Unions may not bring an APA claim against the
+President, see Franklin, 505 U.S. at 801, there may be “no other
+means” besides the Unions’ ultra vires claim “to protect and
+enforce [a statutory] right,” Leedom, 358 U.S. at 190.
+
+     Second, our dissenting colleague contends that the district
+court erred by not focusing on whether the DoD and DoDEA
+satisfy the “primary function” requirement and instead looking
+to “non-party” agencies and subdivisions that the Executive
+Order excludes from FSLMRS coverage. Dissenting Op. 3
+(emphasis in original). She concludes that the district court
+missed the target when it “determine[d] that the non-party
+excluded agencies and subdivisions do not satisfy paragraph
+7103(b)(1) and that the order is accordingly ultra vires.” Id.
+                              22
+That analysis misunderstands the Unions’ claim and the district
+court’s reasoning.
+
+     The Unions claim that the entire Executive Order is ultra
+vires because the President failed to make any of the required
+determinations and instead used the exclusion provision as a
+pretext to retaliate against unions and to pursue policy goals
+unrelated to the statutory criteria. See supra section II.A.3.
+Because the Unions challenge the Executive Order as a whole,
+they had no reason to focus specifically on the DoD or DoDEA.
+The Unions and the district court pointed out that many “non-
+party” agencies and subdivisions excluded by the Executive
+Order do not appear to fit the statutory criteria, but only
+because that is evidence that the President never made the
+required determinations to exclude any agencies and
+subdivisions. See id. Thus, the Unions’ ultra vires claim is
+“plain on the record” because they allege that there is no
+indication, in the Executive Order or otherwise, that the
+President actually determined that each excluded agency and
+subdivision has a “primary function” related to national
+security and that each excluded agency and subdivision could
+not be unionized consistent with “national security
+requirements and considerations,” 5 U.S.C. § 7103(b)(1). The
+President’s alleged exclusion of broad swaths of the executive
+branch from the reach of the FSLMRS without making the two
+mandatory national-security-related determinations was likely
+ultra vires.
+
+     Third, our dissenting colleague suggests that the district
+court was insufficiently deferential to the Executive because
+this case involves matters of “foreign policy and national
+security.” Dissenting Op. 4 (citation omitted). Although some
+deference is undoubtedly appropriate in that sphere, courts
+remain duty-bound to review claims that the President has
+abused or exceeded his powers. See Youngstown Sheet & Tube
+                               23
+Co. v. Sawyer, 343 U.S. 579, 642 (1952) (Jackson, J.,
+concurring) (“[N]o doctrine that the Court could promulgate
+would seem to me more sinister and alarming than that a
+President whose conduct of foreign affairs is so largely
+uncontrolled” that he can invoke his foreign-affairs powers to
+“vastly enlarge his mastery over the internal affairs of the
+country.”); Cole, 351 U.S. at 545 (“Nor is [our review] vitiated
+by the grant of authority to the President . . . to extend the Act
+to such other agencies as he ‘may, from time to time, deem
+necessary in the best interests of national security.’”); Zweibon
+v. Mitchell, 516 F.2d 594, 604–05 (D.C. Cir. 1975) (“Although
+the attempt to claim Executive prerogatives or infringe liberty
+in the name of security and order may be motivated by the
+highest of ideals, the judiciary must remain vigilantly prepared
+to fulfill its own responsibility to channel Executive action
+within constitutional bounds.” (cleaned up)). Here, we need
+not blindly accept the government’s dubious contention that a
+subdivision staffed by grade-school educators plays a
+prominent role “in support of DoD’s overall national security
+mission.” Mot. 24 n.3 (citation omitted). Nor should we fail
+to probe the government’s conclusory assertion that the instant
+injunction “inflicts irreparable harm on the President by
+impeding his national-security prerogatives.” Id. at 25 (citation
+omitted). It is the government’s burden to convince us that
+restoring union protections to federal employees focused on K–
+12 education will make the country less safe. Because the
+government fails to meet that burden, I disagree with our
+dissenting colleague’s unquestioning acceptance of the
+government’s implausible claim of irreparable harm. See
+Dissenting Op. 4–5.
+
+     Finally, although I cannot join our dissenting colleague in
+her analysis of the legal issues before us, I share her concern
+that an unprecedented number of emergency motions has
+forced this court to prematurely confront novel and
+                               24
+controversial issues. See Dissenting Op. 1. Not every
+preliminary injunction presents an “emergency,” and this case
+is a prime example. The scope of the instant preliminary
+injunction is narrow, restoring FSLMRS coverage to only one
+DoD subdivision, with a mission that focuses on K–12
+education, employing around 14,000 employees. Although the
+legal issues are undoubtedly weighty and potentially far-
+reaching, it is unclear why the government felt a pressing need
+to seek emergency relief at this juncture in this case, when it
+could have either sought expedited consideration of the
+preliminary-injunction appeal, or litigated the case to its
+conclusion in the district court before coming to us with a
+complete record after entry of final judgment.
+
+                           *   *    *
+
+     Because the government fails to carry its burden to justify
+a stay of the district court’s preliminary injunction pending
+appeal, the court properly denies its request. The government
+will likely fail on the merits of its legal claims because the
+Executive Order’s exclusion of two-thirds of the federal civil
+service from statutory protections, without making the required
+determinations and with allegedly improper motives, likely
+exceeded the President’s statutory power. Moreover, as
+discussed in the court’s order, the government fails to show
+irreparable harm because the injunction affects only DoDEA,
+an agency subdivision that focuses on the education of the
+children of servicemembers and therefore has only an indirect
+effect on national security. Finally, the equities and the public
+interest also favor the Unions.
+KAREN LECRAFT HENDERSON, Circuit Judge, dissenting
+statement:
+
+     I am becoming increasingly alarmed by our court
+being asked to decide novel, and usually controversial,
+issues via emergency stay motions. We can produce a
+more carefully reasoned but still timely result using the
+expedited appeals process. A merits panel could hear
+arguments in this case and decide it within a four-week
+period. See, e.g., United States v. Trump, 91 F.4th 1173
+(D.C. Cir. 2024). Nevertheless I believe we should grant
+the stay as explained briefly below.
+
+     In the Federal Service Labor-Management Relations
+Statute (FSLMRS), 5 U.S.C. § 7101 et seq., the Congress
+provided collective-bargaining rights for certain federal
+employees. By its terms, the FSLMRS excludes the
+employees of some agencies from its coverage. Id.
+§ 7103(a)(3). And it empowers the President to exclude
+others if he finds that national security so requires. Id.
+§ 7103(b)(1). Under paragraph 7103(b)(1), the President
+is authorized to “issue an order excluding any agency or
+subdivision thereof from coverage under this chapter” if
+he determines that it has “as a primary function
+intelligence, counterintelligence, investigative, or national
+security work” and that “the provisions of this chapter
+cannot be applied” to it “in a manner consistent with
+national security requirements and considerations.”
+
+     On March 27, 2025, the President issued an Executive
+Order excluding a number of agencies and subdivisions,
+including the Department of Defense (DoD), from
+coverage pursuant to paragraph 7103(b)(1). Exclusions
+from Federal-Labor Management Relations Programs,
+Exec. Order No. 14,251, 90 Fed. Reg. 14,553 (2025).
+Three labor organizations representing employees of the
+Department of Defense Education Activity (DoDEA), a
+                           2
+subdivision of the DoD, then sued the President, two
+additional Executive officials and two agencies. They
+alleged, among other things, that the Executive Order was
+issued ultra vires and the district court granted the
+plaintiffs a preliminary injunction on that ground. Fed.
+Educ. Ass’n v. Trump (FEA), No. 25-1362, 2025 WL
+2355747, at *1 (D.D.C. Aug. 14, 2025). Because the
+government has shown that it is entitled to a stay pending
+appeal, I would grant it that relief.
+
+     To warrant a stay pending appeal, the movant must
+show that it “is likely to succeed on the merits,” it “will be
+irreparably injured absent a stay,” a stay will not
+“substantially injure” the other interested parties and a stay
+is in the “public interest.” Nken v. Holder, 556 U.S. 418,
+434 (2009). The government has satisfied each factor; I
+focus on the first two.
+
+     The government is likely to prevail on its appeal of
+the preliminary injunction. The district court—on a record
+largely confined to evidence of the DoDEA’s functions—
+determined that much of the President’s Executive Order
+was ultra vires. FEA, 2025 WL 2355747, at *15
+(concluding that the Executive Order’s “exclusions
+pursuant to Section 7103(b)(1)—taken together as a
+whole—exceeded the President’s authority”). In my view,
+that conclusion is remarkable. A plaintiff bringing an ultra
+vires claim carries a uniquely heavy burden. Nyunt v.
+Chairman, Broad. Bd. of Governors, 589 F.3d 445, 449
+(D.C. Cir. 2009). To prevail, he must come equipped with
+more than “a typical statutory-authority argument.”
+Nuclear Regul. Comm’n v. Texas, 605 U.S. 665, 682
+(2025). Here, the plaintiffs pressed, and the district court
+accepted, what is essentially an ordinary statutory-
+interpretation argument—that the President’s broad
+                           3
+interpretation of paragraph 7103(b)(1) threatened to turn a
+narrow exception to the FSLMRS into its rule. See FEA,
+2025 WL 2355747, at *12–13. That argument may not be
+implausible but it falls well short of showing an error that
+is “so extreme that one may view it as jurisdictional or
+nearly so.” Griffith v. FLRA, 842 F.2d 487, 493 (D.C. Cir.
+1988).
+
+     There are two additional factors that make the
+government highly likely to prevail on the merits. First,
+an ultra vires action must be “plain on the record” itself.
+Fed. Express Corp. v. U.S. Dep’t of Com., 39 F.4th 756,
+765 (D.C. Cir. 2022) (citation modified).             That
+requirement presents an unusual wrinkle in this case:
+Rather than focusing on whether the DoD and DoDEA
+satisfy paragraph 7103(b)(1)’s “primary function”
+requirement, the district court looked to the non-party
+departments and subdivisions that are excluded from
+FSLMRS coverage. FEA, 2025 WL 2355747, at *11–13.
+But because the plaintiffs represent employees of the
+DoDEA alone, the record contains scant evidence
+regarding the functions of the other excluded agencies and
+subdivisions—which are neither plaintiffs nor represented
+by any union in the litigation. As a consequence, the
+district court was left to rely largely on its say-so to
+determine that the non-party excluded agencies and
+subdivisions do not satisfy paragraph 7103(b)(1) and that
+the order is accordingly ultra vires. FEA, 2025 WL
+2355747, at *14 (“This extensive list hardly includes only
+agencies and subdivisions that plainly relate to national
+security.” (citation modified)). In essence, the district
+court aimed at non-targets and its errant aim cannot
+support an ultra vires claim against the President.
+                           4
+     Second, we have repeatedly cautioned that ultra vires
+claims are even harder to win when they involve matters
+of “foreign policy and national security.” Fed. Express
+Corp., 39 F.4th at 769; accord Changji Esquel Textile Co.
+v. Raimondo, 40 F.4th 716, 723 (D.C. Cir. 2022). And
+ultra vires claims against the President raise unique
+concerns in that context. For this reason, we have
+explained that “[t]he President’s national-security findings
+are not agency actions subject to arbitrary-or-capricious
+review, and we decline to treat them as such.” Am.
+Foreign Serv. Ass’n v. Trump (AFSA), No. 25-5184, 2025
+WL 1742853, at *3 (D.C. Cir. June 20, 2025). Here, the
+district court’s decision and reasoning failed to reflect the
+“additional layer of deference” owed to the Executive in
+this domain. Changji Esquel Textile Co., 40 F.4th at 723.
+
+     For these reasons, the government is likely to prevail
+on the merits.
+
+      The government has also shown that it will suffer
+irreparable harm absent a stay. The district court’s
+preliminary injunction has hampered—and will hamper—
+the President’s congressionally authorized “national-
+security prerogatives.” Mot. 25 (quoting Nat’l Treasury
+Emps. Union v. Trump (NTEU), No. 25-5157, 2025 WL
+1441563, at *2 (D.C. Cir. May 16, 2025)). In view of the
+political branches’ preeminence in this arena, we have
+been careful not to improperly hamstring their efforts for
+any extended period. NTEU, 2025 WL 1441563, at *2;
+AFSA, 2025 WL 1742853, at *3; see Samuel L. Bray, The
+Purpose of the Preliminary Injunction, 78 Vand. L. Rev.
+809, 823 (2025) (characterizing irreparable harm as, in
+part,    “the   intersection    of   significance     and
+incommensurability”).      Because the district court’s
+preliminary injunction threatens to do exactly that, the
+                        5
+government has shown that it will face irreparable harm
+absent a stay.
+

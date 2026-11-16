@@ -1,0 +1,319 @@
+Case 1:25-cv-00583-MRD-PAS Document 79 _ Filed 10/05/26 Page 1 of 8 PagelD #:
+3139
+
+United States Court of Appeals
+For the First Circuit
+
+No. 26-1321
+AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES LOCAL 2305; AMERICAN
+FEDERATION OF GOVERNMENT EMPLOYEES NATIONAL VETERANS AFFAIRS
+COUNCIL,
+Plaintiffs - Appellees,
+
+Vv.
+
+UNITED STATES DEPARTMENT OF VETERANS AFFAIRS; DOUGLAS A. COLLINS, in
+the official capacity as U.S. Secretary of Veterans Affairs,
+
+Defendants - Appellants.
+
+No. 26-1904
+AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES LOCAL 2305; AMERICAN
+FEDERATION OF GOVERNMENT EMPLOYEES NATIONAL VETERANS AFFAIRS
+COUNCIL,
+Plaintiffs - Appellees,
+
+Vv.
+
+UNITED STATES DEPARTMENT OF VETERANS AFFAIRS; DOUGLAS A. COLLINS, in
+the official capacity as U.S. Secretary of Veterans Affairs,
+
+Defendants - Appellants.
+Case 1:25-cv-00583-MRD-PAS Document 79 _ Filed 10/05/26 Page 2 of 8 PagelD #:
+3140
+
+Before
+
+Barron, Chief Judge,
+Aframe and Dunlap, Circuit Judges.
+
+ORDER OF COURT
+Entered: October 2, 2026
+
+This is the second time the U.S. Department of Veterans Affairs ("VA") and its Secretary,
+Douglas A. Collins, (collectively, the "defendants") have moved for us to stay an order of the
+District Court in this case. We assume the reader's familiarity with the facts and procedural history
+as we last recounted them. See Am. Fed'n of Gov't Emps. Loc. 2305 v. U.S. Dep't of Veterans
+Affs. (AFGE II), 177 F.4th 1, 5-10 (1st Cir. 2026). We thus offer a less comprehensive summary,
+adding such facts and procedural developments as bear directly on the stay motion before us. We
+then turn to the stay motion itself.
+
+On November 4, 2025, the American Federation of Government Employees Local 2305
+and the American Federation of Government Employees National Veterans Affairs Council
+(collectively, the "plaintiffs") filed a complaint in the U.S. District Court for the District of Rhode
+Island alleging that the defendants unlawfully terminated the Master Collective Bargaining
+Agreement ("CBA") between them and the VA on August 6, 2025. Specifically, the plaintiffs
+contended that the defendants’ termination of the CBA violated the Administrative Procedure Act,
+the First Amendment's protection against retaliation, and the equal protection component of the
+Due Process Clause of the Fifth Amendment. The plaintiffs principally sought a declaratory
+judgment and a permanent injunction preventing the defendants from "implementing or enforcing
+the August 6 [t]ermination" of the CBA.
+
+On March 13, 2026, the District Court granted the plaintiffs' motion for a preliminary
+injunction, ordering that the defendants "shall reinstate the ... CBA -- as well as any amendments,
+local supplemental agreements, and memoranda of understanding that were in place subsidiary to
+the... CBA -- for the remainder of the agreed-upon term provided in the...CBA." In the
+following weeks, the District Court granted the defendants' motion to clarify and the plaintiffs’
+motion to enforce the preliminary injunction. In its order granting the motion to enforce ("the first
+enforcement order"), the District Court stated that the defendants' attempted re-termination of the
+CBA was unlawful and "shall not be given any force or effect." The order further required that
+"[t]he [d]efendants' reinstatement of and compliance with the ...CBA...be in both form and
+Case 1:25-cv-00583-MRD-PAS Document 79 _ Filed 10/05/26 Page 3 of 8 PagelD #:
+3141
+
+substance" and that the defendants continue processing "the currently pending grievances and
+arbitrations submitted under the... CBA."
+
+The defendants then filed in this Court a motion for a stay pending appeal of both the
+preliminary injunction and the first enforcement order. AFGE II, 177 F.4th at 10. On May 16,
+2026, we granted the defendants' motion in part as to the portion of the District Court's order
+directing them to "compl[y] with the...CBA...in both form and substance,’ as well as its
+directive that the defendants 'continue to... process[]' 'the currently pending grievances and
+arbitrations submitted under the ... CBA." Id. at 21. We otherwise denied the motion. Id.
+
+Following our decision on the defendants' first stay motion, the plaintiffs again moved the
+District Court to enforce the preliminary injunction, arguing that the defendants violated it by
+announcing their intention to consider the CBA terminated for all VA employees as of August 8,
+2026. On August 7, 2026, the District Court issued an order granting the plaintiffs’ second motion
+to enforce ("the second enforcement order").
+
+The District Court first observed that the preliminary injunction ordered the defendants to
+reinstate the CBA "for the remainder of the agreed-upon term provided within the contract." The
+District Court determined that "the agreed-upon term provided within the ... CBA" is defined by
+the CBA's "Duration of Agreement provision." That provision states, in relevant part:
+
+This Agreement shall remain in full force and effect for a period of three years after
+its effective date. It shall be automatically renewed for one year periods unless
+either party gives the other party notice of its intention to renegotiate this
+Agreement no less than sixty nor more than one hundred twenty days prior to its
+termination date. Negotiations shall begin no later than 30 days after these
+conditions have been met. If renegotiation of an Agreement is in progress but not
+completed upon the terminal date of this Agreement, this Agreement will be
+automatically extended until a new agreement is negotiated.
+
+The District Court then concluded that "the conditions of the Duration of Agreement" provision
+for the CBA's automatic extension were "satisfied."
+
+In so concluding, the District Court found that the parties had engaged in
+"correspondence . . . directly related to the [d]efendants' notice of intent to renegotiate the ... CBA
+(rather than allow it to auto-renew as is on August 8)" and, further, that the parties exchanged
+"communications . .. within the 30 days immediately following the [d]Jefendants' announcement
+of their intent to renegotiate [that] were laser-focused on negotiations." Thus, the District Court
+found that "[n]Jeither party allowed the negotiations to languish" at the time the CBA had been set
+to terminate. Accordingly, the District Court concluded that the conditions for the CBA's
+automatic extension were satisfied and that the defendants' announcement of their intent to
+consider the CBA terminated as of August 8, 2026, was "in direct contravention of" the preliminary
+Case 1:25-cv-00583-MRD-PAS Document 79 _ Filed 10/05/26 Page 4 of 8 PagelD #:
+3142
+
+injunction's directive that the CBA "remain in effect for the duration of the agreed-upon term of
+the contract."
+
+The defendants timely appealed the second enforcement order and moved the District
+Court to stay that order pending appeal. After the District Court denied a stay, the defendants filed
+in this Court a motion for a stay pending appeal of the second enforcement order.
+
+II.
+
+"A stay is an extraordinary intervention into the usual process of appellate adjudication."
+AFGE III, 177 F.4th at 10 (citing New York v. Trump, 133 F.4th 51, 65 (Ist Cir. 2025)). As the
+movants, the defendants bear the burden to "(1) make 'a strong showing' that [they are] likely to
+succeed on the merits of [their] appeal and also show that (2) [they] ‘will be irreparably injured
+absent a stay'; (3) the issuance of the stay will not 'substantially injure the other parties interested
+
+in the proceeding’; and (4) the public interest weighs in favor of a stay." California v. Trump, 183
+F.4th 52, 63 (1st Cir. 2026) (quoting Washington v. HUD, 171 F.4th 473, 488 (1st Cir. 2026)).
+
+"We review legal questions de novo." AFGE II, 177 F.4th at 10. We address each factor in turn.
+
+III.
+
+Beginning with the defendants’ likelihood of success on the merits, we assume that the
+parties do not dispute that we have appellate jurisdiction over the District Court's order only if it
+was an order "continuing" or "modifying" its preliminary injunction. 28 U.S.C. § 1292(a)(1).
+Moreover, we need not decide whether the second enforcement order likely "continu[ed]" the
+preliminary injunction because we conclude that, at a minimum, it likely "modif[ied]" it. Id.
+
+We have recognized that "an order modifies an injunction" where it "substantially readjusts
+the legal relations of the parties ...and does not relate simply to the conduct or progress of
+litigation." Morales Feliciano v. Rullan, 303 F.3d 1, 7 (1st Cir. 2002) (citation omitted). By
+contrast, an order does not modify an earlier injunction if the order's contents are "simply another
+
+way of expressing what is reasonably to be expected from the" injunction and "do no more than
+identify particular areas in which [compliance] is required" without "modify[ing] the status quo in
+' Id. at 8-9. In assessing whether an order modifies an injunction, we
+examine its "operative terms and effect, not its vocabulary and label." Fryzel v. Mortg. Elec.
+Registration Sys., Inc., 719 F.3d 40, 43 (1st Cir. 2013) (Souter, J.).
+
+any meaningful way.'
+
+We also draw guidance from decisions of our sister circuits, which have looked to, among
+other factors, whether the subsequent order resolves new issues not previously argued or presented.
+See, e.g., Hunter v. Hamilton Cnty. Bd. of Elections, 635 F.3d 219, 246-47 (6th Cir. 2011) (an
+order modifies a prior injunction where it "resolv[es] disputed facts" or relies on facts that "did not
+exist until well after" the injunction issued and that it did "not discuss[]"); Am. River Transp. Co.
+
+Case 1:25-cv-00583-MRD-PAS Document 79 _ Filed 10/05/26 Page 5 of 8 PagelD #:
+3143
+
+v. Ryan, 579 F.3d 820, 824 (7th Cir. 2009) (an order modifies a prior injunction where it "alters
+the legal relationship between the parties" or "raises new substantive issues or material" (citations
+omitted)); see also 16 Wright & Miller's Federal Practice & Procedure § 3924.2 (3d ed., Apr. 2026
+update) ("[T]he line between construction and modification may be drawn by looking to the
+presentation of matters not considered in the original injunction proceedings, an arguable effect on
+the legal relationships established by the injunction, or possibly the risk of serious, perhaps
+irreparable consequences.").
+
+The parties dispute whether the preliminary injunction's reference to the CBA's
+"agreed-upon term" includes not only the CBA's initial three-year time period that ended on
+August 8, 2026, but also any extension under the terms of the CBA's Duration of Agreement
+provision. Even assuming that the preliminary injunction did include the possibility of an
+extension under the CBA's Duration of Agreement provision, we conclude that the second
+enforcement order likely modified that injunction.
+
+On this score, the defendants contend that the second enforcement order "reaches well
+beyond the original injunction's scope by imposing on the parties, on pain of contempt, the
+[D]istrict [C]ourt's resolution of a disputed contract-interpretation question," namely, whether the
+parties' communications "automatically extend[ed] the [CBA]." That dispute, the defendants
+assert, is "distinct from" the dispute the District Court addressed in the preliminary injunction:
+whether the defendants’ "initial CBA termination was unlawful." We agree.
+
+The second enforcement order determined that "the conditions of the Duration of
+Agreement" provision for the CBA's automatic extension were "satisfied." Under the terms of the
+CBA, drawing that conclusion required the District Court to find that "either party g[ave] the other
+party notice of its intention to renegotiate [the CBA] no less than sixty nor more than one hundred
+twenty days prior to its termination date," that "[n]egotiations . . . beg[a]n no later than 30 days
+after these conditions [were] met," and that "renegotiation of [a CBA] [wa]s in progress but not
+completed upon the terminal date of [the CBA]." The preliminary injunction did not make such
+findings and determinations. Indeed, we do not see how it could have given that it issued on March
+13, 2026, before the 120-day period during which the facts triggering automatic extension of the
+CBA must occur. Accordingly, the second enforcement order nowhere suggests that its conclusion
+that the CBA's conditions for automatic extension were "satisfied" and its related factual findings
+were merely interpretations of determinations made in the preliminary injunction. Further, the
+parties hotly contest the findings in the second enforcement order about the timing and
+characterization of the parties' communications.
+
+As such, the second enforcement order did not merely "express[] what [wa]s reasonably to
+be expected from the" preliminary injunction. Morales Feliciano, 303 F.3d at 8. Rather, it "raise[d]
+new substantive issues" and "resolv[ed] disputed facts" that "did not exist until well after" the
+
+Case 1:25-cv-00583-MRD-PAS Document 79 _ Filed 10/05/26 Page 6 of 8 PagelD #:
+3144
+
+preliminary injunction issued. Am. River Transp. Co., 579 F.3d at 824; Hunter, 635 F.3d at
+246-47. And, in determining that the parties' communications had automatically extended the
+CBA, we think the second enforcement order "substantially readjust[ed] the legal relations of the
+parties." Morales Feliciano, 303 F.3d at 7. Thus, the second enforcement order likely modified
+the preliminary injunction, and we likely have appellate jurisdiction to review that order.'
+
+IV.
+
+Having concluded that we likely possess appellate jurisdiction, we turn to the defendants’
+argument that the District Court likely lacked jurisdiction to issue the second enforcement order.
+No party disputes that the District Court lacked jurisdiction to modify the preliminary injunction
+once the defendants appealed that injunction, absent a remand. See Contour Design, Inc. v. Chance
+Mold Steel Co., 649 F.3d 31, 34 (1st Cir. 2011) ("[O]nce an appeal has been taken, a district court
+ordinarily may not alter the judgment under review, without leave of the appellate court.").
+Accordingly, we conclude that the defendants are likely to succeed on the merits of their appeal of
+the second enforcement order because the District Court likely lacked jurisdiction to issue it. We
+therefore have no need to address the defendants' separate contention that the District Court lacked
+jurisdiction to issue the second enforcement order under Coggeshall Development Corp. v.
+Diamond, 884 F.2d 1 (1st Cir. 1989), for reasons akin to those that led us to conclude that the
+District Court likely lacked jurisdiction under Coggeshall to modify the preliminary injunction in
+the first enforcement order by appearing to order specific performance of the CBA's terms, see
+AFGE III, 177 F.4th at 17-18.
+
+'Tn our prior decision, we declined to treat a portion of the first enforcement order as a
+modification of the preliminary injunction. See AFGE III, 177 F.4th at 19-20. In that portion, the
+District Court determined that the defendants' "second termination of the CBA [was] unlawful and
+therefore ineffective." Id. at 19. We explained that the defendants had not developed an argument
+that this portion was a modification beyond conclusorily stating that it "greatly expanded the
+injunction's scope." Id. at 19-20. And we noted that the defendants' "failure [wa]s conspicuous"
+because they "did develop such an argument as to the ‘compliance’ portion of the enforcement
+order" that we ultimately stayed. Id. at 20. We did note that "a mere disagreement about whether
+the re-termination was in fact lawful would appear to be just a disagreement about whether the
+defendants complied with the injunction as clarified." Id. But we made that observation in the
+context of the defendants having made no developed argument that the nature of the disagreement
+that the District Court resolved in the first enforcement order made that portion of the order a
+modification rather than merely the enforcement of a determination about what constituted an
+unlawful termination on which the preliminary injunction had been premised. Here, by contrast,
+the defendants have developed an argument that "the [D]istrict [C]ourt's resolution of [the]
+disputed contract-interpretation question" of whether the parties' communications "automatically
+extend[ed] the [CBA]" concerned a dispute "entirely distinct from the claim underlying the
+preliminary injunction." And that argument likely has merit for the reasons set forth above.
+Case 1:25-cv-00583-MRD-PAS Document 79 _ Filed 10/05/26 Page 7 of 8 PagelD #:
+3145
+
+V.
+
+The remaining stay factors likewise favor the defendants. To begin, the defendants are
+"likely to suffer irreparable harm from the District Court['s] entry of" an order that "likely
+exceed[s]" its jurisdiction and that appears to require them to treat the CBA as reinstated and
+operative even past the August 8, 2026, termination date. See Trump v. CASA, Inc., 606 U.S.
+831, 860-61 (2025). For similar reasons, the balance of equities and the public interest, which
+"merge when the Government is the opposing party," see Nken v. Holder, 556 U.S. 418, 435
+(2009), favor the defendants as well. As for the plaintiffs' interests, we do not think they can have
+a particularly weighty interest in their reliance on an enforcement order the District Court likely
+lacked jurisdiction to enter. Cf. AFGE III, 177 F.4th at 13 (accounting for "the public's interest in
+the CBA... being kept in place as a binding agreement until lawfully terminated" given our
+conclusion that the defendants had failed to show "that the preliminary injunction likely was issued
+in error").
+
+We recognize that there remains an unresolved dispute between the parties as to whether
+their communications satisfied the CBA's automatic extension provision. But that is a function of
+the fact that the preliminary injunction's directive to "reinstate" the CBA leaves open potential
+questions of interpretation of and compliance with the CBA. As we observed in our prior decision,
+"(t]he duty to 'reinstate' the CBA as a binding agreement" and a "duty not to violate the reinstated
+CBA in any particular instance" are "distinct obligations," because "an individual breach would
+not in and of itself suffice to show that the CBA had not been reinstated as a binding agreement."
+AFGE UI, 177 F.4th at 16, 18.
+
+VI.
+
+For the reasons set forth above, the motion for a stay of the second enforcement order is
+granted.”
+
+By the Court:
+
+Anastasia Dubrovsky, Clerk
+ce:
+Hon. Melissa R. DuBose
+Hanorah Tyer-Witek, Clerk, United States District Court for the District of Rhode Island
+
+> Because we grant a stay of the second enforcement order, we need not address the
+defendants' request, "[i]n the alternative to a stay pending appeal" of the second enforcement order,
+"for a stay pending appeal [of the preliminary injunction] given the injunction's now-indefinite
+term." We express no view as to the effect of this stay on the defendants’ pending appeal of the
+preliminary injunction.
+Case 1:25-cv-00583-MRD-PAS Document 79 _ Filed 10/05/26 Page 8 of 8 PagelD #:
+3146
+
+Carly Beauvais Iafrate
+Travis Silva
+
+Brook Dooley
+
+JiLon Li
+
+Alexandra Wheeler
+David Zimmer
+Edwina Bullard Clarke
+Lauren S. Zurier
+Kevin M. Bolan
+Melissa N. Patterson
+Weili Justin Shaw
+Joshua Koppel
+Benjamin Thomas Takemoto
+Tyler J. Becker
+Andrea Lena Hyatt
+Taylor L. Reeves
