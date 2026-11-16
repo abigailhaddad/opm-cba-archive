@@ -1,0 +1,1550 @@
+     Case 1:26-cv-02653-SAG        Document 32   Filed 09/30/26   Page 1 of 30
+
+
+
+                          UNITED STATES DISTRICT COURT
+                             DISTRICT OF MARYLAND
+
+AMERICAN FEDERATION OF
+GOVERNMENT EMPLOYEES (“AFGE”)               CASE NO. 1:26-CV-02653
+Local 1410
+782 Quince Orchard Blvd Apt T2
+Gaithersburg, MD - 20878-1515 USA
+(County of Residence: Montgomery County)    SECOND AMENDED COMPLAINT
+                                            FOR DECLARATORY AND
+AFGE Council 275                            INJUNCTIVE RELIEF
+5928 Akin Pl
+San Antonio, TX - 78261-2165 USA
+
+AFGE Council 169
+71 Hummel Ave
+Lemoyne, PA - 17043-1945 USA
+
+AFGE Council 170
+6911 Mesada St
+Rancho Cucamonga, CA - 91701-5228 USA
+
+AFGE Council 171
+14509 Wheeler Road
+Maple Heights, OH - 44137-4034 USA
+
+AFGE Council 172
+308 Somerset Dr
+Raeford, NC - 28376-5437 USA
+
+AFGE Council 235
+815 Columbus Ave Apt 3215
+Waco, TX - 76701 USA
+
+AFGE Council 240
+306 Wiregrass Way
+Albany, GA - 31721-7717 USA
+
+AFGE Council 243
+PO Box 27067
+NAS Fort Worth, TX 7612
+
+AFGE Local 1504
+20223 13TH AVENUE EAST
+SPANAWAY, WA - 98387-8125 USA
+     Case 1:26-cv-02653-SAG      Document 32   Filed 09/30/26   Page 2 of 30
+
+
+
+AFGE Local 779
+P.O. Box 6099
+Sheppard Afb, TX - 76311-0099 USA
+
+AFGE Local 2449
+6816 Kilchurn Ct
+Henrico, VA - 23231-7249 USA
+
+AFGE Local 54
+P.O. Box 53439
+Fort Benning, GA - 31995-1487 USA
+
+AFGE Local 916
+4713 NE 63rd St
+Oklahoma City, OK - 73121-3135 USA
+
+AFGE Local 987
+P.O. Box 6958
+Warner Robins, GA - 31095-6958 USA
+
+AFGE Local 1592
+4032 W 5050 S
+Roy, UT - 84067-8358 USA
+
+AFGE Local 1658
+Bldg 230 Room 136w
+Us Army Tank Auto Command
+Warren, MI - 48090 USA
+
+AFGE Local 1836
+P.O. Box 56304
+North Pole, AK - 99705 USA
+
+AFGE Local 1858
+21950 Natures Cove Dr
+Athens, AL - 35613-8710 USA
+
+AFGE Local 2065
+4124 Gum Branch Rd,
+Jacksonville NC, 28540
+
+AFGE Local 3283
+4485 Ingleside Rd
+Cleveland, OH - 44128-3527 USA
+     Case 1:26-cv-02653-SAG         Document 32   Filed 09/30/26   Page 3 of 30
+
+
+
+NATIONAL FEDERATION OF FEDERAL
+EMPLOYEES (“NFFE”) Local 178
+Gunpowder Branch
+Aberdeen Proving Ground, MD 21010-0178
+(County of Residence: Harford County)
+
+NFFE Local 476
+P.O. Box 625
+Aberdeen Proving Ground, MD 21005
+(County of Residence: Harford County)
+
+NFFE Local 639
+2 Hopkins Plaza
+Baltimore, MD 21201
+(County Of Residence: Baltimore County),
+
+                             Plaintiffs,
+
+             v.
+
+UNITED STATES DEPARTMENT OF
+DEFENSE
+1000 Defense Pentagon
+Washington, DC 20301,
+
+
+PETE HEGSETH
+Secretary of Defense
+U.S. Department of Defense
+1000 Defense Pentagon
+Washington, DC 20301,
+
+                             Defendants.
+       Case 1:26-cv-02653-SAG          Document 32        Filed 09/30/26     Page 4 of 30
+
+
+
+       Plaintiffs American Federation of Government Employees (“AFGE”) Local 1410, AFGE
+
+Council 275, AFGE Council 169, AFGE Council 170, AFGE Council 171, AFGE Council 172,
+
+AFGE Council 235, AFGE Council 240, AFGE Council 243, AFGE Local 1504, AFGE Local
+
+779, AFGE Local 2449, AFGE Local 54, AFGE Local 916, AFGE Local 987, AFGE Local
+
+1592, AFGE Local 1658, AFGE Local 1836, AFGE Local 1858, AFGE Local 2065, AFGE
+
+Local 3283, National Federation of Federal Employees (“NFFE”) Local 178, NFFE Local 476,
+
+and NFFE Local 639 file this complaint for declaratory and injunctive relief against the
+
+Defendants’ termination of collective bargaining agreements (“CBAs”) protecting tens of
+
+thousands of civilian employees across the Department of Defense (“DoD”). Plaintiffs plead as
+
+follows:
+
+                                       INTRODUCTION
+
+       1.      This lawsuit challenges the recent directives by Secretary of Defense Pete
+
+Hegseth instructing DoD agencies to terminate and repudiate their CBAs and the DoD agencies’
+
+implementation of the Secretary’s directives.
+
+       2.      Plaintiffs are labor organizations that represent bargaining units comprising tens
+
+of thousands of civilian DoD employees across the county, including in Maryland. Plaintiffs’
+
+members include workers who have had continuous union representation for purposes of
+
+collective bargaining for more than 50 years—across multiple presidential administrations and
+
+during wartime and peacetime alike. Plaintiffs’ members have been protected by CBAs that DoD
+
+agencies had agreed to follow and that provide these workers with important protections and
+
+benefits.
+
+       3.      On April 9, 2026, Secretary Hegseth issued a Memorandum, purportedly pursuant
+
+to President Trump’s Executive Order 14251 (March 27, 2025), instructing DoD agencies to
+
+
+
+
+                                                1
+       Case 1:26-cv-02653-SAG           Document 32       Filed 09/30/26      Page 5 of 30
+
+
+
+immediately and unilaterally terminate, with only very limited exceptions, all CBAs to which
+
+DoD is a party. In the days and weeks that followed, confusion and disruption ensued as DoD
+
+agencies followed Secretary Hegseth’s instruction by sending out notices that the agencies were
+
+immediately terminating their CBAs, thereby destabilizing workplaces across the country and
+
+causing continuing and irreparable harm to DoD unions and their members.
+
+       4.      Secretary Hegseth’s recent action to terminate DoD’s CBAs violates the
+
+Administrative Procedure Act. DoD continued to honor its CBAs for more than a year after the
+
+issuance of EO 14251, and DoD could continue to honor the CBAs now. Yet Secretary Hegseth’s
+
+April 9, 2026 Memorandum reversed DoD’s policy to leave CBAs in place without any reasoned
+
+explanation for the reversal and directed that DoD agencies terminate their CBAs within just 24
+
+hours without considering the reliance interests at stake and the chaotic disruptions that
+
+predictably resulted. Further, while EO 14251 does not apply to any employees—regardless of
+
+occupation—at the “local employing offices” where DoD police officers, security guards, and
+
+firefighters serve, DoD agencies acted contrary to law by terminating CBAs at some of those
+
+offices for employees who are not police officers, security guards, or firefighters. Because DoD
+
+has acted arbitrarily and capriciously and in contravention of law, DoD’s actions, including
+
+Secretary Hegseth’s Memorandum, must be vacated and set aside.
+
+       5.      On August 24, 2026, after Plaintiffs filed this lawsuit and moved for a preliminary
+
+injunction, Secretary Hegseth issued another Memorandum that “rescinded and replaced” his
+
+April 9, 2026 Memorandum and directed DoD agencies to promptly re-terminate their CBAs.
+
+DoD’s re-termination of its CBAs pursuant to the August 24, 2026 Hegseth Memorandum is also
+
+arbitrary-and-capricious action and therefore must be vacated and set aside under the
+
+Administrative Procedure Act. The re-termination of Plaintiff’s CBAs was also unconstitutional
+
+
+
+
+                                                 2
+       Case 1:26-cv-02653-SAG            Document 32        Filed 09/30/26      Page 6 of 30
+
+
+
+retaliation against Plaintiffs and their members for having engaged in First Amendment-protected
+
+activity by filing this lawsuit.
+
+                                   JURISDICTION AND VENUE
+
+        6.       This Court has subject matter jurisdiction under 28 U.S.C. § 1331 because
+
+Plaintiffs’ causes of action arise under the laws of the United States. This Court also has
+
+jurisdiction under 28 U.S.C. § 1346(a)(2) and 5 U.S.C. § 702 because the Defendant is a United
+
+States agency.
+
+        7.       The Court has authority to enter a declaratory judgment and to provide temporary,
+
+preliminary, and permanent injunctive relief pursuant to Rules 57 and 65 of the Federal Rules of
+
+Civil Procedure; the Administrative Procedure Act, 5 U.S.C. § 701 et seq.; the Declaratory
+
+Judgment Act, 28 U.S.C. §§ 2201-02; the All Writs Act, 28 U.S.C. § 1651; and the Court’s
+
+inherent equitable powers.
+
+        8.       Venue is proper in this district under 28 U.S.C. § 1391(b)(2) and (e)(1). Plaintiff
+
+AFGE Local 1410 represents employees whose place of employment is within the District of
+
+Maryland and whose CBAs have been terminated because of Defendants’ unlawful actions.
+
+                                              PARTIES
+
+        9.       Plaintiff AFGE Local 1410 is a labor organization and unincorporated association
+
+headquartered at 8124 Seneca View Drive, Laytonsville, MD 20882. AFGE Local 1410’s
+
+members include civilian federal employees and healthcare workers at DoD facilities across the
+
+East Coast, including in this judicial district.
+
+        10.      Plaintiff AFGE Council 275 is a labor organization and unincorporated
+
+association that represents thousands of civilian health care workers within the DoD’s Defense
+
+Health Agency (“DHA”).
+
+
+
+
+                                                   3
+      Case 1:26-cv-02653-SAG           Document 32       Filed 09/30/26       Page 7 of 30
+
+
+
+       11.     Plaintiff AFGE Council 169 is a labor organization and unincorporated
+
+association that represents more than fifteen thousand civilian workers within the DoD’s Defense
+
+Logistics Agency (“DLA”).
+
+       12.     Plaintiff AFGE Council 170 is a labor organization and unincorporated
+
+association that represents more than one thousand civilian workers within the DoD’s Defense
+
+Contract Management Agency (“DCMA”).
+
+       13.     Plaintiff AFGE Council 171 is a labor organization and unincorporated
+
+association that represents civilian workers within the DoD’s Defense Finance Accounting
+
+Service (“DFAS”).
+
+       14.     Plaintiff AFGE Council 172 is a labor organization and unincorporated
+
+association that represents civilian workers within the DoD’s Defense Commissary Agency
+
+(“DeCA”).
+
+       15.     Plaintiff AFGE Council 235 is a labor organization and unincorporated
+
+association that represents civilian workers within the DoD’s Army & Air Force Exchange
+
+Service (“AAFES”).
+
+       16.     Plaintiff AFGE Council 240 is a labor organization and unincorporated
+
+association that represents civilian workers within the DoD’s United States Marine Corps, an
+
+agency that maintains a global workforce of over 35,000 civilian personnel.
+
+       17.     Plaintiff AFGE Council 243 is a labor organization and unincorporated
+
+association that represents civilian workers at United States Navy bases across the Southeast.
+
+       18.     Plaintiff AFGE Local 1504 is a labor organization and unincorporated association
+
+that represents civilian workers within the DoD’s United States Army located at or near Joint
+
+Base Lewis-McChord (“JBLM”) near Tacoma, WA.
+
+
+
+
+                                                4
+      Case 1:26-cv-02653-SAG          Document 32       Filed 09/30/26      Page 8 of 30
+
+
+
+       19.    Plaintiff AFGE Local 779 is a labor organization and unincorporated association
+
+that represents civilian workers located at or near Sheppard Air Force Base in Wichita County,
+
+Texas, and who work within DoD agencies including the United States Air Force, DHA, DeCA,
+
+and AAFES.
+
+       20.    Plaintiff AFGE Local 2449 is a labor organization and unincorporated association
+
+that represents civilian workers located within DLA, including workers at or near DLA’s
+
+headquarters in Fort Belvoir, VA.
+
+       21.    Plaintiff AFGE Local 54 is a labor organization and unincorporated association
+
+that represents civilian workers located at or near Fort Benning in Columbus, Georgia, and who
+
+work within DoD agencies including the United States Army, United States Navy, Defense
+
+Health Agency, Defense Commissary Agency, Defense Finance Accounting Service, and
+
+Department of Defense Education Activity.
+
+       22.    Plaintiff AFGE Local 916 is a labor organization and unincorporated association
+
+that represents civilian workers located at or near Tinker Air Force Base in Oklahoma County,
+
+Oklahoma, and who work within DoD agencies including the United States Air Force, Air Force
+
+Materiel Corps, Defense Health Agency, Defense Logistics Agency, Defense Commissary
+
+Agency, Defense Information Systems Agency, and Army & Air Force Exchange Service, as well
+
+as non-appropriated fund employees of DoD agencies.
+
+       23.    Plaintiff AFGE Local 987 is a labor organization and unincorporated association
+
+that represents civilian workers located at or near Robins Air Force Base in Houston and Peach
+
+Counties, Georgia, and who work within DoD agencies including the United States Air Force,
+
+Air Force Materiel Corps, Defense Health Agency, Defense Logistics Agency, Defense
+
+
+
+
+                                               5
+      Case 1:26-cv-02653-SAG           Document 32        Filed 09/30/26      Page 9 of 30
+
+
+
+Commissary Agency, and Army & Air Force Exchange Service, as well as non-appropriated fund
+
+employees of DoD agencies.
+
+       24.     Plaintiff AFGE Local 1592 is a labor organization and unincorporated association
+
+that represents civilian workers located at or near Hill Air Force Base in Davis County, Utah, and
+
+who work within DoD agencies including the Air Force Materiel Corps, Defense Logistics
+
+Agency, Defense Commissary Agency, Defense Information Systems Agency, and Army & Air
+
+Force Exchange Service, as well as non-appropriated fund employees of DoD agencies.
+
+       25.     Plaintiff AFGE Local 1658 is a labor organization and unincorporated association
+
+that represents civilian workers located at or near the Detroit Arsenal and Selfridge Air National
+
+Guard Base in Macomb County, Michigan and who work within DoD agencies including the
+
+United States Army, Defense Logistics Agency, and Defense Commissary Agency.
+
+       26.     Plaintiff AFGE Local 1836 is a labor organization and unincorporated association
+
+that represents civilian workers located at or near Eielson Air Force Base in Fairbanks North Star
+
+Borough, Alaska, and who work within the DoD’s United States Air Force.
+
+       27.     Plaintiff AFGE Local 1858 is a labor organization and unincorporated association
+
+that represents civilian workers located at or near Redstone Arsenal in Madison County,
+
+Alabama, and who work within DoD agencies including the United States Army, Defense Health
+
+Agency, Defense Logistics Agency, Defense Commissary Agency, and Army & Air Force
+
+Exchange Service, as well as non-appropriated fund employees of DoD agencies.
+
+       28.     Plaintiff AFGE Local 2065 is a labor organization and unincorporated association
+
+that represents civilian workers located at or near Marine Corps Base Camp Lejeune in Onslow
+
+County, North Carolina, and who work within DoD agencies including the United States Navy,
+
+
+
+
+                                                 6
+      Case 1:26-cv-02653-SAG         Document 32       Filed 09/30/26     Page 10 of 30
+
+
+
+United States Marine Corps, Defense Health Agency, Defense Commissary Agency, Department
+
+of Defense Education Activity, as well as non-appropriated fund employees of DoD agencies.
+
+       29.    Plaintiff AFGE Local 3283 is a labor organization and unincorporated association
+
+that represents civilian workers located at or near DFAS Cleveland in Cuyahoga County, Ohio,
+
+and who work within DoD agencies including the United States Navy and Defense Finance
+
+Accounting Service.
+
+       30.    Plaintiff NFFE Local 178 is a labor organization and unincorporated association
+
+that represents more than 1,000 civilian workers employed by DoD, including but not limited to:
+
+employees of the U.S. Army 20th CBRNE Command, CBRNE Analytical and Remediation
+
+Activity located at Aberdeen Proving Ground, Maryland; employees of the U.S. Army Combat
+
+Capabilities Development Command Headquarters located at Aberdeen Proving Ground,
+
+Maryland; employees of the U.S. Army Combat Capabilities Development Command –
+
+Chemical Biological Center located at Aberdeen Proving Ground, Maryland; employees of the
+
+U.S. Army Combat Capabilities Development Command – Chemical Biological Center located
+
+at Pine Bluff, Arkansas; employees of the U.S. Army Contracting Command, Aberdeen Proving
+
+Ground located at Aberdeen Proving Ground, Maryland; and employees of the U.S. Army
+
+Contracting Command located at the Research Triangle Park Division in Raleigh-Durham, North
+
+Carolina.
+
+       31.    Plaintiff NFFE Local 476 is a labor organization and unincorporated association
+
+that represents about 1,500 civilian processionals employed at the Aberdeen Proving Ground in
+
+Maryland by the United States Army Command, Control, Communications, Computers, Cyber,
+
+Intelligence, Surveillance, and Reconnaissance (“C5ISR”) Center and the United States Army
+
+Communication Electronics Command (“CECOM”).
+
+
+
+
+                                               7
+      Case 1:26-cv-02653-SAG           Document 32        Filed 09/30/26     Page 11 of 30
+
+
+
+       32.      Plaintiff NFFE Local 639 is a labor organization and unincorporated association
+
+that represents a bargaining unit of about 610 civilian employees of the U.S. Army Corps of
+
+Engineers, Baltimore District.
+
+       33.      Defendant United States Department of Defense (“DoD”) is a federal agency
+
+headquartered at the Pentagon in Arlington County, Virginia. 5 U.S.C. §§ 101, 105. The DoD is
+
+an agency within the meaning of the Administrative Procedure Act, 5 U.S.C. §§ 551, 701(b)(1),
+
+and within the meaning of the Federal Service Labor-Management Relations Statute, 5 U.S.C.
+
+§ 7103(a)(3).
+
+       34.      Defendant Pete Hegseth is sued in his official capacity as the U.S. Secretary of
+
+Defense. He ordered the CBA terminations and re-terminations at issue in this lawsuit.
+
+                                  FACTUAL ALLEGATIONS
+
+       A. Congress provided collective bargaining rights for federal workers.
+
+       35.      On January 17, 1962, President Kennedy signed Executive Order 10988, titled
+
+“Employee-Management Cooperation in the Federal Sector.” The order recognized the right of
+
+federal workers—including federal civilian workers at DoD—to engage in collective bargaining.
+
+Even prior to the issuance of that Executive Order, and prior to the creation of DoD, some
+
+agencies that became part of DoD had engaged in collective bargaining with unions. For many
+
+decades, the DoD has successfully functioned with the understanding that its mission is
+
+compatible with collective bargaining rights. DoD agencies have engaged in collective
+
+bargaining with bargaining units of civilian workers during the Vietnam War, the Cold War and
+
+the fall of the Soviet Union, 9/11 and the War on Terror, as well as during the war in Afghanistan,
+
+the longest war the United States has ever fought.
+
+
+
+
+                                                 8
+      Case 1:26-cv-02653-SAG            Document 32        Filed 09/30/26       Page 12 of 30
+
+
+
+       36.     Federal employee collective bargaining rights were codified and refined by
+
+Congress with the enactment of the Civil Service Reform Act of 1978, which included the
+
+Federal Service Labor-Management Relations Statute (FSLMRS). The FSLMRS, P.L. No. 95-
+
+454, 92 Stat. 1111, 1191-1216 (1978), establishes a framework to govern collective bargaining
+
+with federal government agencies. See 5 U.S.C., ch. 71.
+
+       37.     In the FSLMRS, Congress found that statutory protection of collective bargaining
+
+rights for federal employees “safeguards the public interest,” “contributes to the effective
+
+conduct of public business,” and “facilitates and encourages the amicable settlements of disputes
+
+between employees and their employers involving conditions of employment.” 5 U.S.C.
+
+§ 7101(a)(1). The FSLMRS grants “[e]ach employee” the “right to form, join, or assist any labor
+
+organization … freely and without fear of penalty or reprisal,” and requires that “each employee
+
+shall be protected in the exercise of such right.” Those rights include the right “to act for a labor
+
+organization in the capacity of a representative,” as well as “to engage in collective bargaining
+
+with respect to conditions of employment[.]” Id. § 7102.
+
+       38.     Agencies subject to the FSLMRS must “accord exclusive recognition to a labor
+
+organization if the organization has been selected as the representative, in a secret ballot election,
+
+by a majority of the employees in an appropriate unit who cast valid ballots in the election.” 5
+
+U.S.C. § 7111(a). A labor organization recognized in this manner “is the exclusive representative
+
+of the employees in the unit it represents and is entitled to act for, and negotiate collective
+
+bargaining agreements covering, all employees in the unit.” 5 U.S.C. § 7114(a)(1). The statute
+
+further provides that “[a]ny agency and any exclusive representative in any appropriate unit in
+
+the agency, through appropriate representatives, shall meet and negotiate in good faith for the
+
+purposes of arriving at a collective bargaining agreement.” 5 U.S.C. § 7114(a)(4).
+
+
+
+
+                                                  9
+      Case 1:26-cv-02653-SAG           Document 32        Filed 09/30/26      Page 13 of 30
+
+
+
+       39.     Agencies’ bargaining obligations under the FSLMRS include, among others, the
+
+obligation to bargain in good faith, to provide information to the union upon request, and “if
+
+agreement is reached, to execute on the request of any party to the negotiation a written
+
+document embodying the agreed terms, and to take such steps as are necessary to implement
+
+such agreement.” 5 U.S.C. § 7114(b). Agencies are prohibited from engaging in unfair labor
+
+practices, id. § 7116, and are required to process grievances raised by the union, id. § 7121. If an
+
+employee in a bargaining unit submits a voluntary written authorization for the agency to deduct
+
+membership dues from that employee’s pay, the agency is required to honor and implement that
+
+request. Id. § 7115(a).
+
+       40.     The DoD is an executive “agency” subject to the requirements of the FSLMRS. 5
+
+U.S.C. § 7103(a)(3).
+
+       41.     The FSLMRS provides that the President “may issue an order excluding any
+
+agency or subdivision thereof from coverage under this chapter if the President determines” both
+
+that “the agency or subdivision has as a primary function intelligence, counterintelligence,
+
+investigative, or national security work,” and that “the provisions [of the FSLMRS] cannot be
+
+applied to that agency or subdivision in a manner consistent with national security requirements
+
+and considerations.” 5 U.S.C. § 7103(b)(1).
+
+       B. Executive Order 14251
+
+       42.     On March 27, 2025, President Trump issued Executive Order 14251 (“EO 14251”
+
+or “the EO”). This EO purported to exercise the authority vested in the President under 5 U.S.C.
+
+§ 7103(b)(1) to exclude agencies and subdivisions from the FSLMRS’s scope, purportedly in
+
+order “to enhance the national security of the United States.” As relevant here, the EO declared
+
+that, although DoD agencies had been engaged in collective bargaining under the FSLMRS for
+
+
+
+
+                                                 10
+      Case 1:26-cv-02653-SAG           Document 32       Filed 09/30/26      Page 14 of 30
+
+
+
+more than 45 years, the FSLMRS “cannot be applied” to DoD “in a manner consistent with
+
+national security requirements and considerations.” EO 14251, §1.
+
+       43.     The EO also stated that, “[n]otwithstanding the forgoing [sic], nothing in this
+
+section [which otherwise excluded DoD from the coverage of the FSLMRS] shall exempt from
+
+the coverage” of the FSLMRS “the immediate, local employing offices of any agency police
+
+officers, security guards, or firefighters….” EO 14251, § 2.
+
+       44.     Finally, as relevant here, the EO delegated authority to the Secretary of Defense to
+
+issue orders suspending the application of the EO “to any subdivisions of the departments they
+
+supervise, thereby bringing such subdivisions under the coverage of the [FSLMRS].” EO 14251,
+
+§ 4(a). To exercise such delegated authority, the Secretary was required to issue an order within
+
+15 days of the EO certifying to the President that the provisions of the FSLMRS “can be applied
+
+to such subdivision in a manner consistent with national security requirements and
+
+considerations.” EO 14251, § 4(b).
+
+       45.     The EO instructed that “[t]his order shall be implemented consistent with
+
+applicable law[.]” EO 14251, § 8(b).
+
+       46.     The legality of the EO is being challenged in many lawsuits across the country.
+
+Although some district courts determined that the EO is likely unlawful, no injunction is
+
+currently in place barring its implementation by DoD against the Plaintiff unions’ bargaining
+
+units. This lawsuit does not challenge the legality of the EO, only actions taken by Defendants
+
+after the EO was issued that the EO did not require them to take.
+
+       C. Department of Defense’s Initial Response to the EO
+
+       47.     On April 23, 2025, DoD published a notice in the Federal Register in which
+
+Secretary Hegseth purported to exercise the authority delegated by EO 14251 to conclude that
+
+
+
+
+                                                11
+         Case 1:26-cv-02653-SAG       Document 32       Filed 09/30/26      Page 15 of 30
+
+
+
+the provisions of the FSLMRS “can be applied to the following federal wage system employees
+
+in the trades at the following DoD component subdivisions in a manner consistent with national
+
+security requirements and considerations.” The four subdivisions identified were (a) Letterkenny
+
+Munition Center, US Army Aviation and Missile Command, United States Army; (b) Air Force
+
+Test Center, Air Force Materiel Command, Department of Air Force; (c) Air Force Sustainment
+
+Center, Air Force Materiel Command, Department of Air Force; and (d) Fleet Readiness Center
+
+Southeast. Secretary Hegseth did not exclude any other subdivisions from the operation of the
+
+EO.
+
+          48.   Although Secretary Hegseth had not excluded other subdivisions from the scope
+
+of EO 14251, DoD did not terminate its existing CBAs as to other subdivisions. DoD agencies
+
+continued throughout 2025 and early 2026 to leave in place CBAs at DoD facilities across the
+
+United States, and DoD did not refuse to recognize labor organizations as the representatives of
+
+employees within their bargaining units.
+
+          49.   EO 14251 did not terminate existing CBAs or require agencies to immediately
+
+terminate existing CBAs. Rather, the EO provides for actions to be taken by “each applicable
+
+agency head … upon termination of the applicable collective bargaining agreement.” EO 14251,
+
+§6. DoD recognized that DoD could, and did, continue to honor the CBAs to which DoD was a
+
+party.
+
+          50.   At first, DoD’s conduct in implementing EO 14251 appeared at least partially
+
+consistent with guidance documents issued by the Office of Personnel Management (OPM). On
+
+April 8, 2025, OPM published a guidance document concerning “Frequently Asked Questions”
+
+with respect to the EO. That document stated that “[a]gencies should not terminate any CBAs
+
+until the conclusion of litigation or further guidance from OPM directing such termination.”
+
+
+
+
+                                               12
+      Case 1:26-cv-02653-SAG           Document 32        Filed 09/30/26      Page 16 of 30
+
+
+
+(Emphasis supplied). On or around August 14, 2025, OPM revised this guidance to state instead
+
+that “[a]gencies may choose to terminate, abrogate, or repudiate CBAs … and should consult
+
+with their General Counsels to assess next steps regarding those CBAs.” AFGE v. Trump, No.
+
+25-4014, Dkt. No. 34.1 at 2 (9th Cir. Aug. 14, 2025) (emphasis added). Notwithstanding this
+
+guidance, DoD did not purport to terminate “terminate, abrogate, or repudiate CBAs” at that
+
+time. Then, on February 12, 2026, OPM issued yet another guidance document, this time opining
+
+that agencies should “proceed to terminate or modify CBAs in order to fully comply with [the
+
+EO].” Feb. 12, 2026 OPM Memo at 1. But OPM does not have authority to run DoD. DoD did
+
+not immediately terminate its CBAs.
+
+       D. Secretary Hegseth’s April 9, 2026 Memorandum
+
+       51.     On April 9, 2026, however, the Department of Defense executed an unexplained
+
+U-turn in its labor relations policy. On that date, Secretary Hegseth circulated a two-paragraph
+
+Memorandum that tersely “direct[ed] the termination of all collective bargaining agreements to
+
+which the Department is a party, not subject to a court order enjoining implementation of [the
+
+EO].” Furthermore, Secretary Hegseth ordered that the terminations must occur “within 24 hours
+
+of the date of this Memorandum,” except as to the employees’ listed in the Secretary’s April 23,
+
+2025 certification and as to “the local employing offices of any agency police offices, security
+
+guards, or firefighters.”
+
+       52.     The Memorandum offered no explanation for the timing of the Secretary’s
+
+decision.
+
+       53.     The Memorandum also failed to consider any alternatives to the termination of all
+
+collective bargaining agreements to which the DoD was a party or with respect to the timing of
+
+such terminations and failed to consider Plaintiffs’ reliance interests in their CBAs.
+
+
+
+
+                                                 13
+      Case 1:26-cv-02653-SAG           Document 32        Filed 09/30/26       Page 17 of 30
+
+
+
+       54.     The only explanation given by the Secretary for the reversal in DoD’s position
+
+was that “[t]his action is required to align agency operations with national security requirements
+
+as outlined in [the EO],” and that “[a]gencies and subdivisions identified in sections 2 and 3 of
+
+EO 14251 have been determined to perform functions incompatible with the continued
+
+application of 5 U.S.C., chapter 71.” But the EO had been issued a year earlier and the legality
+
+of the EO is still being disputed in multiple court cases. The Secretary did not explain why DoD
+
+was suddenly changing course about CBAs more than a year after issuance of the EO or why
+
+CBAs could not remain in effect until the conclusion of litigation regarding the EO or until the
+
+CBAs expire on their own terms.
+
+       55.     The Hegseth Memorandum concluded by stating that the “Under Secretary of War
+
+for Personnel and Readiness” would “issue supplemental guidance to facilitate a smooth
+
+transition,” and advising that “[l]eadership at all levels must coordinate closely with their
+
+respective Offices of General Counsel and human resources representatives to ensure full
+
+compliance.”
+
+       E. CBA Terminations and Resulting Chaos
+
+       56.     Notwithstanding Secretary Hegseth’s vision of a “smooth transition,” the
+
+predictable result of his April 9, 2026 Memorandum has been the opposite: chaos. In the wake of
+
+his Memorandum, DoD agencies have been notifying unions of the termination of CBAs at
+
+facilities across the country, with little or no plan for how these workplaces will function
+
+smoothly without the close coordination between DoD agencies and union leadership that has
+
+kept DoD’s vast operations running for decades.
+
+       57.     DoD did not have any uniform process for implementing the termination of
+
+CBAs, and in many cases there was virtually no notification or communication at all about what
+
+
+
+
+                                                 14
+      Case 1:26-cv-02653-SAG            Document 32         Filed 09/30/26      Page 18 of 30
+
+
+
+actions were being taken, if any. Some local union leaders were informed by phone that their
+
+unions’ CBAs were being terminated; others were informed by email, or by letter; others
+
+received no communications at all—their agency counterparts just went “radio silent,” or started
+
+refusing to answer routine questions. Beyond these “official” notifications (or lack thereof),
+
+Secretary Hegseth’s Memorandum begat a firestorm of confusion and misinformation at facilities
+
+nationwide—about who still did or did not have collective bargaining agreements, and why, and
+
+since when. Especially perniciously, managers across the country immediately began telling
+
+workers that “the union doesn’t exist anymore”—a completely false message (since unions are
+
+private membership organizations the government has no power to disband) that continues to
+
+cause severe confusion and harm to unions and workers alike. Since Secretary Hegseth’s
+
+Memorandum, union officials describe these false official communications and statements about
+
+their unions as taking place “constantly, everywhere, everyday.”
+
+        58.     Defendants’ termination of Plaintiffs’ CBAs substantially impairs Plaintiffs’
+
+ability to fulfill their core functions and threatens Plaintiffs’ continued viability as organizations.
+
+        59.     Plaintiffs’ CBAs provide covered employees with substantive employment
+
+protections (e.g., provisions regarding work schedules and leaves) and also provide for a
+
+grievance process that can be used by employees and for which employees are entitled to union
+
+representation. CBAs also require the employer to meet and negotiate with the union prior to
+
+implementing new policies that affect terms and conditions of employment. CBAs also provide
+
+employees with the right to union representation during the disciplinary process, including in
+
+meetings with the employer that can lead to discipline. CBAs also allow union representatives
+
+official time during which they can represent bargaining unit members, and CBAs provide the
+
+union with office space and access to office equipment so unions can perform their functions.
+
+
+
+
+                                                  15
+        Case 1:26-cv-02653-SAG         Document 32        Filed 09/30/26      Page 19 of 30
+
+
+
+Many CBAs provide for union representation on health and safety committees that create
+
+policies to protect employees. Many CBAs also provide that the employer must consult with the
+
+union before implementation of a reduction in force and address reduction-in-force procedures.
+
+CBAs also typically provide that employees are entitled to engage in union activities without
+
+employer reprisal and protect employees’ right to engage in lawful activities on their personal
+
+time.
+
+         60.   Since the Hegseth Memorandum, DoD agencies are not accepting grievances
+
+under the CBAs, thereby leaving employees in indefinite limbo, preventing Plaintiffs from
+
+performing one of their core functions, and leaving disputes about working conditions and other
+
+critical matters unresolved.
+
+         61.   Without the ability to file new grievances with the potential for resolution with an
+
+impartial arbitrator, workers have lost a powerful tool for challenging discriminatory treatment,
+
+improper or unfair conduct, overly harsh discipline, and other matters critical to the fair and
+
+successful functioning of the Department of Defense. At one Army facility, for example, an
+
+employee was recently put on a “Performance Improvement Plan” that appears both
+
+discriminatory and a transparent prelude to termination—yet because her CBA was purportedly
+
+terminated, she now has no recourse to challenge the Performance Improvement Plan or assert
+
+her rights.
+
+         62.   For decades, DoD employees have raised work-related issues and sought to
+
+improve their workplaces by bringing concerns to the attention of their unions, which can
+
+investigate, provide resources, gather information, provide representation such as presenting
+
+grievances, and bargain collectively. Since Secretary Hegseth’s Memorandum, however, DoD
+
+employees are being told that their CBAs do not exist and that their unions are powerless, and
+
+
+
+
+                                                 16
+      Case 1:26-cv-02653-SAG           Document 32        Filed 09/30/26      Page 20 of 30
+
+
+
+there are no equivalent avenues for workers to raise problems, highlight discriminatory treatment
+
+or improper conduct, obtain information about their workplace, or seek guidance regarding how
+
+to handle workplace issues.
+
+       63.     DoD employees have also been denied their right to have a union representative
+
+present during any investigatory interview or formal discussion conducted by management. In
+
+some cases, DoD employers have issued discipline against employees merely for attempting to
+
+assert their rights. For example, one DoD employee was recently issued formal discipline for
+
+taking a phone call she expected was investigatory alongside her union representative. DoD took
+
+the position that because of a union representative’s presence on the phone call, the employee
+
+had wrongly disclosed confidential information to “non-authorized personnel”—even though the
+
+employee was simply exercising a basic right that has been established for over fifty years.
+
+       64.     Since Secretary Hegseth’s Memorandum, DoD agencies have eliminated official
+
+time required by CBAs, severely hamstringing union officers from supporting or representing
+
+their members. In one absurd instance, a union president was recently reprimanded even for
+
+spending time dismantling the union office (on DoD’s orders) rather than being at his jobsite.
+
+Because Defendants are now refusing to provide contractually mandated official time during
+
+work hours, union representatives have been unable to provide representation when employees
+
+most need it and often must forgo providing representation altogether.
+
+       65.     Union officers continue to have substantial obligations to fulfill to carry out the
+
+unions’ missions, including but not limited to representing members at the Merit Systems
+
+Protection Board, the Equal Employment Opportunity Commission, and the Defense Office for
+
+Hearings and Appeals; providing support for workers compensation claims and reasonable
+
+accommodation requests; fulfilling all representation functions for police officers, security
+
+
+
+
+                                                17
+      Case 1:26-cv-02653-SAG          Document 32        Filed 09/30/26      Page 21 of 30
+
+
+
+guards, and firefighters whose CBA rights are still being honored; and much more. The
+
+immediate termination of CBA-provided official time prevents union officers from performing
+
+those obligations.
+
+       66.     Since Secretary Hegseth’s Memorandum, DoD agencies have been ordering
+
+unions to vacate the office space guaranteed by the CBAs, causing significant disruptions that
+
+prevent the unions from serving or communicating effectively with members about the wave of
+
+changes at DoD.
+
+       67.     As a result of Secretary Hegseth’s Memorandum, the termination of CBAs, and
+
+the cascade of harms described above that have flowed directly from those actions, Plaintiffs
+
+have seen significant drops in dues-paying members—a harm that is only accelerating with time.
+
+This loss of membership weakens the strength of the unions and severely inhibits Plaintiffs from
+
+fulfilling their functions as worker-empowerment organizations.
+
+       68.     As a result of Secretary Hegseth’s Memorandum, some DOD agencies are
+
+informing Plaintiff’s bargaining unit workers that they have been coded as “not eligible to join a
+
+union” in their personnel records, thereby inhibiting workers from becoming or remaining union
+
+members. Many workers are now afraid to participate in any union activities.
+
+       69.     By preventing Plaintiffs from fulfilling their representational functions, DoD’s
+
+actions have also harmed and continue to harm Plaintiffs’ reputation, trust, and goodwill in the
+
+eyes of their members and potential members, many of whom now question whether Plaintiffs
+
+can continue to help them. Thus, Plaintiffs are experiencing ongoing harm to their abilities both
+
+to retain existing members and to organize new union members, creating an existential threat to
+
+the unions’ existence.
+
+
+
+
+                                                18
+      Case 1:26-cv-02653-SAG           Document 32        Filed 09/30/26      Page 22 of 30
+
+
+
+       70.     In addition to the many harms flowing from Secretary Hegseth’s Memorandum
+
+and the resulting terminations of CBAs generally, DoD agencies have also terminated CBAs for
+
+employees who are not covered by the EO. The EO provides that the “local employing offices of
+
+any agency police officers, security guards, or firefighters”—not just workers who are police
+
+officers, security guards or firefighters—remain subject to the FSLMRS. EO 14251 ¶ 2. DoD, in
+
+both the Hegseth Memorandum and the DoD “implementation instructions,” acknowledged that
+
+this means that DoD must continue honoring the collective bargaining rights not only of police
+
+officers, firefighters, and security guards, but also of other employees in the same “immediate
+
+local employing offices.” DOD Implementation Instructions for Termination of Collective
+
+Bargaining Agreements §2.1. Yet DoD failed to prepare any list of subdivisions that are not
+
+covered by the EO because they employ police officers, firefighters or security guards before
+
+issuance of the Hegseth Memorandum, nor did the Hegseth Memorandum provide for such a list
+
+to be created before implementation of the Memorandum. Instead, the Memorandum directed
+
+DoD agencies to terminate CBAs within 24 hours.
+
+       71.     Thus, across DoD, subdivisions have declared that employees who work
+
+alongside police officers, firefighters, and security guards—workers in the same “local
+
+employing office” within the meaning of the EO—no longer have the protections of their CBAs
+
+or any rights under the FSLMRS, in direct contradiction of the EO. Dispatchers who work
+
+alongside police officers and provide critical services enabling those officers to do their jobs; IT
+
+professionals who keep agency fire departments running; administrative staff who support
+
+offices containing security guards—all have been denied their collective bargaining rights. At
+
+DLA’s Susquehanna Defense Distribution Center in New Cumberland, Pennsylvania, for
+
+example, the same local employing office that employs police officers, firefighters, and security
+
+
+
+
+                                                 19
+      Case 1:26-cv-02653-SAG           Document 32        Filed 09/30/26      Page 23 of 30
+
+
+
+guards also employs many other types of employees. Yet DLA treats these other types of
+
+employees as having lost all the rights guaranteed to them under the FSLMRS and their existing
+
+CBAs due to DoD’s systematic failure to implement the EO according to its terms. These failures
+
+are the entirely predictable result of Secretary Hegseth’s decision to demand the immediate
+
+termination of CBAs in a 24-hour period without reason or explanation or the creation of a list of
+
+excluded subdivisions—a recipe for chaos and harm to workers.
+
+       F.      Secretary Hegseth’s August 24, 2026 Memorandum
+
+       72.     Plaintiffs filed this lawsuit and moved for a preliminary injunction to restore the
+
+pre-April 9, 2026 Hegseth Memorandum status quo pending adjudication of the merits. The
+
+preliminary injunction motion demonstrated that DoD’s mass termination of Plaintiffs’ CBAs
+
+was arbitrary-and-capricious agency action. On August 24, 2026, the day Defendants’ response
+
+to the preliminary injunction motion was due (after Defendants had obtained an extension of
+
+time), Secretary Hegseth signed an August 24, 2026 Memorandum that “rescinds and replaces”
+
+his April 9, 2026 Memorandum and directs DoD agencies to promptly “re-terminate” their
+
+already-terminated CBAs.
+
+       73.     The August 24, 2026 Memorandum is a rushed and unsuccessful effort by the
+
+agency to retroactively provide reasoned justifications and explanations for an arbitrary-and-
+
+capricious agency action that already occurred. The August 24, 2026 Memorandum is flawed
+
+because, among other things, the two central premises of the Memorandum are erroneous. The
+
+August 24, 2026 Memorandum proceeds from the premise that EO 14251 determined that DoD’s
+
+CBAs are an impediment to national security. In fact, the EO purported to determine only that
+
+application of the FSLMRS is inconsistent with national security. The August 24, 2026
+
+Memorandum makes clear that the Secretary did not direct DoD’s component agencies to review
+
+
+
+
+                                                20
+       Case 1:26-cv-02653-SAG              Document 32        Filed 09/30/26      Page 24 of 30
+
+
+
+their CBAs to determine whether continuing to follow specific CBAs or parts of CBAs would be
+
+inconsistent with national security. Instead, the Secretary erroneously assumed that the EO
+
+already had made that determination. The August 24, 2026 Memorandum also proceeds from the
+
+erroneous premise that continuing to follow the CBAs would be illegal and unworkable without
+
+FSLMRS coverage.
+
+                                     FIRST CAUSE OF ACTION
+
+                Violation of the Administrative Procedure Act – Arbitrary and Capricious
+
+          74.      Plaintiffs incorporate by reference all preceding paragraphs as if fully set forth
+
+herein.
+
+          75.      Under the Administrative Procedure Act (“APA”), 5 U.S.C. § 706(2), a reviewing
+
+agency shall “hold unlawful and set aside agency actions, findings, and conclusions found to
+
+be—(A) arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.”
+
+          76.      Secretary Hegseth’s April 9, 2026 Memorandum, and DoD’s actions
+
+implementing Secretary Hegseth’s April 9, 2026 Memorandum, as described in this Complaint
+
+and including but not limited to the termination of CBAs, constitute final agency action under the
+
+APA.
+
+          77.      The April 9, 2026 Memorandum and implementing actions, including but not
+
+limited to the CBA terminations, are arbitrary, capricious, an abuse of discretion, and otherwise
+
+not in accordance with law under § 706(2)(A) for several reasons.
+
+          78.      First, Secretary Hegseth’s April 9, 2026 Memorandum constitutes a major change
+
+in DoD’s position that was not rationally explained. For nearly a year after the issuance of EO
+
+14251, DoD continued its longstanding policy of honoring the CBAs into which it has entered.
+
+The DoD’s April 9, 2026 decision to terminate those CBAs within 24 hours irrationally and
+
+
+
+
+                                                    21
+      Case 1:26-cv-02653-SAG            Document 32        Filed 09/30/26      Page 25 of 30
+
+
+
+improperly failed to explain why the DoD would no longer honor existing CBAs, or why
+
+termination was necessary within 24 hours notwithstanding the agency’s prior honoring of CBAs
+
+and the predictable chaos that would result from DoD’s abrupt reversal. DoD also failed to
+
+consider relevant reliance interests as required by the APA. Nor did DoD explain why the
+
+obvious alternatives of maintaining the CBAs until litigation about the EO has run its course or
+
+allowing CBAs to expire by their own terms (both of which would have been far less disruptive)
+
+were not chosen.
+
+       79.     Second, Secretary Hegseth’s action was also arbitrary and capricious because
+
+there was no good reason for DoD—having left CBAs in effect for more than a year after
+
+issuance of the EO—to terminate them when it did rather than at an alternative time, such as
+
+after litigation about the validity of the EO concludes or after their natural expiration.
+
+       80.     Third, DoD’s CBA terminations have failed to follow the plain text of Section 2 of
+
+EO 14251, which states that “nothing in this section shall exempt from the coverage of Chapter
+
+71…the immediate, local employing offices of any agency police officers, security guards, or
+
+firefighters.” Notwithstanding that command, DoD has taken action to deny rights to thousands
+
+of employees at the “immediate, local employing offices” of DoD police officers, security
+
+guards, or firefighters, while continuing to honor the agency’s CBAs with respect only to certain
+
+individual police officers, security guards, and firefighters. That DoD has continued to
+
+acknowledge some employees’ rights while denying rights to other similarly situated DoD
+
+employees in the same “local employing offices” is evidence that DoD’s classifications are
+
+arbitrary and capricious. Furthermore, DoD acted arbitrarily and capriciously by directing DoD
+
+agencies to immediately terminate CBAs without DoD first preparing a list of the subdivisions
+
+that are not covered by the EO (i.e. the subdivisions that are “local employing offices” of police
+
+
+
+
+                                                  22
+      Case 1:26-cv-02653-SAG           Document 32       Filed 09/30/26      Page 26 of 30
+
+
+
+officers, security guards, or firefighters), leading predictably to widespread confusion and
+
+arbitrary enforcement of the April 9, 2026 Memorandum.
+
+       81.     Secretary Hegseth’s August 24, 2026 Memorandum, and DoD’s actions
+
+implementing Secretary Hegseth’s April 24, 2026 Memorandum, including but not limited to the
+
+termination and re-termination of CBAs, constitute final agency action under the APA.
+
+       82.     The August 24, 2026 Memorandum and implementing actions, including but not
+
+limited to the CBA terminations, are arbitrary, capricious, an abuse of discretion, and otherwise
+
+not in accordance with law under § 706(2)(A) for several reasons.
+
+       83.     First, the August 24, 2026 Memorandum proceeds from the erroneous premise
+
+that EO 14251 determined that continuing CBAs in effect would be harmful to national security.
+
+In fact, EO 14251 purported to determine only that continued application of the FSLMRS would
+
+be inconsistent with national security. DoD failed to make a determinations as to whether
+
+continuing to follow the CBAs would be helpful or harmful to national security. DoD also failed
+
+to consider the obvious alternative of directing DoD agencies to review their CBAs and
+
+determine whether any specific CBAs or parts of CBAs were an obstacle to national security.
+
+       84.     Second, the August 24, 2026 Memorandum proceeds from the erroneous premise
+
+that it would be illegal or unworkable for DoD to implement the CBAs in the absence of
+
+FSLMRS coverage because arbitration decisions would not be binding on DoD and the grant of
+
+official time for union activities would be illegal. That premise is wrong. Among other things,
+
+DoD agencies could continue to follow the final decisions of arbitrators regarding CBA
+
+grievances. And DoD provided official time pursuant to the CBAs for a year after the EO
+
+removed DoD agencies from the FSLMRS and could continue to do so.
+
+
+
+
+                                                23
+      Case 1:26-cv-02653-SAG            Document 32         Filed 09/30/26       Page 27 of 30
+
+
+
+                                 SECOND CAUSE OF ACTION
+
+           Violation of the Administrative Procedure Act – Exceeds Statutory Authority
+
+          85.   Plaintiffs incorporate by reference all preceding paragraphs as if fully set forth
+
+herein.
+
+          86.   Under section 5 U.S.C. § 706(2)(C) of the APA, a court shall hold unlawful and
+
+set aside agency action that is “in excess of statutory jurisdiction, authority, or limitations, or
+
+short of statutory right.”
+
+          87.   DoD has no freestanding authority to exempt its employees from the coverage of
+
+Chapter 71 of Title 5 of the United States Code. Any such authority derives from the authority
+
+conferred by Congress on the President by 5 U.S.C. § 7103(b). The President purported to
+
+exercise this authority in EO 14251, which is not being challenged by this lawsuit. The EO states
+
+that “nothing in this section [which exempts DoD agencies from the coverage of Chapter 71]
+
+shall exempt from the coverage of Chapter 71…the immediate, local employing offices of any
+
+agency police officers, security guards, or firefighters.” Thus, the EO leaves the entire “local
+
+employing offices” within the coverage of Chapter 71, not just particular types of employees
+
+within those offices.
+
+          88.   Nevertheless, DoD has purported to exercise authority it does not possess by
+
+purporting to terminate CBAs and denying Chapter 71 rights with respect to thousands of
+
+employees at the local employing offices of police officers, security guards, and firefighters. By
+
+failing to follow the plain terms of Section 2 of EO 14251, DoD has acted in excess of any
+
+authority purportedly delegated to it by the President and in contravention of Chapter 71.
+
+
+
+
+                                                  24
+      Case 1:26-cv-02653-SAG            Document 32        Filed 09/30/26      Page 28 of 30
+
+
+
+                                  THIRD CAUSE OF ACTION
+
+                         Retaliation in Violation of the First Amendment
+          89.   Plaintiffs incorporate by reference all preceding paragraphs as if fully set forth
+
+herein.
+          90.   Plaintiffs exercised their First Amendment right to petition the government by
+
+filing this lawsuit.
+
+          91.   Plaintiffs demonstrated in their original preliminary injunction motion that
+
+Defendants had engaged in arbitrary-and-capricious action in violation of the Administrative
+
+Procedure Act by terminating Plaintiffs’ CBAs in accordance with the April 9, 2026 Hegseth
+
+Memorandum. Defendants recognized that Plaintiffs would prevail on their claim, as
+
+demonstrated by their choice to rescind the April 9, 2026 Memorandum rather than try to defend
+
+it.
+
+          92.   The August 24, 2026 Hegseth Memorandum’s directive to “terminate within
+
+seven days or, as applicable, re-terminate” Plaintiffs’ CBAs was issued in retaliation for
+
+Plaintiffs’ protected exercise of their First Amendment rights. The August 24, 2026 directive
+
+would not have been issued but for Plaintiffs’ protected activity.
+
+          93.   The August 24, 2026 Hegseth Memorandum did not determine that any (much
+
+less all) of DoD’s CBAs are inconsistent with national security considerations. Nor did DoD
+
+contact Plaintiffs to raise any issues directly with Plaintiffs about a purported conflict between a
+
+CBA provision and national security considerations. There is no such conflict. Rather, the
+
+Secretary rushed to issue the August 24, 2026 Memorandum and direct the termination or re-
+
+termination of DoD’s CBAs based on specious reasoning to retaliate against Plaintiffs for having
+
+exercised their First Amendment right to file this lawsuit.
+
+
+
+
+                                                 25
+      Case 1:26-cv-02653-SAG            Document 32       Filed 09/30/26      Page 29 of 30
+
+
+
+         94.    The termination of longstanding collective bargaining agreements and associated
+
+injury to Plaintiffs and their members would chill First Amendment protected activity by a
+
+person of ordinary firmness.
+
+
+
+                                     PRAYER FOR RELIEF
+
+         Wherefore, Plaintiffs pray that this Court:
+
+         95.    Declare that the directive set forth in Secretary Hegseth’s April 9, 2026
+
+Memorandum was unlawful;
+
+         96.    Declare that the directive set forth in Secretary Hegseth’s August 24, 2026
+
+Memorandum was unlawful;
+
+         97.    Enter preliminary or permanent injunctive relief setting aside the April 9, 2026
+
+and August 24, 2026 termination and re-termination directives as unlawful, including by
+
+requiring reinstatement of all CBAs terminated or re-terminated pursuant to those directives and
+
+prohibiting DoD from taking further actions implementing those directives;
+
+         98.    Direct Defendants to issue guidance to all their officers, employees, contractors,
+
+and agents to rescind the terminations and re-terminations of the CBAs and to abide by their
+
+terms;
+
+         99.    Award Plaintiffs their costs, reasonable attorney fees, and other disbursements as
+
+appropriate;
+
+         100.   Grant such other and further relief as the Court deems just and proper.
+
+
+
+
+                                                  26
+     Case 1:26-cv-02653-SAG   Document 32     Filed 09/30/26     Page 30 of 30
+
+
+
+Dated: September 14, 2026          Respectfully submitted,
+
+                                   By: /s/Scott Kronland
+
+                                   Lauren J. Kelleher (Bar No. 22134)
+                                   Brown, Goldstein & Levy, LLP
+                                   120 E. Baltimore Street, Suite 2500
+                                   Baltimore, Maryland 21201
+                                   (410) 962-1030 Office
+                                   (410) 385-0869 Fax
+                                   lkelleher@browngold.com
+
+                                   Scott A. Kronland (admitted pro hac vice)
+                                   Jonathan Rosenthal (admitted pro hac vice)
+                                   James Baltzer (admitted pro hac vice)
+                                   Altshuler Berzon LLP
+                                   177 Post Street, Suite 300
+                                   San Francisco, CA 94108
+                                   (415) 421-7151 Office
+                                   skronland@altber.com
+                                   jrosenthal@altber.com
+                                   jbaltzer@altber.com
+
+                                   Attorneys for Plaintiffs
+
+
+
+
+                                     27
+
