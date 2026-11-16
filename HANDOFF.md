@@ -8,6 +8,7 @@ Every federal union contract in OPM's public database, as PDFs and text, with a 
 
 ## What runs on its own
 - `.github/workflows/weekly.yml` runs Mondays and refreshes everything: it fetches OPM's listing, downloads only new or changed PDFs, extracts the text, rebuilds `data/cba_agreements.csv` and publishes to Hugging Face in one commit that only adds or overwrites files. A week with nothing new commits nothing and ends green. It opens an issue when records are added or removed, when new agreements need a flag review, and when a run fails.
+- **By hand: OCR.** `scripts/ocr.py` OCRs agreements whose `text_status` is `no_text` or `low_text` (needs `tesseract` and `pdftoppm`). The weekly job doesn't run it, but it publishes whatever is in `data/ocr/`. When a new scanned agreement shows up, download its PDF, run the script, and commit `data/ocr/` and `data/ocr_log.jsonl`.
 - **By hand: the termination flags.** They come from sources in `data/terminations/` (`sources.csv` and `record_flags.csv`), and the refresh never edits that folder. New agreements get a default flag. When the issue "New agreements to review for termination flags" appears, look for a termination document and add a row to both files. Old flags go stale as courts rule, so re-check them. `METHODS.md` and the README say what each flag means.
 
 ## Secrets

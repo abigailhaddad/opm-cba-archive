@@ -19,7 +19,7 @@ a first-pass flag for agreements that appear to have been terminated under Execu
 | Bytes on disk | 1,861,818,204 | 1,856,943,663 unique. Under the 3 GB cap. |
 | Pages (pdfinfo) | 93,948 | across the 1,243 files |
 | Text extracted (`text`) | 1,222 | |
-| Scanned, no text (`no_text`) | 11 | 0 extractable words. Need OCR. |
+| Scanned, no text (`no_text`) | 11 | 0 extractable words. OCR added 2026-11-15 (see Text). |
 | Mostly scanned (`low_text`) | 7 | 1-24 words per page; the next file up has 66, so the cutoff of 50 sits in a clear gap. |
 | Submission form only | 3 | A one-page OPM "CBA Submission Form" was posted instead of the agreement. |
 | Not processed | 5 | the 5 failed downloads |
@@ -184,7 +184,16 @@ compared with the listing's own `fileSize` field (e.g. "1.76 MB", binary units) 
 `text` (at least 50 words of 3+ letters per page on average), `low_text` (under 50 per page: mostly scanned,
 maybe a typed cover), `no_text` (nothing extractable: scanned image only, needs OCR),
 `submission_form_only` (a 1-2 page OPM "CBA Submission Form" rather than an agreement), or `error`.
-No OCR was run.
+`text_status` describes the PDF's own text layer and does not change after OCR.
+
+**OCR** (added 2026-11-15, `scripts/ocr.py`). The 18 `no_text` and `low_text` files (1,036 pages) were
+rendered at 300 dpi in grayscale with `pdftoppm` and read with Tesseract 5.5.2 (English). The text is in
+`data/ocr/<id>.txt`, one line per file in `data/ocr_log.jsonl` (PDF hash, pages, words, mean word
+confidence), and `ocr_words` in the table. Mean confidence by file runs from 83.0 to 96.3; the low one
+(4f3548ee, Navy-AFGE) is sideways two-up pages and its text is noisy. Checks: five pages from five files were
+compared by eye with the page image, and for the 7 `low_text` files, 96.9% to 100% of the words (4+ letters)
+in the PDF's own text layer also appear in the OCR text. All 28 pages that OCR as (nearly) empty were looked at: 27 are blank, "Page Intentionally Left Blank" or a
+one-word divider; one (2d46abc6, page 2) is a cover page printed on a dark background whose text OCR lost. The OCR is run by hand, not by the weekly job.
 
 **EO coverage** (`eo_coverage`, `scripts/coverage.py`). A rule set that reads the agency and sub-agency
 fields and checks them against the agencies and subdivisions named in EO 14251 s.1-4 (as amended by EO 14343).
@@ -244,6 +253,6 @@ agency actually terminated the agreement.
   `data/terminations/agent_findings.json`. Every source used for a `confirmed` flag was opened and the
   supporting passage located in the local copy before the flag was written. Exceptions: press-only items are
   marked `confirmed_secondary`.
-- **No OCR** was run. 18 agreements (11 `no_text` + 7 `low_text`) need it for full-text search.
+- **OCR errors.** The OCR text of the 18 scanned agreements has misread characters and stray marks. Check any quote against the PDF.
 - **Untrusted files.** Downloads live under `data/`, processed with `python3 -I`, `pdfinfo` and `pdftotext`
   only.

@@ -19,7 +19,8 @@ configs:
 Every federal union contract in OPM's public database ([opm.gov](https://www.opm.gov/policy-data-oversight/labor-management-relations/collective-bargaining-agreements/)), as PDFs with extracted text.
 
 - `pdfs/<id>.pdf`: the agreement as OPM serves it, named by OPM's record id
-- `text/<id>.txt`: `pdftotext -layout` output (scanned agreements have little or no text; no OCR was run)
+- `text/<id>.txt`: `pdftotext -layout` output. Scanned agreements have little or no text here
+- `ocr/<id>.txt`: Tesseract OCR of the scanned agreements (`text_status` of `no_text` or `low_text`), one form feed between pages. OCR makes mistakes, so check a quote against the PDF before using it. `ocr_words` in `agreements.csv` is the word count of this file, empty when no OCR was run on the current PDF
 - `agreements.csv`: one row per record, with OPM's fields, the file's SHA-256, page and word counts, text status, and a first-pass flag for termination under the executive orders that removed agencies from collective bargaining. `in_current_listing` is `False` for a record OPM has since taken off its listing; its row and files are kept
 
 The flags, their sources, the scripts and the counts are documented at [github.com/abigailhaddad/opm-cba-archive](https://github.com/abigailhaddad/opm-cba-archive). The flags are leads to check, not findings.
